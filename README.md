@@ -180,6 +180,7 @@ streamlit run dashboard.py
 ### Deployment
 
 - **GitHub repo:** https://github.com/alexcacciamani/stetzer-knowledge-base (public)
+- **Live URL:** https://stetzer-knowledge-base-9jkfvhst3b6wn9xmuckftw.streamlit.app
 - **Hosted at:** Streamlit Community Cloud
 - **Password:** set via `APP_PASSWORD` secret
 - **API key:** set via `ANTHROPIC_API_KEY` secret in Streamlit Cloud dashboard
