@@ -1,0 +1,79 @@
+{
+  "date": "2025-05-22",
+  "title": "Open Workshop: Trade Management, Competitive Bidding, Construction Details, and Building Science",
+  "session_type": "open_workshop",
+  "summary": "Participants brought a wide range of practical questions covering wall-mounted faucet plumbing solutions, managing trade payments and retainers, navigating competitive bid situations, contract approaches, building envelope products, and design technology tools. Erin shared frameworks for front-loading certainty in budgets, qualifying clients before investing pricing time, and building relationship-based practices that reduce the need for formal contracts.",
+  "teachings": [
+    {
+      "concept": "Front-Loading Punch Work in Trade Bids",
+      "explanation": "Rather than treating punch work as an unexpected cost or contingency, Erin builds a separate line item for punch work hours directly into the original trade bid. This eliminates end-of-project disputes and ensures trades are compensated for return visits without it coming out of the builder's pocket.",
+      "quote": "We'll actually have a line item for hours of punch work, also in the quote, in the bid. Because we know we're going to need them back. And, you know, I was paying out of pocket so many years, because I didn't plan on that."
+    },
+    {
+      "concept": "Percent Certainty Column in Conceptual Budgets",
+      "explanation": "Alongside each cost code in a budget, Erin includes a column indicating how certain the team is about that number and what outstanding information is needed to increase certainty. This forces thorough research upfront and builds credibility with clients by showing exactly where unknowns exist.",
+      "quote": "Each cost code, there's a column that says, how certain are we about this number? So it's not just the budget. It's not just the drywall cost. It's, I've had lots of conversations with the drywall person... and we're 90% certain that this is the price. The 10% is, we're not sure if you're using linear slot diffusers."
+    },
+    {
+      "concept": "Requiring Client Commitment Before Investing in Pricing",
+      "explanation": "Erin does not produce detailed pricing until a client has verbally confirmed they are nearly certain they want to work with her. This protects time investment and signals that her services are exclusive and valuable, which clients respond to positively.",
+      "quote": "Are you if you're 99% sure that I'm your builder? Then my next step is to start putting pricing together for you. But you need to tell me that... I need to know that because I invest a lot of time in my clients."
+    },
+    {
+      "concept": "In-Person Client Qualification Before Any Pricing",
+      "explanation": "Erin requires meeting clients face-to-face and walking them through a previously built home before beginning any pricing or feasibility work. This surfaces fit issues early, builds emotional connection, and gives clients a reason to choose her over competitors who skip this step.",
+      "quote": "I literally don't do any pricing unless I meet the clients in person. I make them walk through a home that we've built before I spend any time, even with a feasibility study."
+    },
+    {
+      "concept": "Saying No as a Strategic Business Tool",
+      "explanation": "Erin frames the ability to decline projects and clients as a critical lever for growing into higher-value work. Staying selective and clear on ideal clients creates word-of-mouth referrals and positions the builder as premium rather than available to anyone.",
+      "quote": "The answer no is a really powerful answer. And unless we take that jump... we're very clear on who we work with. This is how we serve others. Nobody else can even do like, they're not doing this. Boom, boom, boom, boom, boom. And clients arrive, like when that word gets out, they find you."
+    },
+    {
+      "concept": "Relationship-Based Practice Over Contractual Enforcement",
+      "explanation": "Erin described operating largely on trust and handshake agreements rather than heavy reliance on contracts, emphasizing that deep personal service and reliability creates stronger client loyalty than legal documents, particularly with cash-paying clients.",
+      "quote": "Half the projects we're on don't even have a contract. Because we... I know it's crazy, but it's a comfort level that this is a handshake. You can call me in Costa Rica if there's a problem. I'm here for you, period."
+    },
+    {
+      "concept": "Separating Lists to Create Project Closure",
+      "explanation": "On projects with difficult or high-maintenance clients, Erin creates a clear distinction between the active punch list and additional items added later, addressing them sequentially rather than simultaneously. This prevents scope creep and gives clients and the team clarity on what is being resolved now versus later.",
+      "quote": "We would have the list we're working on. And then, these are the list that, when we finish this other list, these were added, these were changed... We'll address this list later on, but that's over here. Right now, we're on this list."
+    },
+    {
+      "concept": "Using Specialty Consultants to Stay Current on Fast-Moving Products",
+      "explanation": "Rather than trying to track rapidly evolving product categories independently, Erin delegates that research to specialist consultants such as lighting designers, who bring the latest products and innovations. Some, like Visual Comfort, credit back design fees when their products are purchased.",
+      "quote": "The lighting company did the research. They bring all the whiz bang stuff in. So that's the way I would speed that up."
+    }
+  ],
+  "actionable_advice": [
+    "For wall-mounted faucets, run shutoff valves to a hidden location such as the back of a floating vanity cabinet or behind an adjacent wall partition rather than cutting an access panel into a finished living space like a dining room.",
+    "Include a punch work hours line item in every trade bid upfront so return visits at project end are already budgeted and agreed upon rather than disputed.",
+    "Set a consistent pay schedule for trades such as paying every Friday for invoices received by Wednesday and communicate this system clearly so trades trust and are motivated by it.",
+    "Use the conceptual budget with a percent certainty column for each cost code, noting what information is still needed to increase confidence in the number.",
+    "Do not invest significant pricing time on a competitive bid project without first meeting the client in person and walking them through a completed home.",
+    "When working with architects who bring you projects, insist on meeting the end client directly rather than letting the architect control the relationship and the process.",
+    "For design and pricing services, charge between $1 and $5 per square foot as a rule of thumb depending on project size and complexity rather than underpricing to win construction contracts.",
+    "Consider using AIA contracts over home builder association contracts because they are written to be fair to all parties including clients and include architect review of draws.",
+    "Use a lighting consultant on every project so you stay current on new lighting technology without having to personally research it, and explore programs like Visual Comfort that credit design fees back upon product purchase.",
+    "Consult a building science consultant on higher-end projects to get a proper moisture management prescription before choosing between Zip, Tyvek, or other sheathing products rather than defaulting to one without context.",
+    "Explore design software tools with web clipping capability such as MyDoma to automatically populate FF&E schedules with product data, SKUs, and images rather than entering information manually."
+  ],
+  "client_challenges": [
+    "A participant had never done a wall-mounted faucet before and their GC wanted to put an access panel into a wallpapered dining room, which felt wrong but they needed an alternative solution.",
+    "A participant was holding back $2,000 from a drywall trade who kept demanding payment before finishing punch work and a garage, and needed guidance on how to handle end-of-project trade payments and retainers.",
+    "A participant was being brought into a competitive bid situation by an outside architect, which conflicted with their normal non-competitive model and they were unsure how much time to invest and what process to follow.",
+    "A participant lost a $2 million project after signing a pre-construction contract because an architect provided inadequate drawings, became defensive when the builder asked for better information, and the client sided with the architect.",
+    "A participant was repeatedly going over budget on paint because painters kept returning to touch up, and was trying to help a fixed-price contractor manage this cost overrun problem.",
+    "A participant was struggling to close out a project because clients were holding back $100,000 of a draw due to a window issue worth only $1,900 in parts, conflating unresolved items with payment obligations.",
+    "A participant was unsure which wall sheathing product to specify between Zip and Tyvek after hearing conflicting arguments from other builders without resolution.",
+    "A participant was finding it difficult to keep up with rapidly evolving building products and technology, and was also looking for automated FF&E scheduling tools that could pull product data from the web."
+  ],
+  "notable_quotes": [
+    "On saying no to projects: 'The answer no is a really powerful answer. And unless we take that jump... clients arrive, like when that word gets out, they find you.'",
+    "On the $2-3 million project client: 'Don't repeat this, okay? It's the hardest client on the planet. And it's the hardest space to be because there's an illusion that they can roll up in J.K. Rawlings yacht over there and they can't.'",
+    "On contracts: 'Half the projects we're on don't even have a contract. You can call me in Costa Rica if there's a problem. I'm here for you, period.'",
+    "On percent certainty budgeting: 'I'm telling you, no one does this. And the minute you sit down and everybody in this should try this because the minute you go through this, you've done... it has forced you to do the research you should have done.'",
+    "On difficult clients: 'Even when we're gone, if they don't even like us, they're still going to miss us because we're accommodating. It's a weird thing. But it happens on every project, whether they like us or not.'",
+    "On pricing lost projects: 'There are plenty of jobs I priced and it took me a ton of hours. I didn't get the project, but I learned a lot. I met new trades. I learned the pricing of Ipe wood... there's so much value I actually got out of it.'"
+  ]
+}

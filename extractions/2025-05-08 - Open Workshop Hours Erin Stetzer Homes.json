@@ -1,0 +1,82 @@
+{
+  "date": "2025-05-08",
+  "title": "Open Workshop: Lien Waivers, Modifications, Scaling, and Systems Operations",
+  "session_type": "open_workshop",
+  "summary": "Participants raised practical questions covering lien waiver processes across different states, managing client fatigue and modification tracking on long custom builds, and how to stay involved as an owner while scaling with project managers. Erin also addressed pricing with incomplete plan sets, the dangers of over-relying on AI for project communication, and announced plans to fast-track the release of systems and operations content in the Builder's Edge platform.",
+  "teachings": [
+    {
+      "concept": "Lien Waiver Best Practices",
+      "explanation": "Obtaining signed lien releases from subcontractors for payments over a threshold is considered the gold standard in protecting builders and clients. Methods vary by state and company, including physical signatures, mail, DocuSign, or printing the waiver on the back of checks. Having all paperwork documented and accessible builds trust and creates a clean paper trail.",
+      "quote": "We have a Dropbox link. We can just send you everything we've paid, and we have the lien releases, and it's just easy."
+    },
+    {
+      "concept": "Renaming Change Orders to Modifications",
+      "explanation": "Calling field changes 'modifications' instead of 'change orders' reduces the psychological friction clients feel. The word 'modification' more accurately describes what is happening and opens a process conversation rather than triggering a defensive reaction from homeowners.",
+      "quote": "We've been practicing changing that word from change orders because that's the dreaded psychological bat that people get hit on the head with when you say change order. Homeowners just are like, ugh. So modifications is really what's happening in the field. And it's so much softer."
+    },
+    {
+      "concept": "Construction Is 95% Psychology",
+      "explanation": "Understanding clients' emotional and psychological needs throughout a project is as important as the physical construction work. Proactive communication, real-time billing of extras, and keeping final costs close to the original contract price all reduce client stress and project fatigue.",
+      "quote": "I think psychologically that makes them feel better, even though they've spent 60,000 more, if they can relate to this is your original contract price. And this is how close we got to it without all your adds... I think 95% of this job is psychology."
+    },
+    {
+      "concept": "Owner-Level Project Management Through Internal Communication",
+      "explanation": "As a company scales, owners can stay deeply involved without being on every job site by requiring project managers to post daily videos and photos, sharing them via a shared iCloud or similar tool. This allows the owner to monitor progress, catch issues, and respond quickly without being physically present.",
+      "quote": "Although I'm not on site with them, I'm in the game. Because I've been doing this a while, I can pick up my phone and they're recording... I can tell in an email when a client is elevated. I don't need to be at job sites to understand this."
+    },
+    {
+      "concept": "Project Manager Scorecards Set Expectations",
+      "explanation": "Defining clear scorecards for project managers establishes what is expected of them and empowers them to operate as owners within the system. When PMs run budgets, meetings, modifications, and client communication independently, the owner's oversight becomes strategic rather than operational.",
+      "quote": "I fully expect them to act as if they're owners. So they run the budgets, they run the meetings, they run everything. They run the modifications, all of the systems."
+    },
+    {
+      "concept": "Operations and Systems as the True Sales Engine",
+      "explanation": "Exceptional operational performance—great communication, reliable systems, outstanding client experiences—generates referrals and repeat business more effectively than traditional networking or marketing. Architects and designers who see great work become unprompted advocates who sell on your behalf.",
+      "quote": "You don't have to sell anything. They're in the next meeting with a client that came to them and they're saying, well, wait a minute, Jennifer would be a great fit for this project. They're selling. That's because of these systems."
+    },
+    {
+      "concept": "Pricing with Incomplete Plan Sets Requires Historical Context",
+      "explanation": "When presenting pricing based on preliminary or pricing-set plans, builders should share real historical examples of how numbers changed from estimate to final to set accurate expectations. Involving the architect and designer in the pricing presentation ensures everyone understands the gaps and the process.",
+      "quote": "I would definitely have examples of how numbers change. So if we're 50% certain on something, the way you see this playing out historically, I would give historical data."
+    },
+    {
+      "concept": "AI Note-Taking Creates a False Sense of Project Control",
+      "explanation": "Relying on AI apps to take and distribute meeting notes can cause teams to stop actively listening, stop closing loops, and fail to assign specific ownership of action items. This leads to project deterioration even when people believe communication is happening.",
+      "quote": "Don't fall into the trap of this AI stuff doing all of your work for you and thinking for you. Because a month from now, I watched it in three months go from thinking that AI notes are taking care of everything to now this project is really in bad shape."
+    },
+    {
+      "concept": "Four-Week Rolling Calendar in Weekly Client Reports",
+      "explanation": "Sending clients a four-week look-ahead schedule alongside the weekly project report gives them enough forward visibility to feel confident without overcommitting to projections too far out. Two weeks feels too short and three months is too speculative; four weeks hits the right balance.",
+      "quote": "The four weeks is enough to give people closure on the details. Like they feel that things are getting done and they know they're getting done. But it doesn't extend to where we're not hitting our marks."
+    }
+  ],
+  "actionable_advice": [
+    "Obtain signed lien releases from all subcontractors for payments over $5,000, whether by mail, in-person, or check endorsement, and store them in a centralized, accessible location like Dropbox.",
+    "Rename 'change orders' to 'modifications' in all client-facing communication to reduce psychological resistance and frame the conversation as a natural part of the building process.",
+    "Build a modification tracking spreadsheet and a client-facing modification sheet that requires client sign-off before budget updates are made and payments processed.",
+    "Require project managers to post daily videos and photos to a shared iCloud folder so the owner can stay informed without being physically present on every job site.",
+    "Create scorecards for project managers that define exactly what is expected of them operationally, empowering them to run budgets, meetings, and client communication as if they were owners.",
+    "When presenting pricing from incomplete plan sets, prepare real historical examples of how costs evolved from estimate to final to proactively set client expectations.",
+    "Use a four-week rolling calendar snapshot as part of every weekly client report to give forward visibility without overcommitting to long-range projections.",
+    "Do not rely on AI note-taking apps as the sole record of meeting decisions; always verify AI notes against personal notes and ensure specific ownership, action items, and deadlines are clearly assigned.",
+    "As the business owner, ensure that you are the one who creates all shared iCloud folders and Google Drive folders so that ownership and access control remain with the company, not individual employees.",
+    "Front-load systems and operations content in the Builder's Edge platform so participants can begin using templates and frameworks immediately rather than waiting for a slow release schedule."
+  ],
+  "client_challenges": [
+    "How to manage lien waiver collection efficiently when payments are made via ACH rather than physical check, and whether DocuSign is an acceptable method.",
+    "Struggling to maintain motivation and a positive relationship with clients toward the end of long, expensive custom builds when emotional fatigue sets in for both parties.",
+    "Tracking client modifications throughout a long custom build project, especially when acting as a one-person operation managing both construction and design coordination.",
+    "Understanding what operations and construction content will be available in the Builder's Edge playbook and when it will be released.",
+    "How to stay personally involved in projects and maintain the client relationship while scaling to multiple project managers and 10-12 concurrent jobs.",
+    "How to present pricing confidently and accurately when working from a pricing set of plans rather than a complete construction document set, especially when the gap between early and final estimates can be significant.",
+    "How to share construction knowledge and regional building techniques across the group, given that practices vary significantly by state and market."
+  ],
+  "notable_quotes": [
+    "On AI reliance: 'Don't fall into the trap of this AI stuff doing all of your work for you and thinking for you. Because a month from now, I watched it in three months go from thinking that AI notes are taking care of everything to now this project is really in bad shape.'",
+    "On client psychology: 'I think 95% of this job is psychology and really understanding who your clients are and what their needs are so you can meet those through the project so they don't get too needy through the process.'",
+    "On never letting off the gas as an owner: 'There's no vacation land. It's how can I be more efficient knowing what I know now.'",
+    "On operations as the real sales tool: 'I didn't know anybody in Houston. There are six million people in Houston. I didn't know anybody. Not one person. The bread and butter of all of this is in operations and that's the selling part.'",
+    "On authentic client communication during uncertain pricing: 'Just be you, however you operate and think. If it's practicing being something else or someone else, it doesn't resonate with people because they ultimately want to know you really care because you do.'",
+    "On weekly reports: 'My only goal in weekly reports is to not get a phone call or an email because I didn't explain something well.'"
+  ]
+}

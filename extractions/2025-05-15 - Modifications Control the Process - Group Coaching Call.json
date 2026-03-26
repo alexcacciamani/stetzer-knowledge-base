@@ -1,0 +1,78 @@
+{
+  "date": "2025-05-15",
+  "title": "Modifications Control the Process – Tracking Changes and Budget Management",
+  "session_type": "group_coaching",
+  "summary": "Erin Stetzer led a session focused on how her company manages project modifications (change orders), including a framework called the 'Diamond of Why' that categorizes the four main reasons changes occur on a job site. The session included a live walkthrough of her modifications tracking spreadsheet and budget versus actual tool, along with a rich peer discussion on billing practices, client communication, and managing information flow with architects and designers. Participants also shared wins and raised real challenges around pre-construction pricing, architect coordination, and getting paid for design work.",
+  "teachings": [
+    {
+      "concept": "Rebranding 'Change Orders' as 'Modifications'",
+      "explanation": "The word 'change order' carries a negative connotation that can alarm clients. Renaming changes to 'modifications' normalizes the process, reduces client anxiety, and frames adjustments as a natural and expected part of any handmade construction project.",
+      "quote": "Change orders has a huge negative connotation. Like people like, as soon as they hear changes, change order. And so maybe a year or two or three ago, we just said, hey, we're just going to call this modifications to a project. And it's just an obvious thing that happens that is a less scary word."
+    },
+    {
+      "concept": "The Diamond of Why – Four Categories of Modifications",
+      "explanation": "Erin uses a framework called the 'Diamond of Why' to categorize why modifications happen: (1) something was added or deleted, (2) a design element won't work in the field as drawn, (3) a detail wasn't fully developed yet at the time of budgeting, and (4) external/physical forces like weather, market conditions, or unforeseen site conditions. Documenting the 'why' behind every modification helps owners, project managers, and clients understand and accept changes.",
+      "quote": "The biggest thing is talking about why things happen. So any owner, project manager, money manager, everybody sees it that we start one path and now we're on a different path."
+    },
+    {
+      "concept": "Modifications Must Cross the Owner's Desk",
+      "explanation": "Every modification should be reviewed by the company owner before being sent to the client. This ensures the company is not sending modifications that may be internally questionable, ambiguous, or the result of the builder's own error rather than a legitimate client-facing change.",
+      "quote": "One of the systems for us in modifications is that that particular modification has to go across my desk. So it can't just go straight to the client because I want to understand the situation really."
+    },
+    {
+      "concept": "Pending Change Order Reporting",
+      "explanation": "Beyond tracking approved modifications, builders should maintain a running list of pending or potential modifications and share that with clients at regular intervals (e.g., every two weeks at OAC meetings). This gives clients a projected total including uncommitted decisions, empowering them to make informed choices throughout the project.",
+      "quote": "We want our clients to know there's $300,000 or $80,000 of potential change orders in the pipeline. And that's added on to their running budget so that they know... that pending change order could be hundreds of thousands of dollars on a big job."
+    },
+    {
+      "concept": "Percent Complete Money vs. Percent Complete Construction",
+      "explanation": "Payments to the project should track closely with the physical progress of construction. Overpaying too fast creates financial exposure; keeping the two percentages aligned is a healthy discipline that protects both the builder and the client.",
+      "quote": "The percent complete money-wise needs to hover close to the percent complete construction. So we don't want to overpay people too fast. And this is a good way for us to relate money to construction."
+    },
+    {
+      "concept": "Contingency as a Buffer for Estimating Errors and Minor Incidents",
+      "explanation": "Rather than issuing modifications for small estimating errors or minor job site incidents, builders should maintain a contingency budget that absorbs these costs. This avoids damaging subcontractor relationships through back-charging and reduces the administrative burden of small change orders.",
+      "quote": "Our contingency is for estimating errors because we're going to be some stuff we leave out or we miss. And we'd rather pull that out of contingency than make that into a whole modification."
+    },
+    {
+      "concept": "Lean Project Management Model – PM Owns Their Project",
+      "explanation": "Erin runs a lean team where project managers are treated like they own their own company and carry full responsibility for their projects. This reduces communication layers and execution errors that arise when multiple people are involved in getting something done.",
+      "quote": "The model that works for us is one or you can carry one or two homes, but you're all in on this. Like this is your business... a lot of the issues stem from there are three layers of people just to get something done."
+    },
+    {
+      "concept": "Pre-Construction Selection and Pricing Alignment",
+      "explanation": "Erin's team uses a subcontractor pricing guide early in the project to align with designers and architects on finish levels and costs before construction begins. Establishing checkpoints around expected documentation (e.g., tile type, edge profile, grout) prevents fire drills during construction.",
+      "quote": "We have this big subcontractor pricing guide that we go through with all the... for every single piece of tile. Tell me for that shower, is this $10 a square foot or $20 a square foot? We literally go through all of that and then we price it out."
+    }
+  ],
+  "actionable_advice": [
+    "Rename 'change orders' to 'modifications' in all client-facing communication to reduce anxiety and normalize the process.",
+    "Use the Diamond of Why framework to document the reason behind every modification in a notes column on your tracking spreadsheet.",
+    "Require all modifications to be reviewed by the company owner before they are sent to the client.",
+    "Add a 'pending modifications' column or separate model to your budget tracking so clients can see potential cost impacts before they are approved.",
+    "Send a pending change order report to clients at every OAC meeting (at minimum every two weeks) so they always know their projected total.",
+    "Bill only for work that is complete — never bill ahead of construction progress — and ensure percent complete (financial) tracks with percent complete (construction).",
+    "Use a subcontractor pricing guide during pre-construction to align with designers and architects on finish levels and pricing ranges before construction begins.",
+    "Establish documentation checkpoints with architects and designers at the start of a project to define who is responsible for delivering what information and when.",
+    "If you are doing significant pre-construction pricing work with no guarantee of being hired, charge a deliverable fee (flat or hourly) to cover that time, and specify the number of revisions included.",
+    "Start group coaching calls with participants sharing a win before asking a question, to encourage accountability and mutual learning.",
+    "Use the new Group Construction Log in the Circle platform to share best practices, post questions by trade category, and practice creating social media content."
+  ],
+  "client_challenges": [
+    "A participant (Denise) is working with a client's independent architect who refuses to provide adequate drawings for pricing, saying he won't do more work until he knows if the project is in budget — creating a circular standoff.",
+    "A participant (Brooke) is doing significant pre-construction design and selection work — including selecting hard and soft finishes — without being compensated, and wants to know how to structure payment for that phase.",
+    "David shared that his market involves architects who deliver incomplete plan sets, forcing his team to carry heavy pre-construction and ongoing coordination burdens that are difficult to budget for.",
+    "A participant noted challenges integrating BuilderTrend with QuickBooks and had to add a separate accounting tool (Adaptive) as a workaround.",
+    "A participant asked how to handle small job site incidents (like a tool belt scratching a freshly painted stair rail) without getting into a cycle of back-charging subcontractors.",
+    "A participant asked when modification overages should be billed — immediately upon completion or bundled into regular billing cycles.",
+    "A participant working on projects under $1 million asked how to apply the same systems and client-level conversations used for multi-million dollar homes to a smaller market."
+  ],
+  "notable_quotes": [
+    "On handling estimating errors internally: 'I'm paying for a $7,000 mistake that I made on a house because the brick was adhered under-adhered to steel... did I know there was going to be moisture build up there? No, but you know what, a part of me was like, I should have asked better questions. And so that's on me.'",
+    "On back-charging subcontractors: 'We don't want to get into that game of back charging. Cause that's a dead end for relationships.'",
+    "On client mindset at different price points: 'We had a client one time who was like, well, try this. If that doesn't work, try it again, try it again. A hundred thousand dollars later on one detail, like he's happy. That won't happen in a two to $5 million home.'",
+    "On refusing to proceed without adequate plans: 'I'm not comfortable sending a modification to the client... or I'm not a fit. Like I will not operate like this. And I will say people respect that — that's a professional decision.'",
+    "On being a lean company: 'Builders are not technology people. It's not the language generally that we speak. So I want them talking to plumbers, talking to electricians, solving problems.'",
+    "On business development: 'We do all this marketing, but most of our jobs just come from those random, like, oh, you know, you're a friend of someone we worked for. And that's where we get like 80% of our work. That's really good. And it was one phone call.'"
+  ]
+}

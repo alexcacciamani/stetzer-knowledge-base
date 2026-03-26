@@ -1,0 +1,18 @@
+# Secrets — never commit
+.streamlit/secrets.toml
+
+# Generated query outputs (ephemeral on Streamlit Cloud)
+queries/
+
+# Raw transcripts (large, not needed for the app)
+../Transcripts/
+
+# CLI scripts (not needed for dashboard deployment)
+extract.py
+build_kb.py
+query.py
+
+# Python
+__pycache__/
+*.pyc
+.env

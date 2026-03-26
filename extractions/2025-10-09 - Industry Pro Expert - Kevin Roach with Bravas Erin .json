@@ -1,0 +1,75 @@
+{
+  "date": "2025-10-09",
+  "title": "Industry Expert Session: Smart Home Technology with Kevin Roach of Bravas",
+  "session_type": "guest_speaker",
+  "summary": "Erin Stetzer hosted Kevin Roach, CEO of Bravas (the largest national home technology integrator in the US), for an expert session on smart home technology trends. Kevin covered advanced lighting design, tunable and intelligent LED lighting, invisible speakers, smart energy management, battery storage, and solar integration. Participants asked questions about retrofitting older homes, working in Canada and Mexico, and how to find qualified professionals to implement these systems.",
+  "teachings": [
+    {
+      "concept": "Layered Lighting Design",
+      "explanation": "Good lighting design goes beyond basic permit-set plans by layering task lighting, ambient lighting, art lighting, and decorative fixtures to create livable, intentional spaces. Each layer serves a purpose and can be controlled independently to set the right mood or function for any occasion.",
+      "quote": "You can hit a dining button and have that entire space light up exactly the way it needs to be. The chandelier goes not to 80% or 70%, but it goes to 57% because that's the right amount of light."
+    },
+    {
+      "concept": "Tunable Lighting and Circadian Wellness",
+      "explanation": "Modern LED fixtures can replicate the arc of the sun throughout the day, adjusting color temperature and blue light levels to support human productivity and sleep. This technology, exemplified by Ketra, allows homes to support the body's natural rhythms by being warm and amber in the morning and evening, and cooler and bluer at midday.",
+      "quote": "That moment in time where we see the most productive part of our day is actually filled with the most blue light of the day. And so that makes us productive at what we do."
+    },
+    {
+      "concept": "Digital Addressability in Lighting Reduces Wiring Complexity",
+      "explanation": "Digitally addressed fixtures like Ketra can be daisy-chained fixture to fixture on a single 20-amp circuit rather than running separate Romex circuits back to a central panel. This reduces material costs, labor, and electrical complexity while maintaining independent control of each fixture.",
+      "quote": "Instead of having to run all that electrical wire back to a point, back to a point, back to a point, what you can do is you can now start going fixture to fixture to fixture to fixture, and they are digitally addressed."
+    },
+    {
+      "concept": "Distributed Audio Design Mirrors Lighting Design",
+      "explanation": "Just as lighting is distributed evenly across a space with multiple smaller fixtures, audio should be distributed with more, smaller, strategically placed speakers rather than fewer large ones. This creates a uniform listening experience without hot spots or dead zones.",
+      "quote": "More, not necessarily more expensive speakers, oftentimes less expensive speakers that are placed appropriately in a room, similar to how lighting works, helps to create a more seamless environment."
+    },
+    {
+      "concept": "Invisible Speakers",
+      "explanation": "Invisible speakers (e.g., by Sonance) are installed during rough-in and can be fully covered with tape, float, paint, plaster, or wallpaper, making them completely hidden. They offer a 140-degree dispersion rate versus a typical 60-degree cone, requiring fewer units to achieve uniform coverage.",
+      "quote": "You can take an invisible speaker, it goes in at the rough end stage of when all the wiring is going in. You can tape and float around it, and actually paint, plaster, wallpaper... and they sound unbelievable."
+    },
+    {
+      "concept": "Smart Energy Management and Power Resiliency",
+      "explanation": "Intelligent breaker panels can monitor home power consumption in real time, automatically shed non-essential loads during peak rate periods, and integrate grid power, solar, and battery storage. This system can anticipate weather events, protect appliances from dirty power, and extend battery life during outages.",
+      "quote": "It's watching weather patterns. And so it knows, hey, there's a storm that's coming into the Gulf. Let's store the batteries and make sure they are fully charged up and ready to go so that if we do lose power, we've got more time saved."
+    },
+    {
+      "concept": "Clean Power via Battery Storage",
+      "explanation": "Batteries don't just provide backup power—they also condition incoming power. The grid delivers fluctuating voltage, which is damaging to microchip-based appliances and devices. Batteries absorb dirty power and output a clean, steady 120V/60Hz sine wave, protecting every device in the home.",
+      "quote": "That battery is outputting perfect 60 hertz, 120 volt power going into your home. It's just a much more stable, safe way to protect the devices and the things that are in your home. And it's not just a surge protector."
+    },
+    {
+      "concept": "Technology Planning Must Start Before Foundation",
+      "explanation": "Energy infrastructure decisions—solar panel roof framing, battery storage location, smart panel sizing, electrical design—must be made at the very beginning of the build process. Waiting until later limits options and creates costly retrofit situations.",
+      "quote": "I would say before you've even poured foundation, to make sure that you've got all that stuff going together. Because otherwise, you're going to find yourself on the back end of it, and you're going to be working on trying to catch up on things."
+    }
+  ],
+  "actionable_advice": [
+    "Engage a lighting designer or technology consultant like Bravas at the very start of a project—before foundation is poured—to plan lighting, audio, and energy infrastructure correctly from the outset.",
+    "Look up Sonance invisible speakers on their website to familiarize yourself with the technology and consider specifying them for high-end builds and remodels.",
+    "Explore tunable lighting products like Ketra (by Lutron), USAI, DMF, and Rania as upgrades to standard LED recessed lighting for luxury projects.",
+    "Present smart energy management and battery storage options to clients early in the design process, asking about their lifestyle goals (e.g., how many days of backup power they want) to right-size the system.",
+    "When working with advanced lighting systems, understand the trade-off: digitally addressable fixtures cost more per unit but eliminate expensive backend dimming panels and reduce electrical labor and material costs.",
+    "For remodel projects, do not assume modern technology cannot be retrofitted—Ketra lighting, lighting controls, and invisible speakers are all designed to be installed in existing homes.",
+    "Partner with both a skilled technology integrator and a skilled electrician on energy and lighting projects, as both disciplines are needed and neither alone can fully execute these systems.",
+    "Contact Bravas directly if you are struggling to get answers from manufacturers or local integrators about retrofitting or integrating modern smart home systems.",
+    "Align yourself with true experts in each trade rather than trying to know everything yourself, and continuously educate yourself on emerging technologies to better serve your clients."
+  ],
+  "client_challenges": [
+    "David (Boulder, CO) asked whether intelligent breaker panels are mandatory when mixing power sources like PV solar, generators, and battery backup, and who is qualified to design and install these systems for someone new to it.",
+    "Renee (remodeler) raised the challenge of integrating new smart home technology into luxury remodel projects, including incompatibility with older systems that were top-of-the-line 20-25 years ago and difficulty getting clear answers from manufacturers about retrofit options.",
+    "Steven (Canada) asked whether Bravas services Canada and whether consulting-only services are available for builders in markets outside Bravas's installation footprint.",
+    "Rebecca (Monterrey, Mexico) asked about working with Bravas for projects in Mexico and raised the challenge of wireless home automation systems losing functionality when power goes out without a generator or battery backup.",
+    "Rebecca also raised ongoing reliability issues with a Crestron and DALI lighting integration where individual fixtures would drop off the system and need to be manually re-added.",
+    "Multiple participants were unfamiliar with the landscape of technology consultants who can help specify and document smart home systems for their projects, indicating a general knowledge gap in accessing the right professional resources."
+  ],
+  "notable_quotes": [
+    "On the construction industry's slow adoption of technology: 'We have to remember the industry that we're in. It's a dinosaur industry. It moves at a snail's pace. There are very little regulation, if any. And so it is up to us, like, resourcing with the right people.'",
+    "On the technology integration industry's culture: 'My industry is generally full of enthusiasts and not always great business people.'",
+    "On the value of expertise: 'When I look at builders and architects, y'all have to know so many things. You've got to understand waterproofing and roofing materials and trim work. I just know my little thing. There are experts in all of our areas—align yourselves with great contractors, great experts that you work with.'",
+    "On client priorities: 'Time is probably the most important commodity that they have. How do you make family movie night on a Friday night perfect without working every time? How do you unwind with your spouse over a glass of wine, listening to music when you finally get that moment?'",
+    "On the Bravas mission: 'Our goal is to raise and elevate this, not just for the people that we talk with, but ultimately our industry and make this a better thing.'",
+    "On the smart energy future: 'The world with AI, data centers are being built out, there's a fight for power. If we're in this industry, it's a really good idea to start educating ourselves on how to manage this power.'"
+  ]
+}

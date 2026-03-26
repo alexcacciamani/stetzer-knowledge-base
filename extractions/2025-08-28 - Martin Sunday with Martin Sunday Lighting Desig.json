@@ -1,0 +1,82 @@
+{
+  "date": "2025-08-28",
+  "title": "Guest Expert: Martin Sunday on Luxury Lighting Design",
+  "session_type": "guest_speaker",
+  "summary": "Lighting design expert Martin Sunday, founder of a luxury lighting design firm in Houston with over 40 years of experience, joined the Builder's Edge group to walk through modern lighting design principles, technology, and process. The session covered LED advancements, fixture specifications, smart lighting systems like Ketra, layering light for atmosphere, and the importance of bringing a lighting designer in early in the building process. Participants asked questions ranging from pendant lighting trends to shelf lighting, home office zoom lighting, and tall vaulted ceiling solutions.",
+  "teachings": [
+    {
+      "concept": "The Importance of a Detailed Fixture Schedule",
+      "explanation": "Modern LED lighting requires extremely precise specification — a single character error in a 20-character SKU can result in ordering the wrong product. A proper fixture schedule includes manufacturer, lumen output, wattage, switching, dimmer requirements, and quantities, enabling builders to shop independently while minimizing costly errors.",
+      "quote": "We got one letter wrong in the skew and I didn't catch it and it went out to the builder and they ordered 141 recessed cans and he came back to me said how is this square mudden ring going to work with this round can."
+    },
+    {
+      "concept": "Layering Light for Atmosphere and Mood",
+      "explanation": "Good lighting design uses multiple sources at different levels — recessed cans, chandeliers, pendants, sconces, and lamps — that can be independently dimmed to create different scenes and moods. The key insight is that one light source should do the functional work (e.g., recessed cans lighting the table) while decorative fixtures like chandeliers serve as visual anchors dimmed for ambiance.",
+      "quote": "People think the chandelier is lighting the table but it's really not."
+    },
+    {
+      "concept": "Warm Dim Technology",
+      "explanation": "Warm dim fixtures use two sets of chips — one cooler and one warmer — so that as you dim the light it shifts to a warmer, more incandescent-like color, mimicking the behavior of traditional bulbs. The tradeoff is reduced maximum lumen output, making them unsuitable for very high ceilings but excellent for residential spaces with 9-12 foot ceilings.",
+      "quote": "Warm dim is like half of them are like 22 and half of them are like 35 and so when it dims down the different chips come on so what happens is you've got half the lumen output."
+    },
+    {
+      "concept": "Ketra: Human-Centric and Color-Tunable Lighting",
+      "explanation": "Ketra is an advanced LED system that uses multiple chips to dynamically change color temperature throughout the day, mimicking natural light cycles to support human circadian rhythms. Each fixture is individually WiFi-addressable, eliminating traditional switch-leg wiring and reducing installation labor, though programming costs increase. Fixtures run approximately $1,200 each.",
+      "quote": "In the middle of the day it's its brightest bluest color it wakes you up naturally, then as the day goes down it gets more into the oranges and it gets you ready for sleep."
+    },
+    {
+      "concept": "Lighting Should Be Designed Before HVAC and Plumbing",
+      "explanation": "Lighting placement is most effective and symmetrical when the truss system and structural elements are designed around it. HVAC and plumbing should route around the lighting plan, not the reverse. Bringing in a lighting designer at the architectural phase prevents costly compromises and field adjustments.",
+      "quote": "The plumbing and the hvac should always come in second the lighting should be first."
+    },
+    {
+      "concept": "Symmetry as the Foundation of Good Lighting Layout",
+      "explanation": "When recessed cans are placed symmetrically, the brain visually minimizes them and they disappear into the ceiling. A single can out of alignment immediately draws the eye. This is why placement decisions should never be left to electricians in the field.",
+      "quote": "The light goes away when they're all symmetrical the brain kind of like it can almost erase them if there's symmetry but if there's one can that's out of symmetry your eyes going to catch that right away."
+    },
+    {
+      "concept": "Lighting Cost as a Fraction of Construction Budget",
+      "explanation": "Professional lighting design fees represent less than half a percent of total home construction cost, making it one of the highest-value consultants to engage. Yet adoption varies widely by market — in Dallas nearly all luxury homes use lighting designers while in Houston adoption is only 10-15%.",
+      "quote": "Our fee is less than half a percent of the cost of a home. I mean we're really talking about half of a percent of the overall cost of a home."
+    },
+    {
+      "concept": "Art Lighting Should Not Use Warm Dim",
+      "explanation": "While warm dim is ideal for creating cozy residential ambiance, it is inappropriate for art lighting because as the light dims it shifts to a yellow-orange tone that distorts the colors in artwork. Art lights should maintain consistent, accurate color rendering at all brightness levels.",
+      "quote": "The art lights we don't want warm dim on we ended up in Newberry South with some warm dim art lights we had to go back and change the chip because we didn't want that you know it to get yellow it changes the color of the painting."
+    },
+    {
+      "concept": "Cross-Aiming for Face and Desk Lighting",
+      "explanation": "Placing a single recessed can directly above a person at a vanity or desk creates harsh shadows from eye sockets and the nose. The correct approach is two cans cross-aimed from either side, providing even illumination and eliminating unflattering shadows — critical for zoom calls and grooming.",
+      "quote": "For a desk cross aiming it makes it so that you don't do this and you're shadowing whatever you're looking at."
+    }
+  ],
+  "actionable_advice": [
+    "Bring a lighting designer in at the architectural design phase before trusses, HVAC, and plumbing are finalized so that structural elements can route around the lighting plan.",
+    "Use a detailed fixture schedule and spec book for every project that includes manufacturer, SKU, lumen output, wattage, CRI, dimmer type, and quantities — and verify every character of the SKU before ordering.",
+    "Specify mud-in recessed cans wherever budget allows for a cleaner, trimless look that significantly improves the finished aesthetic.",
+    "Use even numbers of pendants over kitchen islands (two or four), never three, and never center one pendant directly over the middle of the island.",
+    "For shelf lighting inside cabinetry, route LED tape in a slim channel at the back of the shelf pointing straight forward rather than angling from behind the style where the light source will be visible.",
+    "Do not use warm dim fixtures for art lighting; reserve warm dim for ambient down lights in living spaces and use standard consistent-color chips for any fixture aimed at artwork.",
+    "Coordinate with the AV and home automation contractor early in the project so lighting control plans, load schedules, and keypad placement are all aligned before rough-in.",
+    "For lit stone countertops or accent surfaces, use LED sheet panels with plexiglass spacers approximately one inch tall so the stone floats above the panel and the individual dots are not visible.",
+    "For vaulted paneled ceilings, use the smallest possible mud-in can to minimize perforation of the ceiling surface, and supplement with cove lighting or architectural sconces that can be painted to match the wall.",
+    "Specify the Lutron Maestro Pro dimmer as a standard because it functions as a universal electronic low-voltage dimmer that works correctly in both three-way and single-pole configurations without the need for multiple dimmer SKUs."
+  ],
+  "client_challenges": [
+    "A participant had LED sheet panels installed on a waterfall island countertop and sections of the lighting failed after a couple of weeks, requiring removal of the stone to investigate — likely caused by connection points coming undone during installation.",
+    "A designer noted that clients expect their interior designer to know everything about lighting, making it difficult to justify the additional cost of bringing in a separate lighting consultant.",
+    "A builder in Boulder asked how to manage the integration between lighting design, AV home automation contractors, and electricians, noting that disconnects between these parties can create project chaos.",
+    "A participant asked about lighting a home office and desk for video calls without creating glare or unflattering shadows.",
+    "A participant asked about how to light cabinetry in a study — specifically whether to angle light from behind the stile or direct it straight back — and how to avoid visible light sources.",
+    "A participant asked about lighting vaulted wood-paneled ceilings on high great rooms where perforating the ceiling with many fixtures is undesirable.",
+    "Martha asked about clean, modern switch options outside of full Lutron panel systems, particularly referencing European brands like Buster and Punch."
+  ],
+  "notable_quotes": [
+    "On the value of lighting design: 'Our fee is less than half a percent of the cost of a home — wouldn't you want good lighting for that small of a cost?'",
+    "On adjusting lights at the end of a job: 'We call it telling their client this is when the magic is going to happen. We've designed this amazing lighting system but until we adjust it it's like a grand piano that you haven't tuned — it doesn't sing.'",
+    "On Ketra and human-centric lighting: 'In the middle of the day it's its brightest bluest color it wakes you up naturally, then as the day goes down it gets more into the oranges and it gets you ready for sleep.'",
+    "On framing projectors for artwork: 'In the Louvre in Paris they have two framing projectors on the Mona Lisa and when you see it it almost looks like it's lit from behind because you're not seeing any light on the wall at all.'",
+    "On lighting symmetry: 'The light goes away when they're all symmetrical — the brain can almost erase them. But if there's one can that's out of symmetry your eye is going to catch that right away.'",
+    "On market adoption of lighting designers: 'In Dallas people building a home over a million dollars they all know to use a lighting designer. In Austin and San Antonio it's about 50 percent. In Houston it's like 10 or 15 — it's really crazy.'"
+  ]
+}

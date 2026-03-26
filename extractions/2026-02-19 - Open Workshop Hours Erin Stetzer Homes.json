@@ -1,0 +1,76 @@
+{
+  "date": "2026-02-19",
+  "title": "Open Workshop: Stain Consistency, Countertop Profiles, Paint Issues, and Hiring PMs",
+  "session_type": "open_workshop",
+  "summary": "This open workshop session covered a range of technical and business challenges brought by participants. Topics included resolving stain inconsistency on white oak cabinets, navigating a countertop edge profile and overhang issue with inset cabinetry, diagnosing paint nail hole blowout caused by humidity changes, handling a missed cost item (antique doors) on a cost-plus project, and structuring compensation and contracts when hiring a first project manager.",
+  "teachings": [
+    {
+      "concept": "Trade Manipulation Through Distraction",
+      "explanation": "When a trade resists accountability for a result, they often introduce a secondary technical explanation to shift the conversation away from the actual problem. Builders should recognize this pattern and refocus the discussion on the agreed-upon outcome rather than the distraction.",
+      "quote": "I think in general, when manipulate, this is how I've seen manipulation happen with trades. You want a result. There's resistance. So there's this other thing created over here to drag you towards it. So it's the sealer, it's the whatever. And now you're over here. And now we're talking about this when we should be talking about what we're actually wanting to resolve."
+    },
+    {
+      "concept": "Stain Grade Work Requires Upfront Cost and Process Clarity",
+      "explanation": "Stain grade finishes are significantly more complex and variable than paint grade. Builders should increase their budgets for stain work to allow for customization, communicate the process and potential inconsistency to clients before work begins, and consider using specialists rather than standard painters.",
+      "quote": "We should absolutely increase our budgets when we have stain to allow for some customization. And we haven't done that."
+    },
+    {
+      "concept": "Step-by-Step Application for Consistent Staining",
+      "explanation": "A skilled painter does not simply layer stain uniformly. They go step by step, micro-adjust between panels, and verify consistency before sealing. This deliberate process is what separates excellent results from inconsistent ones.",
+      "quote": "A really great painter will go step by step, micro adjust, move back and forth. It's never just coated. It's layer, wait, look, seal, wait, look, get the next one."
+    },
+    {
+      "concept": "Call a Time Out with Trades",
+      "explanation": "When a trade is struggling to identify a path forward on a quality issue, the builder should call a clear pause, state what is needed, give the trade time to develop a plan, and set a deadline. If the trade cannot deliver, the builder must be prepared to bring in someone who can.",
+      "quote": "I call time out. I say, this is what we need. You think about this for a day painter. Give it some thought. You make your phone calls. We need a plan and we need to execute it. If you can't do it, let me know."
+    },
+    {
+      "concept": "Contingency Budgets Exist to Cover Human Error and Miscommunication",
+      "explanation": "Contingency line items in a budget are not just for unforeseen construction issues—they cover miscommunications, design changes, and human mistakes that are an inherent part of complex construction projects. When a client removes this line item, the builder must reference that decision when a gap arises.",
+      "quote": "Things like this happen in construction. Miscommunication happens. That's typically why there's a contingency bucket, a miscommunication bucket, a human bucket. And that's why we have it. It was removed. It was removed by you, a homeowner, not me."
+    },
+    {
+      "concept": "You Own the Conversation, Not Necessarily the Cost",
+      "explanation": "When a cost gap arises from miscommunication on a project, the builder's first obligation is to have an honest, structured conversation—not to immediately absorb the financial hit. Rehearsing the conversation with clarity about what happened, who was involved, and what is fair is the right approach before deciding who pays.",
+      "quote": "What you own right now, Ryan, is a conversation. That's what you own. I don't think you own the doors yet."
+    },
+    {
+      "concept": "90-Day Pilot Program for New Project Manager Hires",
+      "explanation": "Rather than immediately offering a full employment contract, start a new project manager on a monthly or bi-weekly fee basis for a 90-day pilot. This allows both parties to assess fit without a long-term commitment, while still establishing a clear future pathway so the candidate understands what success leads to.",
+      "quote": "The immediate next move is a 90-day pilot program. You're not hired yet. 90 days. Let's see if we can get there. In that 90 days, there are things that won't happen, but you're looking for the potential of them learning, wanting to do better, and making it happen."
+    },
+    {
+      "concept": "Providing a Career vs. Per-Project Transactional Arrangements",
+      "explanation": "Paying a project manager per project may feel safer for a builder, but it reflects a fear of commitment rather than a business strategy. Offering a salary, benefits, and a clear career path builds loyalty, reduces turnover risk, and attracts candidates who want long-term stability rather than gig-style work.",
+      "quote": "When I see builders paying a project manager per project, it's only because they're afraid to commit to providing a career for someone, which is what most younger people want. They want a career. They want to know that they have this amount of money coming in."
+    }
+  ],
+  "actionable_advice": [
+    "When a painter delivers inconsistent stain results, call a time out, tell the painter to think for a day, make calls, and come back with a plan—if they cannot deliver, bring in a specialist.",
+    "Consider using a wood flooring specialist or finish coating specialist rather than a standard painter for complex stain and wood tone work.",
+    "Increase budget line items for stain grade work to allow for customization and potential rework; do not price it the same as paint grade.",
+    "Have an upfront conversation with clients before any stain work begins about natural wood variation, inconsistency tolerance, and the added cost of achieving a highly consistent result.",
+    "When facing a cost gap from miscommunication on a cost-plus project, structure and rehearse the conversation clearly before approaching the client—walk through what happened step by step rather than immediately absorbing the cost.",
+    "Always include a contingency line item in every project budget and document when a client chooses to remove it so you can reference that decision if gaps arise later.",
+    "When hiring a project manager, start with a 90-day pilot on a monthly or bi-weekly fee, establish a clear future pathway and compensation target upfront so the candidate has an incentive to perform.",
+    "Before handing a project to painters, have trim carpenters pre-fill and sand all nail holes so painters are not responsible for that prep step.",
+    "When countertop fabricators say a detail cannot be done, push hard or seek a second fabricator opinion before accepting the limitation—especially on lamination width minimums.",
+    "If a designer is purchasing materials directly without builder approval, address the process immediately and require all purchases to go through the builder's allowance and approval system."
+  ],
+  "client_challenges": [
+    "Client rejected stained white oak cabinets after approving the stain sample, claiming the finished color is the builder's fault despite sign-off at multiple stages.",
+    "Countertop fabricator insists the laminated edge profile requires a minimum 1.5-inch overhang, which conflicts with the inset cabinetry design that was built to accommodate only a 0.75-inch cover.",
+    "Nail holes in painted face frame cabinets are pushing back out through the primer and finish coats after humidity in the house dropped to 25-30 percent during a dry winter.",
+    "Five antique doors worth $13,000 were missed in the estimate during a complex design development phase, and the designer purchased them without informing the builder or confirming the budget with the client.",
+    "A promising project manager candidate is coming from a corporate commercial role and has disclosed his current salary, creating uncertainty about how to structure compensation without over-committing before the builder has sufficient project volume.",
+    "Client on a cost-plus contract removed the contingency line item from the budget, leaving no buffer to absorb miscommunication costs."
+  ],
+  "notable_quotes": [
+    "On trade manipulation: 'You want a result. There's resistance. So there's this other thing created over here to drag you towards it. And now we're talking about this when we should be talking about what we're actually wanting to resolve.'",
+    "On holding trades accountable: 'If you show a sample, it all needs to look like that sample.'",
+    "On absorbing costs for miscommunication: 'What you own right now, Ryan, is a conversation. That's what you own. I don't think you own the doors yet.'",
+    "On contingency budgets: 'That's typically why there's a contingency bucket, a miscommunication bucket, a human bucket. It was removed by you, a homeowner, not me.'",
+    "On hiring project managers: 'When I see builders paying a project manager per project, it's only because they're afraid to commit to providing a career for someone.'",
+    "On builder instincts: 'We want to just solve it so fast because we're builders and the fastest way is just to give them the stink eye, cut the check, and be pissed. I don't think we need to do that.'"
+  ]
+}

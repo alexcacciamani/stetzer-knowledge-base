@@ -1,0 +1,86 @@
+{
+  "date": "2025-11-20",
+  "title": "Guest Expert Kelli Little on Construction Financial Systems, Cash Flow, and Project Tracking",
+  "session_type": "guest_speaker",
+  "summary": "Erin Stetzer brought in financial expert Kelli Little, her long-time financial partner, to discuss the systems and processes behind managing construction project finances. The session covered custom budget tracking, change order documentation, cash flow projection, trade invoice management, and how to structure financial roles on a growing team. Participants asked questions about their own challenges including client communication around budget changes, QuickBooks setup, hiring a bookkeeper, and managing financial visibility across multiple projects.",
+  "teachings": [
+    {
+      "concept": "Highly Custom Homes Deserve Highly Custom Budgets",
+      "explanation": "Off-the-shelf software or generic systems are insufficient for custom home building. Because every project is unique, the financial tracking system must be equally tailored, allowing for transparent communication with clients and quick answers to billing questions.",
+      "quote": "A highly custom home deserves a highly custom budget and that's quite frankly what our clients were wanting to see as well."
+    },
+    {
+      "concept": "The Client Scramble and Why Systems Prevent It",
+      "explanation": "Without proper financial systems, builders end up scrambling to explain charges to confused clients, spending days backtracking payments. Building transparent, organized financial systems from the start eliminates this reactive chaos and builds client trust.",
+      "quote": "After a few of those I was like we're not doing this anymore this is ridiculous like we need something set up to where we can just show information in a transparent way explain what's going on quickly where it doesn't take us a week to go and backtrack payments."
+    },
+    {
+      "concept": "Document Every Change, No Matter How Small",
+      "explanation": "Every scope or cost change on a project must be documented immediately, even if informally. Small untracked changes accumulate into significant budget overruns and client disputes. The documentation does not need to be elaborate — a text message or photo is sufficient as long as it is captured.",
+      "quote": "If anything changes you got to document it period. It doesn't have to be fancy it can be on my palm you can shoot me a picture of whatever it is on your palm just get it in her hands."
+    },
+    {
+      "concept": "Capture, Organize, Communicate — The Change Order Methodology",
+      "explanation": "The three-step methodology for managing project changes is: capture the information from the field, organize it into the tracking system, and communicate it to the client consistently. Repeating this loop prevents budget surprises and protects margins.",
+      "quote": "The whole idea was not to make it complicated it was just to capture it organize it and communicate it over and over and over and over again that's the methodology."
+    },
+    {
+      "concept": "Monitoring Trade Invoice Stages Against Percent Complete",
+      "explanation": "Tracking trade invoices against the agreed payment stages and actual construction completion prevents overbilling. If a trade invoices for a higher percentage than the work completed, the financial manager flags it before payment is made, protecting cash flow and budget integrity.",
+      "quote": "If a plumber's over invoicing she calls time out and says actually our agreement is for 30 percent you sent 50 percent we can pay you 30 percent no problem but I just want to let you know that that's where we are."
+    },
+    {
+      "concept": "Pipeline Spreadsheet for Cash Flow Visibility",
+      "explanation": "Mapping all current and upcoming projects into a month-by-month pipeline spreadsheet lets the financial manager project future cash flow, identify low revenue months in advance, and prompt the builder to pursue additional work proactively before a cash gap occurs.",
+      "quote": "It really helped me understand where the drop-offs were based on the starting and the finishing of different projects and where those low...on certain months where it's light."
+    },
+    {
+      "concept": "Division of Financial and Operational Roles",
+      "explanation": "Builders should not manage both financial tracking and field operations simultaneously. A dedicated financial person — whether a CFO, financial manager, or bookkeeper — absorbs the financial burden so the builder can stay focused on building. As the company grows, the financial role separates further into a strategic CFO layer and a tactical accounts payable layer.",
+      "quote": "She doesn't need to be trying to figure out what charge from a month ago they're confused about that they just figured out was a truck. That's what I should be doing."
+    },
+    {
+      "concept": "Bonuses Based on Profit Margins, Not Revenue",
+      "explanation": "Compensation bonuses for team members should only be introduced once the company has achieved stable, healthy profit margins. Tying bonuses to revenue rather than profitability can reward busyness without rewarding financial health.",
+      "quote": "Bonuses can exist after your company is healthy and stable and it's not based on revenue it's 100 percent based on your profit margins."
+    },
+    {
+      "concept": "Current Financial Position Snapshot Formula",
+      "explanation": "A simple way to understand your current financial health is to calculate: outstanding client draws plus current bank balance minus all outstanding bills. This tells you what cash would remain if the business stopped today, providing a clear and honest picture of financial position.",
+      "quote": "If your business were to shut down tomorrow and you collect whatever draws are outstanding and you add that to your bank account and you cut all of your checks how much cash do you have left and that's your current position."
+    }
+  ],
+  "actionable_advice": [
+    "Have the financial or estimating person present in client budget meetings from day one to answer detailed financial questions, freeing the builder to focus on the project itself.",
+    "Use a spreadsheet that tracks the original base bid, every subsequent change, and cumulative impact so clients always have a clear picture of budget evolution.",
+    "Send clients a future cost projection alongside every draw so upcoming charges are never a surprise.",
+    "Text or message any field change to the financial manager immediately, even informally, so nothing goes undocumented.",
+    "Track trade invoices against agreed payment stages and actual construction completion percentage before approving payment.",
+    "Build a month-by-month pipeline spreadsheet listing all current and upcoming projects with projected revenue per month to identify future cash flow gaps.",
+    "When cash flow projections show a future low period, proactively pursue smaller or remodel projects to fill the gap before it arrives.",
+    "Use QuickBooks Contractor Edition and create product codes that match your budget line items exactly, then run project P&L reports to identify where you are losing money by cost code.",
+    "Hire a dedicated accounts payable person whose sole responsibilities are receiving invoices, entering them into QuickBooks, cutting checks, and issuing client draws — and keep them focused only on those tasks.",
+    "At year end, have your accountant audit all transactions to find miscoded or unassigned expenses and build a correction list.",
+    "If you cannot afford a full-time CFO, explore fractional CFO agencies or recently retired Big Four accounting partners who often do this work.",
+    "Ensure any worker who functions as a full-time employee is classified as W-2, not a 1099 contractor, to avoid IRS issues.",
+    "Watch the cash flow lesson video and download the cash flow spreadsheet templates from the Builder's Edge playbook, specifically noting the separate sections for remodel and new construction projects."
+  ],
+  "client_challenges": [
+    "Clients have short memories about changes they approved months earlier and dispute charges when bills arrive, causing budget scrambles.",
+    "Small change orders feel administratively burdensome but uncollected, they accumulate into significant end-of-project shortfalls and damaged client relationships.",
+    "Builders operating without engineering plans early in a project cannot provide high-certainty budgets, making it difficult to explain cost fluctuations to clients.",
+    "Growing companies with two people handling everything — design, client relations, field oversight, and finances — are hitting capacity limits with 12 or more projects and no bookkeeper.",
+    "Participants are unsure how to structure financial roles and compensation when building out a new team from scratch, including whether to hire a CFO, fractional CFO, or bookkeeper.",
+    "Cost-plus builders struggle to show clients meaningful financial snapshots without overwhelming them with large spreadsheets, while software like BuilderTrend provides data but not always clear communication.",
+    "Small operations handling all finances in spreadsheets without QuickBooks are creating messy records that concern tax accountants and make profitability analysis difficult.",
+    "Companies scaling from three to ten-plus projects need to understand when to add financial staff and how to structure that role without over-hiring."
+  ],
+  "notable_quotes": [
+    "On surviving a financial crisis: 'I sat at her table and I said do I need to look for a job and she said you have six months. You have six months and this is what needs to happen. Go out and do it. Go meet your architects go meet your designers go get new business — and I'm glad I didn't look at the numbers because I would have been looking for a job.'",
+    "On documenting changes: 'It doesn't have to be fancy. You can shoot me a picture of whatever it is on your palm. Just get it in her hands.'",
+    "On the financial manager's role: 'She doesn't need to be trying to figure out what charge from a month ago they're confused about that they just figured out was a truck. That's what I should be doing.'",
+    "On building team trust: 'Just because we're saying it's a handoff and stay in your lane it's very much collaborative — on the phone talking making sure triple checking.'",
+    "On client transparency: 'People just want to feel like they're not getting screwed. The perception in the building world is that something's going on or you're not being honest. People just want to feel like they're being told the truth.'",
+    "On staying in the financial game: 'The hardest part for me was I was so afraid to stay in the game because I didn't know if I'd be in business. But somebody's got to be in the game whether that's you or someone on your team — and then it gets fun. You realize you're going to be okay.'"
+  ]
+}

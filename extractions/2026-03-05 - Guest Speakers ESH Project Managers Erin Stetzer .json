@@ -1,0 +1,83 @@
+{
+  "date": "2026-03-05",
+  "title": "Guest Speakers: ESH Project Managers Panel Q&A",
+  "session_type": "guest_speaker",
+  "summary": "Erin Stetzer hosted a panel featuring her four project managers — Ramsey, Ryan, Taylor, and Aaron — who answered pre-submitted questions from Builder's Edge participants. Topics covered included managing subcontractor schedules, common project challenges, the role of mock-ups, AI tools for PMs, company culture, and documentation best practices. Participants were also able to ask live questions about software, profit sharing, hiring, and employee appreciation.",
+  "teachings": [
+    {
+      "concept": "Relentless Communication as the Core of Sub Management",
+      "explanation": "Staying on top of subcontractors requires persistent, multi-channel outreach — phone calls, emails, and in-person site visits. Texting alone is insufficient; direct, face-to-face or voice communication is necessary to get results. Building personal relationships with subs makes direct confrontation feel respectful rather than adversarial.",
+      "quote": "Staying on top of trades is relentless communication and merciless abuse — with a smile, of course."
+    },
+    {
+      "concept": "Permit Set vs. Construction Set Discrepancy",
+      "explanation": "By the time permits are issued, architects are often fatigued from the revision process, and the permit set may not be fully developed into a construction-ready document. PMs must consciously pause before breaking ground to cross-reference all documents — architectural, structural, civil — to identify gaps or inconsistencies before they become costly field problems.",
+      "quote": "A permit set and a construction set are not always the same... there is this conscientious review prior to moving forward on construction. It's rush rush rush and then it's like whoa, call time out, plan."
+    },
+    {
+      "concept": "Eye-to-Brain Connection as a PM Core Skill",
+      "explanation": "Experienced project managers don't just observe a space — they actively process what they see, immediately identifying problems and determining who needs to be called. This trained observational instinct is what separates PMs from others who can walk through a space without registering deficiencies.",
+      "quote": "You got to connect your eye to your brain... we scan the room, you see the problem, we're thinking about who we need to call. It's that connection."
+    },
+    {
+      "concept": "Designer Documentation: The Subcontractor Pricing Guide",
+      "explanation": "Rather than relying on inspiration books or incomplete finish schedules, ESH uses a detailed subcontractor pricing guide — a comprehensive room-by-room matrix covering up to 20 items per room. This document eliminates ambiguity for subs and accelerates the pricing and execution process by consolidating all finish decisions in one place.",
+      "quote": "A finished schedule, but our subcontractor pricing schedule is like that on steroids. It's more than that."
+    },
+    {
+      "concept": "Mock-Ups as a Trial Opportunity to Fail",
+      "explanation": "Physical field mock-ups — both exterior (roofing, brick, siding) and interior (trim carpentry, tile orientation, custom hoods) — allow subcontractors and designers to test design intent before committing to full execution. They surface coordination issues, clarify design details, and prevent costly rework. Mock-ups should be driven by architect plans but coordinated by the PM with trade input.",
+      "quote": "Mock-ups are tremendously important because it gives the PM and the subcontractors an opportunity to fail based on their interpretation of the plans. It's a trial — a fake one in the lab."
+    },
+    {
+      "concept": "Creating a Safe Environment to Fail",
+      "explanation": "High-performing PM teams require a company culture where mistakes are treated as learning opportunities rather than grounds for punishment. Walking on eggshells out of fear of being fired suppresses performance and growth. The key indicator Erin watches for is whether a team member responds to mistakes with alertness and accountability — not whether mistakes happen at all.",
+      "quote": "The second I see a reaction to a mistake where someone isn't alert to it or isn't caring about it — that alertness and caring, for me, I will forever support. The second that goes away, it's just not a fit for the culture."
+    },
+    {
+      "concept": "Architect Cross-Referencing in Hand-Drawn Sets",
+      "explanation": "Hand-drawn architectural sets require significantly more verification than CAD drawings because perspectives, ceiling plans, and elevations may not be internally consistent. PMs working from such sets must do daily micro-level coordination with trim carpenters, proactively resolve undocumented details, and escalate to the architect using visual aids like videos or 3D models to keep work flowing without freezing trades.",
+      "quote": "To keep my trim carpenters from freezing, I have to every day, multiple times a day, check on them and make sure they're not waiting for an answer."
+    },
+    {
+      "concept": "AI as a Meeting Transcription and Action List Tool",
+      "explanation": "Project managers are using AI transcription tools like Plaud to record long or scattered client meetings and automatically generate action item lists. This is particularly useful in multi-hour walkthroughs where verbal decisions are made rapidly. AI is treated as a tool to support organization, not as a replacement for the PM's voice in written communication to clients.",
+      "quote": "I'll have something recorded and then I'll have AI transcribe it and give me a quick action list... four-hour meetings where we're scatterbrained, and then it gives me two pages of just: here's what we need to do."
+    },
+    {
+      "concept": "Standardized Templates with Collaborative Customization",
+      "explanation": "Using shared, version-controlled Google Sheets templates rather than third-party PM software gives the ESH team the flexibility to adapt documents to their workflow while ensuring consistency across PMs. When one PM covers another's project, shared templates make the handoff seamless. Templates should be collaboratively refined over time rather than siloed by individual PMs.",
+      "quote": "The software is only as good as the person. We have a template section in our files and everybody has to start their projects with those same templates."
+    }
+  ],
+  "actionable_advice": [
+    "When a sub isn't responding to calls or texts, dangle a carrot — tell them you have questions and need them on site — then address the real issue once they show up in person.",
+    "Before breaking ground on any project, do a thorough cross-reference review of permit documents against architectural, structural, and civil sets to identify gaps or details not fully developed for construction.",
+    "Push architects to produce dimensioned, detailed mock-up plans with notes before building field mock-ups; don't try to interpret design intent without that documentation.",
+    "Build interior trim carpentry mock-ups for complex details (custom hoods, cabinet panel reveals, tray ceilings) before executing the full scope to catch issues at a low cost.",
+    "Update and distribute a revised finish schedule document every time a material or finish selection changes — do not rely on verbal updates or handwritten notes on site.",
+    "Use a Plaud or similar recording device during client meetings, then use AI transcription to generate an organized action item list; always inform clients that you are recording.",
+    "When evaluating candidates who previously owned a GC company, investigate the circumstances behind the business closure — a failed company alone is not disqualifying, but red flags in how it failed are important.",
+    "Establish a bonus incentive for PMs who bring in new projects rather than relying solely on salary to reward business development contributions.",
+    "When mistakes occur on a project, focus the team's energy on creative mitigation to minimize the cost impact rather than assigning blame — treat the lessons learned as more valuable than the cost of the mistake.",
+    "Ensure all PMs on the team are using the same standardized project templates so any team member can cover a project without needing a briefing on how the documentation is organized."
+  ],
+  "client_challenges": [
+    "Subcontractors failing to show up on schedule, not responding to texts, or citing weather and competing work as reasons for delays.",
+    "Architectural drawings containing discrepancies between the permit set and what is actually needed to build — gaps that only surface once construction begins.",
+    "Hand-drawn architectural sets that are inconsistent room-to-room (e.g., beam alignments changing between elevations), requiring daily field interpretation and escalation to the architect.",
+    "Designers providing inspiration boards rather than refined finish schedules, leaving PMs and subs without the specific material details needed for pricing and execution.",
+    "Design decisions arriving late — such as slab wrapping jambs, cabinet interior paint color, or tile orientation — discovered on site rather than during planning, causing scheduling and material scrambles.",
+    "Determining how to handle the recording of client meetings in a legally compliant and transparent way, and whether consent to record should be written into the project contract.",
+    "Understanding when and how to use third-party PM software versus custom internal tools, particularly for teams without strong technical/coding capability.",
+    "How project managers should handle the financial and emotional weight of mistakes that result in real cost overruns on a project."
+  ],
+  "notable_quotes": [
+    "On sub management: 'Staying on top of trades is relentless communication and merciless abuse — with a smile, of course.'",
+    "On the PM observational skill: 'You got to connect your eye to your brain. We scan the room, see the problem, and we're already thinking about who to call.'",
+    "On mock-ups: 'It's a trial — an opportunity to fail on a fake one in the lab, so you don't fail on the actual house.'",
+    "On company culture and mistakes: 'The second I see a reaction to a mistake where someone isn't alert to it or caring about it — that alertness, I will forever support. The second that goes away, it's just not a fit for the culture.'",
+    "On PM templates and software: 'The software is only as good as the person.'",
+    "On what great designers do for PMs: 'The easy answer is they give you the information you need. I don't need to track anyone down at the last minute.'"
+  ]
+}

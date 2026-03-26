@@ -1,0 +1,83 @@
+{
+  "date": "2025-04-17",
+  "title": "Subcontractor Pricing Guide Walkthrough",
+  "session_type": "group_coaching",
+  "summary": "Erin Stetzer walked participants through her firm's Subcontractor Pricing Guide, a global finish schedule template used to collect and align project details from architects, designers, and trades before pricing begins. The session covered how to use the document to identify information gaps, avoid pricing surprises, and facilitate team alignment. Participants also asked questions about change order management, client communication, difficult clients, and the internal team structure for handling modifications.",
+  "teachings": [
+    {
+      "concept": "Global Finish Schedule as a Pre-Pricing Tool",
+      "explanation": "Before reaching out to any subcontractors for pricing, Erin's team creates a comprehensive finish schedule that captures all major project details — foundation type, cladding, windows, MEP specifics, interior finishes, and more. The purpose is to identify gaps in information and ensure all trades are working from the same picture of the project, preventing costly surprises later.",
+      "quote": "This worksheet here is a template for the conversations that we have with the architect and the designers prior to reaching out for pricing."
+    },
+    {
+      "concept": "Highlighted Cells as Unresolved Budget Items",
+      "explanation": "Any cell in the pricing guide that remains unanswered is kept highlighted and color-coded. This creates a visual representation of how complete or incomplete the project information is, making it easy to communicate to clients and team members how much more development is needed before a reliable budget can be produced.",
+      "quote": "When when when when we receive an initial pricing set or a conceptual design we want to bring this worksheet to our meeting with our architect and our designer and we want to sit around a table and just say hey I'm trying to fill these pieces in could you help me."
+    },
+    {
+      "concept": "Cross-Trade Impact Awareness",
+      "explanation": "A key discipline in pricing is understanding how one trade's decisions affect other trades. For example, decorative registers affect drywall pricing, trimless lights require level-five finish sheet rockers, and baseboard height affects where electricians place outlets. Capturing these details in a shared document prevents missed scope and budget overruns.",
+      "quote": "The gap in pricing is when we don't provide this information and the painter doesn't know that the doors are stained and then there's a nice little surprise later on."
+    },
+    {
+      "concept": "Builder Controls the Pricing Document",
+      "explanation": "Subcontractors are never given direct input access to the pricing guide. The builder controls all data entry to maintain accuracy and prevent subs from adjusting their prices based on what budget figures they see. Transparency of pricing to clients and the team is handled separately through the budget model.",
+      "quote": "We don't let the subs input anything we control the entire document so that we're in control of the interpretation."
+    },
+    {
+      "concept": "The Modification System for Construction-Phase Changes",
+      "explanation": "Once construction begins, the subcontractor pricing guide is set aside. All changes during construction are managed through a separate modification system: project managers log action items, collect pricing for changes, and escalate to a cross-functional team review before a change order is submitted to the homeowner for approval. Nothing moves forward without documented approval.",
+      "quote": "We take modifications really seriously and I would think we probably have hundreds of modifications if I were to actually go back and take a look at some of the projects."
+    },
+    {
+      "concept": "Role Separation Between Field PMs and Office Pricing Team",
+      "explanation": "Project managers are kept out of the subcontractor pricing guide entirely — they are not brought into a project until construction is about to begin. The pricing document is handled exclusively by the in-office team. This keeps field PMs focused on problem-solving and documentation on site, and pricing specialists focused on budget accuracy.",
+      "quote": "The subcontractor pricing guide we don't even review that with the project manager. We don't even bring the project manager into the project until we're ready."
+    },
+    {
+      "concept": "Go Slow to Go Fast — The Value of Pre-Construction Detail",
+      "explanation": "The thoroughness of the pre-construction pricing and planning process directly reduces the number of uncomfortable conversations, surprises, and cost overruns during construction. By investing time upfront to align all parties on the facts, the builder reduces friction and maintains trust with clients throughout the project.",
+      "quote": "By doing all of this stuff the amount of conversations that are awkward and uncomfortable are reduced from like 90 to 10."
+    },
+    {
+      "concept": "Keeping Client Communication Factual",
+      "explanation": "When dealing with difficult clients or tense situations, the most effective strategy is to strip emotion out and respond with facts. Answering the specific question being asked — even if buried in an emotionally charged email — defuses anxiety and builds trust over time.",
+      "quote": "Whenever you feel like proving your point whenever you feel like they don't know anything they've never done this before just put down the facts."
+    },
+    {
+      "concept": "Budget Respect as a Core Principle",
+      "explanation": "Regardless of a client's wealth, every project budget deserves to be taken seriously. The builder's role is to help the client understand what their budget can realistically achieve, starting with square footage decisions, and to ensure that design and construction choices stay aligned with stated budget constraints.",
+      "quote": "There needs to be respect for the budget. The problems happen when people don't respect people's budget."
+    }
+  ],
+  "actionable_advice": [
+    "Use the subcontractor pricing guide as a pre-pricing alignment tool in meetings with the architect and designer before contacting any subs for bids.",
+    "Keep highlighted cells in the pricing guide for any unresolved items so the team has a visual indicator of how complete the budget information is.",
+    "Lock the spreadsheet when sending it to trades so they can scroll and view but cannot alter any inputted information.",
+    "Print the pricing guide on 11x17 paper or larger construction-set prints for in-person review meetings with the full project team.",
+    "Never let subcontractors input their own pricing data into the document — the builder controls all data entry.",
+    "Send the Google Sheets version to the architect and designer for collaborative input, then switch to a locked Excel version when distributing to trades.",
+    "Have project managers maintain a weekly action items log to document every change or decision that happens in the field.",
+    "Run a weekly team meeting with the project manager, owner, and money manager to review all pending modifications before submitting change orders to the client.",
+    "When budgeting, explicitly tell the client what percentage of the budget is not yet accounted for and why, so cost increases later are not a surprise.",
+    "Do not begin work on a critical-path item (e.g., electrical) until a key decision like lighting control has been resolved, to avoid costly rework."
+  ],
+  "client_challenges": [
+    "A participant asked whether subcontractors should have visibility into the budget figures in the pricing guide, raising concern that subs might inflate prices to match the listed budget.",
+    "A participant in a competitive, lower-budget market described working with low-priced subs who lack margin for mistakes, resulting in costly errors like drywalling before framing inspections.",
+    "A participant asked how to track and communicate the many dependency details (like flush hearths requiring slab drops) that are not typically shown on architectural plans.",
+    "A participant asked how to manage the volume of changes during pricing and planning — including clients changing their minds repeatedly — and ensure the most updated information is used.",
+    "A participant asked whether Erin designs to the client's stated budget or below it to build in contingency for changes and tariffs.",
+    "A participant asked how to handle an electrical scope with 50 change items when the architect does not update the plans to reflect those changes.",
+    "A participant asked whether construction should be stopped for unresolved decisions on critical path items, noting that a client had pushed back against stopping work.",
+    "A participant asked how Erin handles clients who know their timeline is two years but keep making changes that push the schedule out."
+  ],
+  "notable_quotes": [
+    "On the pricing guide's purpose: 'This is not a strategy to win business. It's a strategy to factually inform people out of respect for them and their budget and see if everybody's aligned.'",
+    "On dishonest subcontractors: 'I would not work with that person. I wouldn't work with anyone who's dishonest.'",
+    "On low-priced subs with no margin: 'There's no room for error with this guy.'",
+    "On difficult clients: 'I've had clients do that and I said great, we're going to talk about an exit strategy tomorrow.'",
+    "On the doctor analogy for client communication: 'The amount of conversations that are awkward and uncomfortable are reduced from like 90 to 10. That's what we want to do.'",
+    "On resilience through the 2008 crisis: 'If you're learning and doing and becoming better, things do work out if you really really really want it to work out.'"
+  ]
+}

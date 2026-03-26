@@ -1,0 +1,77 @@
+{
+  "date": "2025-08-14",
+  "title": "AI Tools in Home Building & Design, Project Management Models, and Fixture Procurement",
+  "session_type": "open_workshop",
+  "summary": "This open workshop session centered on how participants are using AI tools like ChatGPT, Notebook LM, and Gemini in their home building and design businesses, covering applications from email drafting and design rendering to estimating and marketing. The group also dove into David's direct questions about Erin's project management structure, overhead staffing models, and how high-end builders handle procurement and markup of fixtures and materials. Erin emphasized that strong trade relationships and lean but highly accountable project management are the foundation of her business model.",
+  "teachings": [
+    {
+      "concept": "AI as a Speed and Organization Tool, Not a Replacement",
+      "explanation": "AI is most valuable when used to accelerate existing workflows — organizing thoughts into emails, formatting documents, rendering design concepts, or cross-checking estimates — rather than replacing human judgment or expertise. The human still drives the input and verifies the output.",
+      "quote": "I don't have time to sit down and write a newsletter, but I also want to try to be helpful and share like the mistakes I've made or the things we've learned so that others — it is completely transcribed by AI. And then with my work, like me, I said it, but AI made it all happen."
+    },
+    {
+      "concept": "AI Output Must Be Verified Against Real-World Expertise",
+      "explanation": "AI can generate plausible-sounding answers that are wrong, and over-reliance on it without verification from experienced people can waste significant time and cause costly mistakes. It is a starting point, not a final authority.",
+      "quote": "Here Ben was my son, four hours later, listening to ChatGPT, which skipped all of the basics. And now he's torn his car apart. All it was, was what Alec said, who's been working on cars for 25 years for fun. And it was the thermostat."
+    },
+    {
+      "concept": "Authentic Human Presence Gains More Value as AI Proliferates",
+      "explanation": "As AI-generated content becomes ubiquitous, genuine human presence — showing up on a job site, being real on camera, sharing earned experience — will become more differentiating and valuable, not less. Clients in home building hire people first.",
+      "quote": "We're all pretty lucky. Like we can still show up on Instagram. Nothing. I don't edit anything. I literally show up on a job site, just like you guys and you do your thing, you help. And there's going to be value to that. Just stick with it."
+    },
+    {
+      "concept": "Your Story Is a Marketing Asset",
+      "explanation": "Builders and designers with compelling personal and business origin stories have a natural marketing advantage, but many struggle to articulate it themselves. Engaging outside help to frame and tell that story can unlock a powerful, authentic brand voice.",
+      "quote": "You have a great story, like we need to tell this story. And, you know, you started this business from this and you did it with your kids little, and, you know, now here you're doing this. And I was like, I don't know how to do that. I don't know how to talk about myself."
+    },
+    {
+      "concept": "Lean Project Management Enabled by Strong Trade Relationships",
+      "explanation": "Running a lean office team on large projects is only possible when trades operate as an extension of the builder's team — proactively communicating, flagging issues, and holding themselves accountable. This culture must be deliberately cultivated and made a hiring criterion.",
+      "quote": "I literally stopped myself and I said, I will, I can only hire trades that act like we're on the same team, like I am their employer. That's the relationship I need."
+    },
+    {
+      "concept": "Project Manager as Owner-Level Accountability",
+      "explanation": "Erin's model requires project managers to operate with owner-level responsibility — catching design conflicts, managing all materials, logging modifications daily, and escalating changes above a set dollar threshold. This high-accountability role allows the company to stay lean without sacrificing quality control.",
+      "quote": "The project managers are compensated well for that. And the only office support they get is on modifications and handling all of the money, meaning organizing invoices, getting invoice approvals, issuing draws. But other than that, the lift is on them."
+    },
+    {
+      "concept": "Fee Percentage Scales Inversely with Project Size",
+      "explanation": "As project budgets grow, the percentage markup typically decreases because the absolute dollar value of the fee scales up significantly. A standard 20-25% markup on a $2M project may compress to 20% or lower on a $5M+ project, which is a recognized industry norm at the high end.",
+      "quote": "At $2 million and under, we've seen 20 to 25% markup, $5 million projects, 20%. As you climb that scale up, that percentage comes down because that scale goes up and there's just sort of a perception that's in play that can make sense from the client's perspective."
+    },
+    {
+      "concept": "Justifying Premium Pricing Through Transparent Structure",
+      "explanation": "High-end clients who are accustomed to how business works will accept premium pricing when the builder clearly explains their staffing structure and how each role directly benefits and protects the client. The conversation about value must be proactively had rather than assumed.",
+      "quote": "There's a very clear explanation as to why you're worth it. And how you care for them. And these are the people who are in charge of caring for them and delivering on a promise. We do talk about that. I think the part that gets skipped is why you're structured this way."
+    }
+  ],
+  "actionable_advice": [
+    "Use AI to transcribe spoken thoughts or voice memos and turn them into newsletters, emails, or content — speak your ideas, then let AI organize and format them.",
+    "When using AI for design, input both a photo of the existing space and an inspiration image along with a detailed text description to rapidly generate client-presentable renderings in 15-20 minutes.",
+    "After getting an AI answer on a technical or trade question, immediately verify it with an experienced tradesperson or field expert before acting on it.",
+    "Spend 10-15 minutes per day consuming AI news and developments (YouTube, podcasts) to stay current without getting overwhelmed by FOMO.",
+    "Explore Notebook LM (Google) as a private language model library where you can upload your own business content and keep it out of the public training pool.",
+    "Keep filming authentic, unedited job site videos for social media — raw presence will become more valuable, not less, as AI-generated content floods the market.",
+    "When presenting a premium fee structure to high-end clients, proactively explain the specific roles on your team, what each person does, and how that structure directly protects and serves the client.",
+    "If your project manager is running multiple jobs, build a trade base that communicates proactively and operates as an extension of your team so the PM can move between sites without losing oversight.",
+    "For large projects, require project managers to study architectural plans deeply enough to catch coordination issues — such as drainage conflicts with landscaping — that other consultants may miss.",
+    "Set a clear dollar threshold (e.g., $5,000) for change orders that automatically triggers a required call with the owner before proceeding."
+  ],
+  "client_challenges": [
+    "David asked how high-end builders handle the double markup on fixtures like plumbing, tile, and lighting — where trades mark up materials and the builder marks up again on top — and whether there is a better approach.",
+    "David questioned whether his staffing model (full-time site superintendent plus office-based project manager plus project coordinator) is too overhead-heavy or appropriate for high-end custom builds.",
+    "David sought clarity on whether Erin's project management fee is included in the 20% markup or billed on top of it, and how the percentages shift at different project scales.",
+    "Denise shared that she has never marketed her 20-year business and does not know how to tell her own story or promote herself, and is now exploring AI-driven marketing solutions.",
+    "Tiffany noted that her pre-construction agreement and contract formatting felt outdated and was improved significantly by running it through ChatGPT, raising questions about how to modernize client-facing documents.",
+    "Participants raised the risk of taking on fixture procurement directly — including parts compatibility issues, warranty responsibility, and the cost of trade callbacks — versus letting subcontractors procure and warrant their own materials.",
+    "Lauren raised the question of how to verify AI-generated line-item estimates and takeoffs, noting that item costs were off even when the scope capture was accurate."
+  ],
+  "notable_quotes": [
+    "On AI limitations: 'Here Ben was my son, four hours later, listening to ChatGPT, which skipped all of the basics. And now he's torn his car apart. All it was, was what Alec said, who's been working on cars for 25 years for fun. And it was the thermostat.'",
+    "On the future of authentic presence: 'We're all pretty lucky. Like we can still show up on Instagram. Nothing. I don't edit anything. I literally show up on a job site, just like you guys and you do your thing, you help. And there's going to be value to that. Just stick with it.'",
+    "On trade culture: 'I literally stopped myself and I said, I can only hire trades that act like we're on the same team, like I am their employer. That's the relationship I need.'",
+    "On AI-generated content sounding robotic: 'What I want to stay away from and what I'm seeing other companies are doing is they're really using the chat language exactly how it is. And it sounds terrible. You know, it sounds like you're a robot.'",
+    "On justifying premium pricing: 'People building 5, 10, 15, 20, 30 million dollar homes — they're familiar with how business works. They're familiar with what good resources cost. And as soon as we can share how we bring that value to them personally, there's no question about it.'",
+    "On the shift in what clients are really buying: 'They want you first, then you decide to grow and now they want your methods and they want your systems. They don't want to have to question this along the way. We've made the mistakes. We know the mistakes. We've created the systems.'"
+  ]
+}

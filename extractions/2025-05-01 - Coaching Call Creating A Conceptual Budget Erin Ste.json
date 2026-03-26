@@ -1,0 +1,83 @@
+{
+  "date": "2025-05-01",
+  "title": "Creating a Conceptual Budget",
+  "session_type": "group_coaching",
+  "summary": "Erin Stetzer walked participants through her team's conceptual budget template, explaining how to populate cost codes, assign price certainty percentages, and communicate transparently with clients about what is and isn't included. She also covered a companion budget development checklist used to track selections, specifications, and team ownership during the pre-construction and construction phases. The session included extensive Q&A where participants raised real challenges around fees, trade gaps, client trust, and bank financing.",
+  "teachings": [
+    {
+      "concept": "Three Rules of Budget Presentation",
+      "explanation": "Before presenting any budget to a client, Erin emphasizes three guiding principles: always be of service (not focused on winning the job), always seek clarity (even when you think you have it), and always leave people in a better place than before they met you. These rules reframe the budget meeting as a service act rather than a sales pitch.",
+      "quote": "If you're there for service and you're there for clarity by the time you leave that meeting you will have done your job."
+    },
+    {
+      "concept": "Price Certainty Column",
+      "explanation": "The most important column in Erin's budget is a percentage representing how certain she is about each line item. This column forces transparent communication about the quality of each number — whether it's a hard bid, historical data, or an allowance — and was the key differentiator that helped her win work with high-end clients who wanted to understand how numbers were derived.",
+      "quote": "I just got really really mad one day and I'm like if nobody else is going to talk about this then I'm going to talk about it because no other builders are talking about this so I'm just going to explain how I got the numbers."
+    },
+    {
+      "concept": "Zero Percent Certainty as a Signal of Exclusion",
+      "explanation": "When a line item is assigned zero percent certainty, it signals to the client that this scope is not included in the current quote rather than that the builder is unsure. This practice ensures clients understand what is missing from the budget, which Erin argues is as important as communicating what is included.",
+      "quote": "People appreciate a lot of what's in the quote but they appreciate even more what's not and we owe them that conversation."
+    },
+    {
+      "concept": "Allowance Transparency",
+      "explanation": "Rather than simply listing an allowance dollar amount, Erin attaches a note explaining why that number was chosen — for example, 'allowance based on historical data.' This prevents clients from assuming the builder is overcharging compared to competitors who submitted lower allowances without explanation.",
+      "quote": "In my mind I'm thinking okay I know who the architect is I know who the designer is... nobody likes a surprise so I'm just going to tell you we're looking at eight thousand dollars based on historical data."
+    },
+    {
+      "concept": "Verification Spreadsheets for Complex Scopes",
+      "explanation": "For high-risk or detail-heavy line items such as windows and roofing, Erin creates a separate verification spreadsheet that is distributed to the architect, designer, client, and builder. This ensures all parties confirm specifications before money is committed, protecting the builder from liability when discrepancies exist on plans.",
+      "quote": "I will tell you 100 percent of the time what's on the plans changes and so it's a huge step to take because you don't want to order these windows and have a surprise later."
+    },
+    {
+      "concept": "Contingency as a Communication Tool",
+      "explanation": "The contingency and miscellaneous line ideally sits around one percent on a well-defined project, but should be raised to eight percent or higher on early-stage or information-poor feasibility budgets. The contingency percentage is a direct signal to clients about how much is unknown, and adjusting it is a way to protect clients who may be seeking bank financing.",
+      "quote": "That contingency number which really wants to land around one percent ideally... we probably need to plug in eight percent like that's where I would communicate the guard rails for this project."
+    },
+    {
+      "concept": "Micro-Teams to Prevent Trade Gaps",
+      "explanation": "To prevent scope gaps between trades — where each assumes the other is responsible for overlapping work — Erin assembles micro-teams of related trades such as drywaller, trim carpenter, and painter and walks the job site together before work begins. Asking trades to refer their preferred partner trades accelerates the formation of these cohesive teams.",
+      "quote": "Painter you're amazing, who's your favorite trim carpenter? I want to go meet the trim carpenter you love. That person's on the job you can't wait to get started because you can do your job efficiently."
+    },
+    {
+      "concept": "Budget Development and Selections Checklist",
+      "explanation": "Erin uses a two-tab companion spreadsheet alongside the budget — one tab for budget development information needed from the team, and one for selections and specifications. This checklist is used both during budget creation and throughout construction as a checkpoint system, assigning ownership of each deliverable to the architect, designer, or builder.",
+      "quote": "I look at both of these tabs as I'm reviewing subcontractor pricing and then as I'm populating the budget."
+    },
+    {
+      "concept": "Right Client Alignment",
+      "explanation": "Erin teaches that clients who challenge the legitimacy of management fees or probe profit with an attacking mindset are a signal of misalignment. Walking away from those clients, though financially difficult, moves a builder into a better category of client relationships and protects the business long-term.",
+      "quote": "We're only as good as our clients. Our business will only grow with the clients that we like to serve. Other than that it tanks."
+    }
+  ],
+  "actionable_advice": [
+    "Add a price certainty percentage column to every budget line item and communicate to clients exactly how confident you are in each number and why.",
+    "Attach notes to every line item explaining whether the number is based on a hard bid, historical data, or an allowance so clients understand how numbers were derived.",
+    "Use zero percent certainty to flag items that are not included in any current quote and explicitly have that conversation with the client.",
+    "Raise the contingency line to eight percent on early-stage feasibility budgets where information is limited, especially when clients are seeking bank financing.",
+    "Create a separate verification spreadsheet for complex, high-value scopes like windows and roofing, distribute it to the architect, designer, and client, and confirm all specifications before placing orders.",
+    "Assemble micro-teams of related trades and walk the job site together before work begins to surface and resolve scope gaps before they become financial problems.",
+    "Ask your best trades to refer you to the partner trades they most enjoy working with in order to build cohesive, efficient trade teams.",
+    "Use the budget development and selections checklist to assign ownership of each deliverable to a specific party and set start and finish checkpoint dates.",
+    "Conduct collaborative budget review meetings that include the architect, designer, builder, and client in the same room so all parties can clarify allowances and selections in real time.",
+    "Structure project management costs on a per-month basis rather than a lump sum so that if a project extends beyond its estimated timeline the fee can be updated transparently with the client."
+  ],
+  "client_challenges": [
+    "How to handle budgeting when clients are at an early feasibility stage and do not yet have an architect, designer, or finalized selections to provide accurate information.",
+    "How to prevent scope gaps between trades, such as a painter assuming the trim carpenter will prep surfaces and vice versa, leading to unexpected costs.",
+    "How to successfully move clients toward fully solidifying a budget before obtaining a construction loan when information is still incomplete.",
+    "How clients end up feeling deceived when builders provide unreasonably low allowances that the builder knew were insufficient for the project scope and location.",
+    "How to explain the management fee to clients who question whether it is already covered by the builder's profit.",
+    "How to structure pricing and transparency for B2B projects with private equity partners rather than direct consumer clients.",
+    "How to keep clients informed of cumulative budget changes over the course of a project so they do not reach the end surprised by how far over budget they are.",
+    "How to determine the right fee percentage when project size varies widely, since a percentage appropriate for a large luxury project may be insufficient to cover overhead on a small remodel."
+  ],
+  "notable_quotes": [
+    "On leaving clients better off: 'If they don't ever call you back then you know you've done your work, you've done what you're here to do. And typically projects align when people align — so if you don't get the project maybe there was a reason that it wasn't a great fit.'",
+    "On transparency with high-end clients: 'When you're going to spend 10, 20, 30 million dollars, you better believe people want to understand how certain is this builder, how certain is this group. That column alone completely shifted the people in business we were working with.'",
+    "On lumber price certainty during volatility: 'During COVID that number doubled overnight and we couldn't lock our lumber prices in for more than five days. So that drops to like zero percent certainty — I have zero idea how much we're going to pay for lumber because it's a commodity.'",
+    "On walking away from the wrong client: 'It takes guts to walk away from that. I have five kids, my husband is super dad, I have to make these decisions because I'm the income — so it's not a light decision to make. It takes a lot of guts, it takes a lot of belief, and it takes systems.'",
+    "On detecting bad-fit clients: 'There's a difference between asking questions to be informed and a mindset of attacking and blaming. I spot that like the second I hear that I'm out.'",
+    "On the lump sum model versus scale: 'If if it's a ten million dollar project and you're giving a big number, something happens — the market, lumber skyrockets, concrete skyrockets — you take a lot of risk. That lump sum model works great if there are no changes and you have all the information up front and all you have to do is execute.'"
+  ]
+}

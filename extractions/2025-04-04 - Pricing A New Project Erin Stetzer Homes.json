@@ -1,0 +1,90 @@
+{
+  "date": "2025-04-04",
+  "title": "Pricing A New Project Playbook Walkthrough",
+  "session_type": "open_workshop",
+  "summary": "Erin Stetzer walked participants through her 'Pricing a New Project' playbook, a structured tracker used to manage the process of collecting bids from subcontractors and vendors. The session covered the step-by-step follow-up cadence, team color-coding for accountability, and opened into a broad Q&A covering topics such as charging for pricing work, lump sum vs. line item contracts, software platforms vs. Excel, handling natural material surprises, and managing client expectations on custom homes vs. spec builds.",
+  "teachings": [
+    {
+      "concept": "Pricing as a Structured Team Process",
+      "explanation": "Collecting bids and pricing a new project should follow a documented, repeatable system that tracks each trade and vendor through defined stages: plans sent, receipt confirmed, quote received, quote reviewed, quote approved, and budget updated. This ensures no bottlenecks are missed and every team member knows the status at a glance.",
+      "quote": "The purpose of this document is one, to have a system when you get bigger and have multiple people working on something."
+    },
+    {
+      "concept": "Assigning the Right Trade to the Right Project",
+      "explanation": "Not every subcontractor is a fit for every project. Builders should deliberately match trades and vendors to each project's scale, style, and timeline. Using the wrong contractor—even a skilled one—can cause delays and misalignment.",
+      "quote": "Even if it's a bathroom remodel, we may have a trim carpenter that is better suited for small remodels. So to plug in a trim carpenter that has a whole workshop and is working on massive projects—that may cause a delay in the project."
+    },
+    {
+      "concept": "Proactive Follow-Up Cadence with Trades",
+      "explanation": "Waiting passively for bids doesn't work. A structured follow-up on day 3 (confirm receipt by phone), day 5 (check for questions/progress), and day 10 (escalate if nothing received) keeps the process moving and signals to trades that there is a real deadline. Phone calls are more effective than emails because email is easy to ignore.",
+      "quote": "Day three, it's really important to make that phone call saying, hey stucco person, did you actually receive the plans? Email gets bogged down. It's easy to say you didn't receive an email."
+    },
+    {
+      "concept": "Color-Coded Accountability in Tracking Documents",
+      "explanation": "Assigning team members to tasks and color-coding columns by person creates clear ownership and makes it easy to see not just whether something is done, but who did it and who to follow up with. This is the 'advanced move' on top of a basic yes/no tracker.",
+      "quote": "The advanced move is to color code who's handling it. So if it's under reviewed and let's say Sarah handled that, we would turn this column pink."
+    },
+    {
+      "concept": "Budget Only Populated with Approved Quotes",
+      "explanation": "The working budget should only be updated with finalized, approved quotes—not preliminary or partial ones. This prevents inaccurate numbers from entering the budget and creating downstream problems with clients.",
+      "quote": "We don't populate the budget with all these other actions of no's, right? We only populate the budget with yeses."
+    },
+    {
+      "concept": "Three to Four Week Pricing Timeline as a Goal",
+      "explanation": "With a well-prepared subcontractor pricing guide and organized project documents sent upfront, a full pricing cycle from plans sent to approved quotes should take three to four weeks. This requires disciplined follow-up and project preparation in advance.",
+      "quote": "The typical turnaround we want to stay within is three to four weeks. And it's very doable and very possible when the project is set up really well with the subcontractor pricing guide."
+    },
+    {
+      "concept": "Subs Own Their Estimating Liability",
+      "explanation": "Builders should not absorb the risk of subcontractor estimating errors. Providing detailed plans, specs, and follow-up questions places accountability on the sub to produce an accurate quote. If a sub misses something, the builder's documented outreach and follow-up process protects them from absorbing the cost.",
+      "quote": "We actually don't want the liability of doing any estimating. So we put all of the weight on the people doing the work."
+    },
+    {
+      "concept": "Charging for Pricing Work Depends on Business Goals",
+      "explanation": "Whether to charge for the pricing and estimating process is not a fixed rule—it depends on the builder's current goals, the relationship with the architect or client, and the stage of the business. A builder seeking volume or new relationships may bid for free; one with a full pipeline may charge a fee.",
+      "quote": "To me, that answer is based on your yearly goals, which we should be looking at. I look at mine every day."
+    },
+    {
+      "concept": "Simple Tools Beat Complex Software in Construction",
+      "explanation": "Excel and phone calls outperform project management software for most builders because trades are not tech-friendly, automated emails create notification fatigue, and platform data often becomes inaccurate when not maintained in real time. The language of construction is face-to-face and phone calls.",
+      "quote": "We're 100% Excel and our, and it's a very simple—we really simplify each of our processes because they work. And so if something, as you all know, if something works in this industry, you stay with it."
+    },
+    {
+      "concept": "Client Story as the North Star for Custom Builds",
+      "explanation": "Custom home clients begin with an emotional vision or story. A builder's ultimate job is to honor and protect that story through all the hard parts of construction so that at the end the client tells it proudly to others. This mindset transforms referrals and distinguishes custom building from spec building.",
+      "quote": "I want her when she's with her friends in this home to be able to tell that story and be smiling. I didn't want her to say this thing was a complete blank show."
+    }
+  ],
+  "actionable_advice": [
+    "Use a structured trade tracker spreadsheet to log every subcontractor and vendor through each stage: plans sent, receipt confirmed, quote received, reviewed, approved, and budget updated.",
+    "On day 3 after sending plans, call each trade by phone to confirm they received the documents—do not rely on email alone.",
+    "On day 5, follow up again to ask if they have questions, using this touchpoint to verify the trade is actively working on the quote.",
+    "Color-code columns in your pricing tracker by team member so it is clear who is responsible for each task and who reviewed or approved each quote.",
+    "Only populate your project budget with quotes that have been fully approved—never enter preliminary or partial bids.",
+    "Target a three-to-four week window from plans sent to approved quotes received by preparing a thorough subcontractor pricing guide in advance.",
+    "Before sending plans to subs, hold internal meetings with the architect and designer to fill in gaps on allowances and specifications so you are not sending incomplete information.",
+    "When presenting a budget, include a confidence column indicating how certain you are on each line item so clients understand what is firm versus estimated.",
+    "When handling natural material variation issues, call a meeting with the vendor rep and let them have the conversation directly with the client rather than acting as the middleman.",
+    "If a client is highly detail-oriented and selecting natural materials, proactively show them samples of imperfect pieces during design presentations and get agreement on acceptable variation before ordering.",
+    "Evaluate whether to charge for pricing work based on your current revenue goals, the relationship you want to build, and how complete the project information is.",
+    "If you want to protect margins, consider presenting lump sum pricing by major scope categories rather than itemized line items to prevent clients from selectively removing profitable scope."
+  ],
+  "client_challenges": [
+    "Participants could not access the Google Sheets pricing template because their organizations use Outlook and different Google credentials, making sharing difficult.",
+    "Architects often provide incomplete pricing sets (60–70% of information needed), making accurate budgeting difficult and creating gaps that must be filled through additional meetings.",
+    "A subcontractor came back mid-project $17,000 short on tile material due to their own estimating error, raising questions about who absorbs that cost.",
+    "Clients picking natural stone or wood materials frequently expect perfect, uniform appearance and are unhappy when natural variation shows up on site.",
+    "Line item contracts allow clients to selectively remove profitable scope items while keeping low-margin work, eroding overall project margins.",
+    "Trades resist adopting project management software and apps, preferring phone calls and paper, making it difficult to build scalable digital tracking systems.",
+    "Project management platforms like Buildertrend or Co-Construct often have inaccurate data because team members or trades do not update them consistently, creating a false picture of project status.",
+    "Custom home clients consistently struggle to internalize that the initial budget is just a starting estimate and become unhappy as costs evolve—unlike spec buyers who skip the painful process and arrive happy at the end."
+  ],
+  "notable_quotes": [
+    "On the language of construction: 'As soon as that clicked with me, that the language is face-to-face or phone call—we can't make it complex because when we do that, we're not going to be speaking the same language.'",
+    "On software vs. real work: 'The inputs are for show, but they're not actually happening. We're to the day, literally to the day on every single project, and Excel for us is the way.'",
+    "On building a business honestly: 'If you know that you're treating people overly fairly, it doesn't matter what it looks like on paper. It just doesn't.'",
+    "On the difficulty of construction: 'I've tried to talk myself into this being an easy business. I am totally honest with myself now—this is a really difficult business for a lot of reasons.'",
+    "On the client story driving custom builds: 'I want her when she's with her friends in this home to be able to tell that story and be smiling. That story gets told to 15 other people, and then you're getting a phone call from one of the 15 to build their home.'",
+    "On subcontractor accountability: 'I will say, man, I hope you take this more seriously next time when we put our bids together—that hurts. But the only reason I could say that is because we do try to get them to do their work.'"
+  ]
+}

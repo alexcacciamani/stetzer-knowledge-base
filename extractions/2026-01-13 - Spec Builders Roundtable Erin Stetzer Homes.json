@@ -1,0 +1,80 @@
+{
+  "date": "2026-01-13",
+  "title": "Spec Build Finishes, Budget Strategy, and Deal Financing",
+  "session_type": "roundtable",
+  "summary": "Builders from across the US gathered to discuss how to maximize value in spec home builds by identifying where to spend and where to save on finishes and features. The group also explored financing structures for spec projects, including private investors, construction loans, and the 50/50 partnership model. Participants shared real-world cautionary tales about overbuilding, holding costs, and market-specific design risks.",
+  "teachings": [
+    {
+      "concept": "Touch-and-Feel Spending Principle",
+      "explanation": "Spend money on items buyers can physically interact with during a walkthrough — door hardware, plumbing fixtures, flooring — because these create an immediate impression of quality. Skimping on a $50 doorknob signals to buyers that corners were cut everywhere.",
+      "quote": "If someone thinks that you're skimping on something that's like between $20 and $100, then like what else are you skimping on?"
+    },
+    {
+      "concept": "Line-Item Budget for Designers",
+      "explanation": "Rather than giving a designer a global budget, assign budgets per individual line item. This keeps spending tight and gives the builder control while still allowing flexibility to say yes to an occasional upgrade.",
+      "quote": "I give him a budget for each line item that I'm looking to him to make decisions on. And I think that that really helps keep everything tight rather than having a global budget."
+    },
+    {
+      "concept": "Recognizable Brand Anchoring",
+      "explanation": "Using well-known appliance or fixture brands like Wolf, Sub-Zero, or Thermador signals overall quality to buyers, causing them to perceive the entire home as more premium even if other elements are value-engineered.",
+      "quote": "People recognize appliance brands. So I'll spend the money for Wolf Sub-Zero on the higher-end stuff. They see that and they think everything else is more expensive."
+    },
+    {
+      "concept": "Danger of Cutting-Edge Design in Conservative Markets",
+      "explanation": "Designing to the leading edge of style can backfire in markets where buyers prefer styles that were trendy several years ago. Matching local market taste is more important than showcasing design innovation.",
+      "quote": "I've gone too cutting edge on the design. My designer lives in L.A. and everybody in Boulder wanted stuff that was in style like five years ago."
+    },
+    {
+      "concept": "Holding Costs as a Kill Switch",
+      "explanation": "Extended time on market due to overbuilding, poor design fit, or pricing issues can destroy profitability through accumulated interest and carrying costs. Speed of sale matters as much as sale price.",
+      "quote": "Holding costs will kill you."
+    },
+    {
+      "concept": "The 50/50 Investor Partnership Model",
+      "explanation": "Bringing in a capital partner who funds the build entirely in exchange for a 50/50 profit split — after GC and realtor fees — allows builders to scale without personal capital risk, move faster on deals, and take on more projects simultaneously.",
+      "quote": "I can do more. If I do that, I can move a little faster and be more nimble. Like right now there's another property I would purchase if I had more funding, but I can't."
+    },
+    {
+      "concept": "GC Fee vs. Profit in Construction Draw Structures",
+      "explanation": "Banks generally accept project management and superintendent fees as legitimate draw items but resist paying out GC overhead or profit before a home sells. Builders can pay themselves through the draw by structuring compensation as a project management fee rather than profit.",
+      "quote": "The bank is totally cool with this fee, but not the 15, 20% overhead. At least in my market."
+    },
+    {
+      "concept": "Spec Home as Accidental Model Home",
+      "explanation": "A spec home that sits on the market longer than expected can be reframed as a model home opportunity, generating custom build leads and referrals even if the home itself does not sell quickly or profitably.",
+      "quote": "It has acted as a model home and I've gotten a handful of builds in the last six months just from walking people through it."
+    }
+  ],
+  "actionable_advice": [
+    "Assign individual line-item budgets to your designer rather than a single global budget, and set each budget below what you expect them to spend.",
+    "Source tile from suppliers like Floor & Decor that carry ready stock so replacements can be obtained immediately without multi-week delays.",
+    "Use RTA cabinet boxes and have custom faces made separately to achieve a high-end look at a fraction of the cost of fully custom cabinetry.",
+    "Invest in quality door and cabinet hardware (e.g., Emtek or Baldwin) because buyers open and close every door and drawer during a walkthrough.",
+    "Research group purchasing organizations like CBUSA to access bulk discounts on lumber and windows, potentially saving tens of thousands per build.",
+    "Upload competing lumber or materials quotes to ChatGPT or Claude to normalize and compare line items across complex multi-page bids.",
+    "Add epoxy garage floors as a low-cost, high-visual-impact upgrade that buyers notice and appreciate.",
+    "Run wire chases during framing for future AV, wine chiller, or other mechanical needs to avoid costly drywall demolition later.",
+    "Install EV charging station rough-in or actual chargers as a near-mandatory feature in most markets.",
+    "Transfer land into an LLC and consider adding a small-percentage partner to potentially qualify for financing that would otherwise be denied on a personal-use property.",
+    "Consult a tax accountant about classifying a slow-selling spec home as a model home for potential write-off benefits.",
+    "When using foundation systems in clay-heavy markets, partner with foundation companies that carry their own warranties to transfer that liability off the builder."
+  ],
+  "client_challenges": [
+    "Determining where to spend versus save on finishes in a spec build to maximize appeal without overbuilding relative to the price point.",
+    "A spec home was overbuilt with premium finishes throughout and has been sitting on the market for six months, with the builder having turned down early offers expecting a higher number.",
+    "A builder experienced a nearly break-even outcome on a spec after floating it for 18 months, raising questions about whether spec income is reliable.",
+    "During the inflationary period of 2022, construction costs rose 30% mid-build and the bank would not increase the loan, forcing the builder to pay roughly $1 million out of pocket to complete the project.",
+    "A small solo builder needs monthly income during a spec build and is drawing a GC fee from the construction loan, questioning whether this is the right approach.",
+    "Martha is trying to finance a $1.5M build on her personal property but is being rejected by banks due to insufficient two-year history and restrictions on owner-GC personal residence loans.",
+    "Designers with outside-market sensibilities (e.g., L.A.-based) can push a spec home's design in a direction that does not resonate with local buyers, extending time on market.",
+    "Builders debating whether pre-wire for AV, Lutron lighting systems, and wine rooms actually return value or simply add cost without measurable price or velocity benefit."
+  ],
+  "notable_quotes": [
+    "On overbuilding a spec: 'Even when you do all the right things and you put all the right finishes in it and you think that person's going to come — it's definitely been a lesson. It's been on the market for six months now.'",
+    "On spec income reliability: 'I floated it for 18 months and then it broke even. Like, that's a problem. You can't count on the income from a spec home.'",
+    "On light fixtures and hardware: 'I call it the jewelry of a home.'",
+    "On the 50/50 investor model: 'The way I look at it is I can do more. I can move a little faster and be more nimble.'",
+    "On wood trim upgrades nobody notices: 'I did poplar on a house. I spent an extra 30K on it. Nobody knew.'",
+    "On the pace of learning in spec building: 'It takes 18 months to learn if you were right or not. I can only make so many more mistakes.'"
+  ]
+}

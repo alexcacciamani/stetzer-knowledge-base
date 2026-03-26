@@ -1,0 +1,82 @@
+{
+  "date": "2025-09-11",
+  "title": "Open Workshop: Overhead, Builder Fees, Contract Types, and Scaling Challenges",
+  "session_type": "open_workshop",
+  "summary": "This open workshop session covered a wide range of participant-driven topics including how to calculate and manage overhead as a percentage of cost of work, how builder fees scale with project size, and how to structure contracts with demanding clients such as contract attorneys. Participants also discussed challenges around hiring, pre-construction fees, site supervision costs, and breaking into higher-end market segments.",
+  "teachings": [
+    {
+      "concept": "Owner's Wide-Angle Lens on Job Sites",
+      "explanation": "As a company owner, staying engaged on job sites at least weekly provides a broader perspective that project managers, who are focused on their specific action items, may miss. Owners catch systemic or future-risk issues that PMs are not yet experienced enough to recognize.",
+      "quote": "Project managers are super focused on what's on their list of action items and communicating with those focused things that like they may not even... the lens isn't wide enough to see things that an owner of a company might see."
+    },
+    {
+      "concept": "Overhead as a Percentage of Cost of Work",
+      "explanation": "Overhead should be tracked as a percentage of cost of work on a per-project basis, not total gross revenue. A target of approximately 5% of cost of work per project is a useful benchmark, though it varies by company size, structure, and season.",
+      "quote": "Typically we'll see that overhead, you know, let's just call it 5%. And this is including projects that I'm consulting on where I'm looking at other people's budgets too."
+    },
+    {
+      "concept": "The Math Sets You Free",
+      "explanation": "Breaking business decisions down to simple per-project math clarifies what is actually feasible. For example, understanding that $1M of cost of work at 5% overhead yields $50K helps builders rationally evaluate whether and when to hire and how many projects are needed to support additional staff.",
+      "quote": "The math literally sets you free. Like, it is what it is in your business."
+    },
+    {
+      "concept": "Builder Fee Scaling by Project Size",
+      "explanation": "Builder fees as a percentage of cost of work are not fixed. Smaller projects may require fees of 50-100% to cover the builder's time, while $1M projects typically see 20-25%, $2-5M projects require client-specific negotiation around 18-20%, and $8M+ projects may settle around 15% with a larger dedicated project management line item.",
+      "quote": "There's no set percentage. But the idea is understand and look at where they're coming from."
+    },
+    {
+      "concept": "The $2-5M Client Stress Zone",
+      "explanation": "Clients spending between $2M and $5M on a home are often spending a large percentage of their net worth, which creates financial stress that can manifest as excessive scrutiny or apparent nickel-and-diming. Builders should recognize this dynamic and adjust how they present fees and build trust accordingly.",
+      "quote": "That client is spending a large percentage of their net worth on this home. So that creates stress for that client, which then can look like nickel and diming to the builder."
+    },
+    {
+      "concept": "Systems as Fee Protection",
+      "explanation": "Robust project management systems—weekly reports, four-week calendars, change order tracking, and budget analysis—protect the builder's fee by creating accountability for all parties including clients, architects, and designers. When systems are clearly documented, disputes over scope and time rarely arise.",
+      "quote": "That's why I'm so strong on like these systems, like they have to happen because it's a way to protect your fee. There's no negotiating. When you're doing that, they know it. They don't even try."
+    },
+    {
+      "concept": "Non-Attachment to Projects",
+      "explanation": "Builders should enter every negotiation and client conversation without being emotionally attached to winning the project. Attachment leads to making concessions that hurt the business. Staying detached allows for clearer thinking and better deal structures.",
+      "quote": "Never be attached to a project. Be open to everything, but don't ever be attached to that project."
+    },
+    {
+      "concept": "Pre-Construction as a Billable Service",
+      "explanation": "Pre-construction work—budgeting, attending architect and design meetings, site evaluation, and proposal preparation—represents significant time and expertise and should be charged as a separate, non-refundable fee based on deliverables or a per-square-foot rate, rather than a deposit applied toward the build.",
+      "quote": "I would make that a separate fee... from the client's perspective, like these are, you're doing work. It's like when architects start drafting, they don't draft for free and they don't give credit."
+    },
+    {
+      "concept": "The S-Curve of Hiring",
+      "explanation": "When a builder hires a new team member, productivity and output temporarily dip before improving significantly. Understanding this S-curve of growth prevents builders from being scared off by short-term struggles after hiring and helps them commit to the investment.",
+      "quote": "When you hire here, you are doing the most you can the bottom of the S. And then for a little bit, when you hire someone, it's still a struggle. And then you start to be able to do more and then you're going to tap out again."
+    }
+  ],
+  "actionable_advice": [
+    "Stay engaged on every project site at least one hour per week as the owner, even if project managers are running the job.",
+    "Let project managers walk you through the site first before raising your own list of questions so you get both perspectives.",
+    "When a client pushes back on cost-plus pricing, ask them directly how they want to handle unknowns rather than defending your model—turn the question back to them.",
+    "Build a project manager extension clause into every contract: specify a monthly fee if the project runs beyond an agreed timeframe such as 18 or 24 months.",
+    "When presenting to a new high-profile client, show your full systems—four-week calendar, weekly progress report, budget tracking, change order log—so they understand what they are buying before discussing fees.",
+    "Use a pre-construction agreement with clearly defined deliverables and a per-square-foot or flat fee that is not refundable, rather than a deposit credited toward the build.",
+    "When hiring a project manager, consider a six to eight week test pilot period and assign them real project responsibilities immediately to evaluate fit.",
+    "Use a scorecard when recruiting project managers to attract the right candidates and filter out those who are not a good fit before interviews.",
+    "Spread a new hire's salary across multiple project budgets as a cost-of-work line item to make the payroll math more feasible at lower revenue levels.",
+    "Experiment with small strategic moves—like pursuing $1.3-1.5M projects—rather than making large hypothetical leaps, and refine the model based on real client feedback."
+  ],
+  "client_challenges": [
+    "Randall struggled to understand the math of how much revenue growth is needed to cover a new office hire at a 5% overhead target, and felt capped around $2-3M in volume.",
+    "Ryan landed a potential $3M high-profile project with a client whose husband is a contract attorney who explicitly rejected cost-plus pricing and wanted a fixed-price or alternative contract structure.",
+    "Ryan was concerned about how to protect his fee and time if a large project extends beyond its original schedule due to client-driven changes and scope additions.",
+    "David raised concerns about whether fixed-price contracts create adversarial relationships with clients and asked about what a project manager job description or scorecard looks like when hiring.",
+    "Ashley operates a design-build firm in a small market of 30,000 people where clients don't understand or value construction management fees, and she is uncertain whether her model can scale to $1.5M+ homes or attract higher-end clients.",
+    "Cammie, a third-generation builder who launched a custom division, discovered that pre-construction phases were taking up to a year with only a $25K credited deposit to show for it, and needed to know how to restructure pre-construction fees.",
+    "Cammie asked what the standard range is for monthly site supervision fees charged for an on-site superintendent or project manager."
+  ],
+  "notable_quotes": [
+    "On holding standards as an owner: 'I've been in too many homes fixing these problems that other builders caused because there's mold that's rampant through a chase because these ducts were touching each other and they were sweating and now they have mold. I've been the cleanup crew for another builder and I'm not doing that.'",
+    "On overhead math: 'The math literally sets you free. Like, it is what it is in your business.'",
+    "On handling a client who wants to control costs: 'If you have 100% of the information for me that I can price out, you got it. Easy peasy. That's all I want. If we don't have 100% of the information, then we need to figure out how to handle the unknowns. Do you have any ideas, contract lawyer?'",
+    "On doing the right thing consistently: 'As you continue to shine and do the right thing, things pop. They just do. There's no logic behind it other than doing the right thing all the time.'",
+    "On elevated standards in a low-standard industry: 'The standards are generally low and builders can get by with fairly low standards. So when people notice the elevated standards, it's so easy now to get those projects.'",
+    "On non-attachment in negotiations: 'Never be attached to a project. Be open to everything, but don't ever be attached to that project. And that's hard.'"
+  ]
+}

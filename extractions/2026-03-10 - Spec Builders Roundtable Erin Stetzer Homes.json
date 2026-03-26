@@ -1,0 +1,76 @@
+{
+  "date": "2026-03-10",
+  "title": "Spec Builders Roundtable: Plans, Estimating, Tools, and Selling Strategy",
+  "session_type": "roundtable",
+  "summary": "Spec builders gathered for an open roundtable discussion covering how they approach house plans (reusing existing vs. designing new), cost estimating methodologies, software and project management tools, and strategies for selling spec homes. Participants shared experiences ranging from luxury Dallas spec builds to New England custom spec projects, with additional input from a construction management and design firm exploring the Sarasota market.",
+  "teachings": [
+    {
+      "concept": "Reusing Plans vs. Designing New for Spec Builds",
+      "explanation": "Experienced spec builders default to reusing plans from their existing library because they already know the costs associated with those plans. Designing a new house each time increases risk and uncertainty. However, at the luxury end, slight variations are often necessary due to lot differences and market perception.",
+      "quote": "My first is to pull from what I already have because I know what the costs are pretty much, you know, aside from adjusting for time that I built it and where I'm building it and site conditions."
+    },
+    {
+      "concept": "Building a Cost Database Over Time",
+      "explanation": "Rather than relying on percentage-based formulas, experienced builders recommend tracking actual costs from every build and using that data to create increasingly accurate estimates. Over time, patterns emerge (e.g., cost per square foot for electrical) that can inform future budgets.",
+      "quote": "Each time you build a house you'll build a database and then when you build your next house and you estimate the next house you adjust your previous thing and you try and use as many formulas as you can."
+    },
+    {
+      "concept": "Percentage-Based Estimating vs. Line-Item Estimating",
+      "explanation": "Percentage-based cost allocation works for production builders building identical homes at scale, but is unreliable for custom or high-end spec builds where every lot, finish level, and site condition varies. Line-item estimating based on actual quantities and historical costs is more accurate.",
+      "quote": "If you're production you can create a budget that will be somewhat correct because you're not really going outside the box at all as a production builder. If you're building a custom house every time, then what you spent on tile last time is not going to necessarily be relevant this time."
+    },
+    {
+      "concept": "Translating Subcontractor Bids Into Per-Square-Foot Benchmarks",
+      "explanation": "By collecting enough bids across multiple projects, builders can identify per-square-foot cost patterns for trade work (e.g., electrician bids at $10/sq ft). These benchmarks help flag anomalies in future bids and serve as internal budget checks.",
+      "quote": "Once you get enough bids you'll start to see a pattern and you're like, all right, this house is two thousand square feet, my electrician wants 20 grand. If the next house is three thousand square feet and he wants 30 grand, now you know basically he's billing you out at ten dollars per square foot."
+    },
+    {
+      "concept": "Spec Builds Are Far Simpler Than Custom Client Builds",
+      "explanation": "Building on spec eliminates the time-consuming decision-making process that comes with client-driven custom builds. Decisions can be made quickly and efficiently without lengthy approval chains, dramatically speeding up the build process.",
+      "quote": "Building on spec is nine billion times easier than building anything for a customer. It's not even remotely close."
+    },
+    {
+      "concept": "Pre-Selling Specs Creates Customer Complexity",
+      "explanation": "Selling a spec home before completion can invite the same inefficiencies as a custom build if clients begin requesting changes. Builders are better off completing the home and selling it finished, unless they have a clear change order process.",
+      "quote": "I list my specs for sale but I basically don't really push selling them until they're done. At that point, once they're done, I'm much happier selling it than selling it halfway through."
+    },
+    {
+      "concept": "Staging's Impact Depends on Market Inventory",
+      "explanation": "Staging spec homes dramatically improves buyer visualization and can be critical in competitive markets. However, in low-inventory markets, the impact is reduced because buyers are motivated regardless of presentation.",
+      "quote": "Staging a house — night and day difference — because they can't envision anything. But if your market has a lot of houses on the market, if they don't... we have so few houses that if someone wants a house I haven't staged the house in years."
+    },
+    {
+      "concept": "3D Modeling and Pre-Selection to Minimize Changes",
+      "explanation": "Using immersive 3D rendering tools (like Revit) to show clients exactly what spaces will look like — and completing all material selections before construction begins — dramatically reduces costly mid-build changes and keeps projects on budget.",
+      "quote": "We don't start our build before we have everything selected and it's — I mean we're purchasing already before we start a spec build. That's how we know we're going to be on budget."
+    }
+  ],
+  "actionable_advice": [
+    "Reuse existing house plans whenever possible to leverage known cost data and reduce estimation risk.",
+    "Track all costs from every build in a detailed spreadsheet to build a personal cost database that improves future estimates.",
+    "Build line-item estimates based on actual quantities and material takeoffs rather than relying on percentage-based allocation.",
+    "Collect enough subcontractor bids across projects to establish reliable per-square-foot benchmarks for each trade category.",
+    "When pre-selling a spec, price change orders clearly — charge the actual cost difference plus a markup (e.g., 15%) for any client-requested changes.",
+    "Consider completing spec homes before actively marketing them to avoid the time and complexity of mid-build client decision-making.",
+    "Stage spec homes in competitive markets with significant inventory to help buyers visualize the space and differentiate from competition.",
+    "Use project management platforms (e.g., JobTread, CoConstruct/BuilderTrend) to centralize decision tracking, budget management, and subcontractor communication, especially when managing multiple builds simultaneously.",
+    "Use Erin Stetzer's cost code framework and confidence-percentage system internally to track how locked-in each line item of the budget is.",
+    "When using 3D modeling tools like Revit, extract quantity takeoffs from the model to feed directly into cost estimates, eliminating redundant work."
+  ],
+  "client_challenges": [
+    "How do spec builders decide whether to design a new set of plans for each build or pull from an existing plan library?",
+    "Is there a percentage-based formula for allocating costs across categories (framing, site work, electrical, etc.) in a spec build estimate?",
+    "What software and tools are spec builders using for plan development, project management, budgeting, and accounting?",
+    "How do you handle pre-selling a spec home before it's complete, and how do you manage change orders if the buyer wants modifications?",
+    "Should spec homes be sold fully furnished, staged, or listed empty — and does it depend on the market?",
+    "How can a new-to-market construction management and design firm (Build Happy) break into the spec builder ecosystem in a new city like Sarasota?"
+  ],
+  "notable_quotes": [
+    "On spec vs. custom builds: 'Building on spec is nine billion times easier than building anything for a customer. It's not even remotely close.'",
+    "On client decision-making: 'They want to ask their mom and their daughter and their whatever else any other person who will entertain the idea of discussing it with them, and then it takes two weeks to make a decision that should take 30 seconds.'",
+    "On the futility of percentage-based estimating for custom work: 'What you spent on tile last time is not going to necessarily be relevant this time.'",
+    "On pre-selling specs: 'If you price a spec build as a spec build and then have to spend all the time dealing with a customer and then changing everything, you might as well just build a custom house.'",
+    "On the custom build nightmare: 'He said they put in an entire bathroom tile and when she saw it rendered she walked in and said I hate it — rip it out. She's currently on the second tile she's ripped out and destroyed. He's like, it's crushing my soul.'",
+    "On staging in low-inventory markets: 'There's so few houses that if someone wants a house — I haven't staged a house in years.'"
+  ]
+}
