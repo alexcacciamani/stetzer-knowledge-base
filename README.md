@@ -7,7 +7,7 @@
 1. **Batch analysis** — surfacing core teachings, frameworks, recurring advice, common client challenges, and notable quotes across all sessions
 2. **Interactive Q&A** — asking natural language questions and getting synthesized answers with session citations
 
-All processing uses the Claude API locally via terminal.
+All processing uses the Claude API locally via terminal. A Streamlit dashboard is deployed at Streamlit Community Cloud for browser-based access.
 
 ---
 
@@ -85,13 +85,14 @@ Transcripts/          →    Knowledge Base/extractions/   →    Knowledge Base
 
 ---
 
-## Stage 3 — Interactive Query (`query.py`)
+## Stage 3 — Interactive Query (`query.py` / `dashboard.py`)
 
-- Usage: `python3 query.py "What does Erin teach about handling difficult clients?"`
+- **Terminal:** `python3 query.py "What does Erin teach about handling difficult clients?"`
+- **Browser:** Streamlit dashboard at Streamlit Community Cloud (password protected)
 - Loads all extraction JSONs as context (~28K tokens, fits easily)
-- Scores sessions by keyword relevance; pulls top 6 full transcripts for deeper context
-- Sends to `claude-sonnet-4-6` with instructions to synthesize and cite sessions
-- Streams answer to terminal with session references
+- Scores sessions by keyword relevance; pulls top 4 full transcripts for deeper context
+- Sends to `claude-opus-4-6` with instructions to synthesize and cite sessions
+- Streams answer to terminal/browser with session references
 - **Auto-saves every query** to `queries/YYYY-MM-DD_HH-MM-SS - question.md` including model used and token counts
 
 ---
@@ -100,20 +101,25 @@ Transcripts/          →    Knowledge Base/extractions/   →    Knowledge Base
 
 ```
 Stetzer Database/
-  Transcripts/                    # 57 .txt files
+  Transcripts/                    # 57 .txt files (local only, not in repo)
   Knowledge Base/
     extract.py                    # Stage 1 script
     build_kb.py                   # Stage 2 script
-    query.py                      # Stage 3 interactive tool
+    query.py                      # Stage 3 terminal tool
+    dashboard.py                  # Streamlit dashboard
+    requirements.txt              # Python dependencies
     README.md                     # this file
-    extractions/                  # auto-created by extract.py
+    .gitignore                    # excludes secrets, queries, transcripts
+    .streamlit/
+      secrets.toml                # local secrets (not committed)
+    extractions/                  # auto-created by extract.py (committed to repo)
       2024-03-20 - Kick Off Call Erin Stetzer Homes.json
       ...
     teachings.md                  # auto-created by build_kb.py
     challenges.md
     advice.md
     quotes.md
-    queries/                      # auto-created by query.py
+    queries/                      # auto-created by query.py (local only)
       2026-03-18_14-23-01 - What does Erin teach about pricing.md
       ...
 ```
@@ -154,13 +160,67 @@ python3 query.py "Your question here"   # Stage 3
 
 ---
 
+## Dashboard (Streamlit)
+
+The dashboard provides a browser-based interface with 5 tabs:
+
+- **Overview** — session count, date range, session types, queries run
+- **Query** — ask questions, streams answer from Claude, auto-saves result
+- **Query History** — browse all saved queries with full answers
+- **Sessions** — browse/search all 57 session extractions
+- **Knowledge Base** — view teachings, challenges, advice, and quotes markdown files
+
+### Running Locally
+
+```bash
+cd "/Users/alexcacciamani/Desktop/Agents/Stetzer Database/Knowledge Base"
+streamlit run dashboard.py
+```
+
+### Deployment
+
+- **GitHub repo:** https://github.com/alexcacciamani/stetzer-knowledge-base (public)
+- **Hosted at:** Streamlit Community Cloud
+- **Password:** set via `APP_PASSWORD` secret
+- **API key:** set via `ANTHROPIC_API_KEY` secret in Streamlit Cloud dashboard
+
+### Secrets
+
+Local (`.streamlit/secrets.toml`, never committed):
+```toml
+ANTHROPIC_API_KEY = "sk-ant-..."
+APP_PASSWORD = "stetzer"
+```
+
+Streamlit Cloud: set the same two keys under App Settings → Secrets.
+
+### Custom Domain (optional)
+
+To use a subdomain like `stetzer.yourdomain.com`:
+1. In Streamlit Cloud app settings → add custom domain
+2. Add a CNAME record in your DNS pointing `stetzer` → the Streamlit-provided target
+
+### Updating the Deployed App
+
+After any local changes, push to GitHub and Streamlit will auto-redeploy:
+
+```bash
+cd "/Users/alexcacciamani/Desktop/Agents/Stetzer Database/Knowledge Base"
+git add .
+git commit -m "your message"
+git push
+```
+
+---
+
 ## Status
 
-| Stage | Status | Date |
+| Component | Status | Date |
 |---|---|---|
-| Stage 1 — extract.py | ✅ Complete (57/57 sessions) | 2026-03-18 |
-| Stage 2 — build_kb.py | ✅ Complete | 2026-03-18 |
-| Stage 3 — query.py | ✅ Tested and working | 2026-03-18 |
+| Stage 1 — extract.py | ✅ Complete (57/57 sessions) | 2026-03-26 |
+| Stage 2 — build_kb.py | ✅ Complete | 2026-03-26 |
+| Stage 3 — query.py | ✅ Tested and working | 2026-03-26 |
+| Dashboard — dashboard.py | ✅ Live on Streamlit Community Cloud | 2026-03-26 |
 
 ### Adding New Transcripts
 
