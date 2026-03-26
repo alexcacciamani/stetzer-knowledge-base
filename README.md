@@ -131,12 +131,15 @@ Stetzer Database/
 | Detail | Value |
 |---|---|
 | Model | `claude-opus-4-6` (query), `claude-sonnet-4-6` (extract) |
-| API key | `ANTHROPIC_API_KEY` env var |
-| SDK | `anthropic` Python SDK (`python3 -m pip install anthropic`) |
+| API key | `ANTHROPIC_API_KEY` env var / secret |
+| GitHub token | `GITHUB_TOKEN` env var / secret (query persistence) |
+| SDK | `anthropic`, `requests` Python packages |
 | Python | 3.12 |
 | Streaming | Yes — all API calls stream to avoid timeouts |
 | Resume-safe | `extract.py` skips JSONs that already exist |
 | Full transcripts in query | Top 4 by keyword relevance score |
+| Query storage | GitHub-backed (persists across redeploys) |
+| Layout | Centered (mobile-friendly) |
 
 ---
 
@@ -191,9 +194,12 @@ Local (`.streamlit/secrets.toml`, never committed):
 ```toml
 ANTHROPIC_API_KEY = "sk-ant-..."
 APP_PASSWORD = "stetzer"
+GITHUB_TOKEN = "github_pat_..."
 ```
 
-Streamlit Cloud: set the same two keys under App Settings → Secrets.
+Streamlit Cloud: set all three keys under App Settings → Secrets.
+
+`GITHUB_TOKEN` requires a GitHub Personal Access Token with `repo` scope — generate at github.com/settings/tokens.
 
 ### Custom Domain (optional)
 
@@ -222,6 +228,8 @@ git push
 | Stage 2 — build_kb.py | ✅ Complete | 2026-03-26 |
 | Stage 3 — query.py | ✅ Tested and working | 2026-03-26 |
 | Dashboard — dashboard.py | ✅ Live on Streamlit Community Cloud | 2026-03-26 |
+| Query persistence | ✅ GitHub-backed, survives redeploys | 2026-03-26 |
+| Mobile layout | ✅ Centered layout enabled | 2026-03-26 |
 
 ### Adding New Transcripts
 
