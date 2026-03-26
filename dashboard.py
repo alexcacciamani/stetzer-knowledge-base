@@ -4,12 +4,14 @@ Builder's Edge Knowledge Base — Streamlit Dashboard
 Run: streamlit run dashboard.py
 """
 
+import base64
 import json
 import os
 from datetime import datetime
 from pathlib import Path
 
 import anthropic
+import requests
 import streamlit as st
 
 # ── Paths ──────────────────────────────────────────────────────────────────
@@ -17,6 +19,9 @@ BASE_DIR = Path(__file__).parent
 EXTRACTIONS_DIR = BASE_DIR / "extractions"
 TRANSCRIPTS_DIR = BASE_DIR.parent / "Transcripts"
 QUERIES_DIR = BASE_DIR / "queries"
+GITHUB_OWNER = "alexcacciamani"
+GITHUB_REPO = "stetzer-knowledge-base"
+GITHUB_QUERIES_PATH = "queries"
 KB_FILES = {
     "Teachings": BASE_DIR / "teachings.md",
     "Challenges": BASE_DIR / "challenges.md",
@@ -53,14 +58,37 @@ def load_extractions():
     return records
 
 
+def _github_headers():
+    token = st.secrets.get("GITHUB_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
+    headers = {"Accept": "application/vnd.github+json"}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    return headers
+
+
 def load_queries():
+    """Load queries from GitHub (primary) with local filesystem fallback."""
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{GITHUB_QUERIES_PATH}"
+    try:
+        resp = requests.get(url, headers=_github_headers(), timeout=10)
+        if resp.status_code == 200:
+            files = sorted(resp.json(), key=lambda x: x["name"], reverse=True)
+            queries = []
+            for f in files:
+                if f["name"].endswith(".md"):
+                    content_resp = requests.get(f["download_url"], timeout=10)
+                    if content_resp.status_code == 200:
+                        queries.append({"filename": f["name"], "content": content_resp.text})
+            return queries
+    except Exception:
+        pass
+
+    # Fallback: local filesystem
     QUERIES_DIR.mkdir(exist_ok=True)
-    files = sorted(QUERIES_DIR.glob("*.md"), reverse=True)
     queries = []
-    for f in files:
+    for f in sorted(QUERIES_DIR.glob("*.md"), reverse=True):
         try:
-            content = f.read_text(encoding="utf-8")
-            queries.append({"filename": f.name, "content": content})
+            queries.append({"filename": f.name, "content": f.read_text(encoding="utf-8")})
         except Exception:
             pass
     return queries
@@ -141,18 +169,29 @@ def load_full_transcripts(records, query, n):
 
 
 def save_query(query, answer, usage):
-    QUERIES_DIR.mkdir(exist_ok=True)
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     safe_q = "".join(c if c.isalnum() or c in " -" else "" for c in query)[:60].strip()
-    out_path = QUERIES_DIR / f"{timestamp} - {safe_q}.md"
-    out_path.write_text(
+    filename = f"{timestamp} - {safe_q}.md"
+    content = (
         f"# {query}\n\n"
         f"*{datetime.now().strftime('%Y-%m-%d %H:%M')} · Model: {MODEL} · "
         f"Tokens: {usage.input_tokens:,} in / {usage.output_tokens:,} out*\n\n"
-        f"{answer}\n",
-        encoding="utf-8",
+        f"{answer}\n"
     )
-    return out_path.name
+
+    # Save to GitHub
+    token = st.secrets.get("GITHUB_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
+    if token:
+        url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{GITHUB_QUERIES_PATH}/{filename}"
+        encoded = base64.b64encode(content.encode()).decode()
+        requests.put(url, headers=_github_headers(), timeout=10,
+                     json={"message": f"Add query: {filename}", "content": encoded})
+
+    # Also save locally
+    QUERIES_DIR.mkdir(exist_ok=True)
+    (QUERIES_DIR / filename).write_text(content, encoding="utf-8")
+
+    return filename
 
 
 # ── Page config ────────────────────────────────────────────────────────────

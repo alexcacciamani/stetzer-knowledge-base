@@ -1,9 +1,6 @@
 # Secrets — never commit
 .streamlit/secrets.toml
 
-# Generated query outputs (ephemeral on Streamlit Cloud)
-queries/
-
 # Raw transcripts (large, not needed for the app)
 ../Transcripts/
 
