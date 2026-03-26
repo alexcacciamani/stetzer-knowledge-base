@@ -197,7 +197,7 @@ def save_query(query, answer, usage):
 # ── Page config ────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Builder's Edge Knowledge Base",
-    layout="wide",
+    layout="centered",
     initial_sidebar_state="collapsed",
 )
 
