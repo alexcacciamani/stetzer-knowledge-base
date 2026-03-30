@@ -202,6 +202,38 @@ st.set_page_config(
 )
 
 
+# ── Dark-mode Safari fix ───────────────────────────────────────────────────
+st.markdown(
+    """
+    <style>
+    :root { color-scheme: dark; }
+    html, body { background-color: #0f0f0f !important; }
+    </style>
+    <script>
+    (function() {
+        var existing = document.querySelector('meta[name="theme-color"]');
+        if (!existing) {
+            var m = document.createElement('meta');
+            m.name = 'theme-color';
+            m.content = '#0f0f0f';
+            document.head.appendChild(m);
+        } else {
+            existing.content = '#0f0f0f';
+        }
+        var existing2 = document.querySelector('meta[name="color-scheme"]');
+        if (!existing2) {
+            var m2 = document.createElement('meta');
+            m2.name = 'color-scheme';
+            m2.content = 'dark';
+            document.head.appendChild(m2);
+        }
+    })();
+    </script>
+    """,
+    unsafe_allow_html=True,
+)
+
+
 # ── Password gate ───────────────────────────────────────────────────────────
 def check_password() -> bool:
     if st.session_state.get("authenticated"):
