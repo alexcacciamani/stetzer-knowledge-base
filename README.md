@@ -111,6 +111,7 @@ Stetzer Database/
     README.md                     # this file
     .gitignore                    # excludes secrets, queries, transcripts
     .streamlit/
+      config.toml                 # dark theme + layout settings
       secrets.toml                # local secrets (not committed)
     extractions/                  # auto-created by extract.py (committed to repo)
       2024-03-20 - Kick Off Call Erin Stetzer Homes.json
@@ -131,7 +132,7 @@ Stetzer Database/
 | Detail | Value |
 |---|---|
 | Model | `claude-opus-4-6` (query), `claude-sonnet-4-6` (extract) |
-| API key | `ANTHROPIC_API_KEY` env var / secret |
+| API key | Auto-loaded from `.streamlit/secrets.toml` (all scripts) |
 | GitHub token | `GITHUB_TOKEN` env var / secret (query persistence) |
 | SDK | `anthropic`, `requests` Python packages |
 | Python | 3.12 |
@@ -146,8 +147,9 @@ Stetzer Database/
 ## Build Notes & Lessons Learned
 
 - **Prompt formatting bug**: The extraction prompt contained JSON examples with `{curly braces}` that conflicted with Python's `str.format()`. Fixed by using `.replace()` instead of `.format()` for variable substitution.
-- **API key**: Must be in `~/.zshrc` as `export ANTHROPIC_API_KEY="sk-ant-..."` for persistence. After editing `~/.zshrc`, run `source ~/.zshrc` or open a new terminal. Use `echo $ANTHROPIC_API_KEY` to verify it's set before running scripts.
+- **API key**: All scripts auto-load `ANTHROPIC_API_KEY` from `.streamlit/secrets.toml` — no shell profile or environment variable needed. The dashboard reads via `st.secrets`; the CLI scripts (`query.py`, `extract.py`) parse the TOML file directly at startup.
 - **Python command**: Use `python3` and `python3 -m pip`, not `python` or `pip` (not available on this system).
+- **Safari dark mode**: iOS Safari shows white browser chrome bars unless the page declares dark-mode intent. Fixed by injecting `color-scheme: dark` CSS and a `theme-color` meta tag via JavaScript in `dashboard.py`.
 
 ---
 
@@ -190,7 +192,8 @@ streamlit run dashboard.py
 
 ### Secrets
 
-Local (`.streamlit/secrets.toml`, never committed):
+All secrets live in `.streamlit/secrets.toml` (never committed). Both the dashboard and CLI scripts read from this file automatically — no environment variables needed.
+
 ```toml
 ANTHROPIC_API_KEY = "sk-ant-..."
 APP_PASSWORD = "stetzer"
@@ -230,6 +233,8 @@ git push
 | Dashboard — dashboard.py | ✅ Live on Streamlit Community Cloud | 2026-03-26 |
 | Query persistence | ✅ GitHub-backed, survives redeploys | 2026-03-26 |
 | Mobile layout | ✅ Centered layout enabled | 2026-03-26 |
+| Safari dark mode | ✅ Browser chrome matches dark theme | 2026-04-05 |
+| API key config | ✅ Auto-loaded from secrets.toml (no env var needed) | 2026-04-05 |
 
 ### Adding New Transcripts
 
