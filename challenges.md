@@ -1,6 +1,6 @@
 # Common Client Challenges
 
-*Ranked by how frequently they appeared across 57 sessions*
+*Ranked by how frequently they appeared across 66 sessions*
 
 ## How do you effectively transition from remodeling to full-scale custom home building, and what are the best strategies for attracting high-end clients who value quality over cost? (1 session)
 
@@ -1709,3 +1709,275 @@
 ## How can a new-to-market construction management and design firm (Build Happy) break into the spec builder ecosystem in a new city like Sarasota? (1 session)
 
 *Session: 2026-03-10 — Spec Builders Roundtable: Plans, Estimating, Tools, and Selling Strategy*
+
+## How to transition a long-time jack-of-all-trades employee from a hands-on trade mindset to a project management mindset, including getting him to coach rather than dismiss workers who don't meet his standards. (1 session)
+
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+## How to get project managers to come to weekly meetings truly prepared to drive the conversation about their projects, rather than requiring the owner to pull information from them. (1 session)
+
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+## How to determine hiring criteria for project managers at different stages of business growth, and whether to find job posting templates or formats that attract high-standard candidates. (1 session)
+
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+## How to justify and communicate a project management fee to potential clients who compare proposals from builders with no such fee. (1 session)
+
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+## How to determine the right number of projects per project manager without overloading them, and what a PM's day actually looks like when managing one or two projects. (1 session)
+
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+## How to decide which materials and ordering responsibilities belong to the PM versus the trade, especially for items like windows, framing, tile, and wood floors. (1 session)
+
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+## How to calculate the project manager fee and whether it should be a percentage of cost, a monthly fee, or tied to salary plus overhead, and how to separate it from the owner fee. (1 session)
+
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+## How to scale from under $2 million in revenue while keeping payroll lean and avoiding the trap of hiring too many layers of superintendents and assistants before cash flow supports it. (1 session)
+
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+## Ryan is scaling into larger projects and underestimated the time his project managers need on-site, leading to overhead strain and uncertainty about what revenue-to-expense ratio is healthy for his stage of growth. (1 session)
+
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+## Ryan is coming out of a dry season and is trying to determine whether to pursue more work or hold operating costs steady while building toward 12 months of operating reserves. (1 session)
+
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+## Susie operates in spec home construction where there is no buyer and no incoming cash during the build, creating extended periods where the business is simply feeding the system to stay afloat. (1 session)
+
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+## An unnamed participant manages all financial operations for a design-build firm with no clear picture of actual profit margin, no salary structure, and a draw process she describes as a shot in the dark each month. (1 session)
+
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+## The same participant struggles with designing as they build, making it difficult to have invoices ready two to three months in advance and to align percent-complete with percent-billed. (1 session)
+
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+## Abby has not yet completed the cash flow sheet due to life demands and is unsure of the quickest path to getting it accurate enough to be useful without spending excessive time on precision. (1 session)
+
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+## David asked about providing clients with contract language around the draw schedule so clients know in advance when money needs to be ready. (1 session)
+
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+## Tiana noted that California law restricts upfront deposits to $1,000, requiring builders to structure pre-construction and materials invoices differently and making change order integration into draw schedules especially complex. (1 session)
+
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+## Lumber yards and suppliers for engineered wood products often take three to four weeks to return quotes, making the ten-to-eleven-day pricing timeline difficult to meet. (1 session)
+
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+## Meeting with a prospective client who has architectural plans but no interior designer yet, making it hard to provide accurate finish-level pricing. (1 session)
+
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+## How to structure and communicate the overhead line item on smaller projects where a high combined fee percentage feels difficult to justify to clients. (1 session)
+
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+## Uncertainty about whether to charge a project management fee separately when the owner is also serving as the project manager on a small team. (1 session)
+
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+## Clients on cost-plus contracts sometimes ask what the builder's incentive is to save money since the builder profits from higher costs. (1 session)
+
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+## How to handle situations where a subcontractor's final cost exceeds their original quoted scope—determining who absorbs the overage. (1 session)
+
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+## How to update the budget for material price fluctuations during construction and whether that requires formal change orders or can be handled through ongoing budget modifications. (1 session)
+
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+## Feeling uncomfortable charging appropriate fees due to fear of losing the work or concern about overcharging clients, even when current pricing results in the builder losing money. (1 session)
+
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+## A participant asked how to handle the structural engineering implications of slate and clay tile roofs, including what dead load numbers to provide the engineer. (1 session)
+
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+## A participant in Chicago had a roofer who was omitting a drip edge on composition shingle roofs despite it being called out on architectural plans, and was unsure whether to push back. (1 session)
+
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+## A participant had an architect specify Densdeck on a TPO flat roof but the roofer called it over-design and the homeowner wanted to remove it to save money. (1 session)
+
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+## A participant in Dallas had a pedestal deck system with TPO already installed and materials on hand but could not find any subcontractor willing to install the tile tech pedestal system. (1 session)
+
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+## A participant building a covered pitched deck was struggling to find a product or detail that would allow the pedestal tile to wrap the edge as a fascia element instead of exposing the pedestal underside. (1 session)
+
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+## A participant asked whether TPO was appropriate for a flat roof covering interior finished space versus an exposed outdoor area. (1 session)
+
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+## A participant noted that composition shingle roofing in Canada was coming in around $135,000 for 4,000 square feet, which was significantly higher than US pricing, and sought explanation. (1 session)
+
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+## A spec home in Southern Utah finished in September has had to be dropped $100,000 and is still unsold, in a market with roughly 700 competing spec homes for sale in the same zip code. (1 session)
+
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+## Competing against other spec builders who undercut prices on comparable products, making it difficult to justify premium pricing based on superior finishes when appraisals and comps drag values down. (1 session)
+
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+## A basement flooded while homeowners were out of town for two weeks after a GFCI circuit tripped and disabled the sump pumps, raising questions about builder liability and what should be covered under warranty. (1 session)
+
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+## Homeowners expecting builders to cover all repairs indefinitely, including items like low-flush toilets they were dissatisfied with, well outside the warranty period. (1 session)
+
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+## High upfront design and planning costs (up to $40,000) on atypical lots before any ground is broken, eating into project margins. (1 session)
+
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+## Difficulty knowing when to walk away from a piece of property due to deal flow pressure and not wanting to leave the business pipeline empty. (1 session)
+
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+## Proximity to a school being a negative selling factor in some markets (Dallas) despite being a positive in others, creating location-specific uncertainty. (1 session)
+
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+## Sandy asked how much of the internal budgeting process is shared with clients in weekly meetings and at what point the conceptual budget transitions to the budget versus actual format. (1 session)
+
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+## Ryan raised the issue of frequently over-budget framing material packages due to missing engineered plans, and questioned whether to adjust certainty percentages or add a buffer and how to communicate that transparently versus what other builders call 'fluffing' numbers. (1 session)
+
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+## Ryan asked how to handle client pushback when a low price certainty percentage implies the total cost could be significantly higher than the presented number. (1 session)
+
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+## Dave asked whether the builder should discount or waive their management fee on overages caused by pricing changes outside anyone's control, such as lumber cost increases. (1 session)
+
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+## Dave shared a real scenario where refunding a management fee on an over-budget driveway project did not repair the client relationship and asked how to handle client dissatisfaction when costs exceed expectations despite proper change order communication. (1 session)
+
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+## Dave asked how to evaluate which custom home projects to pursue when you are transitioning from spec building and have the ability to be selective, specifically how to say no to projects that do not excite you. (1 session)
+
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+## Tiffany described a project that ballooned from an expected $350,000 to approximately $850,000 with a client who said he did not want money meetings, leaving her uncertain whether her drip communication strategy was being received. (1 session)
+
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+## Tiffany encountered a situation where her contract did not clearly define her fee for coordinating subcontractors like landscapers who were brought in late in the project, resulting in the client trying to dictate her compensation structure. (1 session)
+
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+## A homeowner understood the budget conceptually but still could not fully grasp how price certainty worked, prompting the creation of the three-column color-coded budget communication tool. (1 session)
+
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+## Janine's prospective clients are comparing multiple builders and pushing for a full trade walk and bid before having engineering, elevations, a lighting plan, or full selections, making accurate pricing impossible. (1 session)
+
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+## Ryan's team is experiencing difficulty managing change orders as projects grow, with trades submitting change order costs bundled into regular draw invoices rather than as separate documented items. (1 session)
+
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+## Dave's team is using mud-in recessed lights for the first time and has encountered a product that cannot be serviced without cutting a 12x12 hole in the ceiling, with no clear repair process yet established. (1 session)
+
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+## An electrical plan from an architect showed 200 recessed cans but did not include under-cabinet lighting, plug molds, or other interior designer-specified electrical items, leading to potential scope gaps if the electrician only prices off the architectural drawings. (1 session)
+
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+## Laurel's team has experienced homeowner complaints about small pin lights not throwing enough light and compatibility issues with Lutron systems, raising the question of whether a lighting designer fee should be included in the project. (1 session)
+
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+## Dave's team installed mud-in tape lighting in a mechanically congested hallway with very low ceiling clearance, only to discover that the raking light effect required a full level-five drywall finish on 80 linear feet of hallway, significantly increasing drywall costs. (1 session)
+
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+## A participant's project manager was operating at 110% capacity and had fallen behind on daily logs and weekly reporting, raising the question of how to reset standards without further overwhelming him. (1 session)
+
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+## Clients were not reading or acting on detailed weekly emails, making participants question whether comprehensive reporting was worth the effort. (1 session)
+
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+## Clients on two major projects were failing to make decisions, forcing the builder to pause both jobs for multiple weeks—a first for the company. (1 session)
+
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+## A participant worried that showing clients too much operational detail through weekly reports could make clients overly inquisitive and hold the builder to unrealistic standards. (1 session)
+
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+## A participant asked how to bridge the gap between the internal action items tracker—which uses real target dates—and clients' expectations when construction realities cause those dates to shift. (1 session)
+
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+## A participant was preparing to hire a project manager and had no clear process for onboarding, ongoing education, or quality control of a new hire's work. (1 session)
+
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+## A participant asked how much time owners should spend on site with project managers and whether it is ever useful to visit without the PM present. (1 session)
+
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+## A participant's subcontractor (stonemason) underbid a stone project and needed help finding cost reductions to honor the pricing already submitted to the client. (1 session)
+
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+## Erin described a situation where a floor tile sample shown to a homeowner was a different color than what was installed, causing a dispute that required supplier intervention. (1 session)
+
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+## A participant (Bennett) asked how to reduce costs on a project where a cost-conscious client wants extensive brick work on a front porch and back patio but brick is coming in too expensive. (1 session)
+
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+## A participant (Dave) is planning a curved stone arch shower with Calacatta Viola and is unsure how to handle the multi-piece layout, maintain visual continuity of the veining across joints, and keep costs manageable. (1 session)
+
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+## A participant (Martha) showed a picture of a stone vanity with apparent drawers built into the stone facade and asked how to determine if the drawers are functional and how to replicate the design. (1 session)
+
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+## A Canadian participant noted that clients are increasingly moving toward cast stone as a cost-saving alternative to Indiana limestone, and asked whether engineered stone products are gaining traction in the Texas market. (1 session)
+
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+## A participant asked whether cast stone can be sealed to address its moisture and efflorescence vulnerabilities. (1 session)
+
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+## A participant wanted to understand the difference between efflorescence in stone and honeycombing in concrete. (1 session)
+
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*

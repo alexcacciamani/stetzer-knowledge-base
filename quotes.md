@@ -1,6 +1,6 @@
 # Notable Quotes
 
-*From 57 coaching call sessions, attributed by date and title*
+*From 66 coaching call sessions, attributed by date and title*
 
 ## 2024-03-20 — Builder's Edge Program Kickoff Call
 
@@ -799,3 +799,129 @@
 > On the custom build nightmare: 'He said they put in an entire bathroom tile and when she saw it rendered she walked in and said I hate it — rip it out. She's currently on the second tile she's ripped out and destroyed. He's like, it's crushing my soul.'
 
 > On staging in low-inventory markets: 'There's so few houses that if someone wants a house — I haven't staged a house in years.'
+
+## 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team
+
+> On free throw standards as a model for business: 'You better believe people are practicing and you're going to be a 92% free throw shooter, period. But it's because people know the rules.'
+
+> On building systems: 'If you want to build an engine that works, copy this for real. This engine works. Now, getting people to run the engine, that's what we need to do, but this is the engine.'
+
+> On staying competitive: 'If you're staying the same, you're actually losing. You really are. You're losing time. You're losing effectiveness.'
+
+> On hiring based on scorecards: 'Just because they've been building for 10 years does not mean they fit this level of standards. People appreciate the clarity. Know exactly what you want and hire them.'
+
+> On communicating deliverables to clients: 'When you hire a building company, the clearer you are on the deliveries, the more often you're going to get hired.'
+
+> On lean business freedom: 'It feels really good to turn a job away that I just don't want to do. And I don't feel handcuffed to take every job that comes across our plate.'
+
+## 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies
+
+> On enduring hard months: 'There are times we're in the red that month. Like it's not going so great. But when you have the larger picture, you may see you're in the red for a little bit. But based on these new projects starting, you're going to be in the green. So don't worry, don't freak out. You're gonna be okay. Because you see the snapshot.'
+
+> On what drives business decisions: 'I watch money, but it has never driven me. It will never be the driver behind my decisions. What is the driver is the type of client, the environment that I want to play in. And that tends to align with profitability.'
+
+> On spec home cash flow: 'In a spec, no buyer, no cash.' — Susie, capturing the fundamental cash flow risk of speculative building.
+
+> On the psychology of clients and money: 'I got burned one time and I knew it was coming. I knew this would happen... pay attention when they think about money, just be ready for it in the last two or three months.'
+
+> On generational wisdom about draws: 'My dad would always say to me, only draw the minimum amount of money that you need and never always be ahead of that—draw it down, pay it back, draw it down, pay it back—because we have seen so many of our competitors go out of business.' — Susie
+
+> On making decisions that serve your network: 'Every time I've tried to maneuver with it, it tends to work out when you're making decisions that are most helpful for the people in your inner circle. Because when you do that with an architect, with a designer, with a client, it always comes back. Like it literally always comes back to you.'
+
+## 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide
+
+> On qualifying clients before pricing: 'If you're like 95% sure that we're the right builder for you, then we'll go ahead and go through this pricing process. But if we're not, I totally get it.'
+
+> On knowing your project better than competitors: 'If clients are talking to two or three builders, there is a 100% chance of you showing up really knowing this project way better than anyone else.'
+
+> On charging project management fees: 'Everybody after this meeting, you need to put PM fees in. It is part of being a healthy company, and don't justify—well, I'm the owner and the project manager—don't let them do that to you.'
+
+> On phone follow-up with trades: 'You have to pick up the phone and call these trades or you will not get answers. So bottom line.'
+
+> On honesty with clients about fees: 'I think people appreciate honesty—literally, people run companies, understand like, here are the numbers. This is my burn rate. This is for me to show up with a smile and make sure my trades show up for you.'
+
+> On hustle and fee alignment: 'You're leaving money on the table for the hustle. The hustle factor needs to go up. You can do that. You need to tell people these things—I will hustle for you, here's the percent you get for the hustle.'
+
+## 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems
+
+> On material quality: 'We've made all the mistakes along the way and learned from that.'
+
+> On Brazilian and Chinese slate: 'One shipment may be good, and the next shipment's not. So we've gotten away through the years from the Brazilian slate and the Chinese slate.'
+
+> On puncturing window pans: 'Do not puncture any pans.'
+
+> On TPO versus modified bitumen: 'If you have a one or two story in a very wooded area, we would much rather do a three ply modified bit roof. If a limb falls on a TPO roof from 20 feet up, it's probably going to punch a hole in it.'
+
+> On pedestal system repairs: 'If we have a leak, we just take a couple of panels up, fix it and put them back.'
+
+> On roof pricing: 'Most of the tile and slate roofs we do now are $3,000 a square... a slate roof or tile roof in the quality rain with copper flashing, they're going to be approximately $3,000 a square.'
+
+## 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management
+
+> On building for the right buyer: 'We are building for a buyer here and with the belief that it will suit the buyer and it will move. When people build not for the buyer, that's when you see it sit.'
+
+> On unfixable location problems: 'There are some things that you can't fix. You can't make prettier. You can't make a buyer get over. And I tend to like, before I be so eager to want a piece of property, just because it was available and it was a good price.'
+
+> On the women's perspective in design: 'If this was my house as a woman, as a mom, like, and I'm in the kitchen, how do I want to look? I want to look out in the backyard. I want to be able to see the kids. Whereas maybe my competitor, who was just a guy talking to the architect, maybe isn't thinking about those little things.'
+
+> On post-warranty repairs: 'I might say I'll bring my sub back, but it's going to be $35 to fix the cracks. We're way outside of warranty period. This is normal wear and tear. I'm happy to bring him back, but we don't work for free, just like you don't.'
+
+> On lessons from a bad lot: 'This was probably an F lot. But I figured I could give a stab at it because the price was so good. I may have shot myself in the foot. So: no more corner lots that are shaped like a triangle.'
+
+> On homeowner expectations: 'The homeowner, the expectation is that everything falls on the builder. Everything, every problem. And nowadays with the internet and ChatGPT, they could come back and say, I investigated this—it makes it a lot harder.'
+
+## 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management
+
+> On the game-changing impact of price certainty: 'I just noticed that there are a lot of meetings I was going to, and we did not end up getting the projects. And I was like, what am I not communicating? Well, this is what I wasn't communicating. As soon as I started communicating how certain we are about things, then people were interested in talking more to us about their project.'
+
+> On professional language around budget adjustments: 'Fluff and pad need to leave your terminology because it doesn't do you any good as professionals. I sound like I'm cheating someone if I use those words.'
+
+> On client ownership of decisions: 'At the end of the project, even though it might be $2, $3 million more than people expected, there's a value in them owning their decisions.'
+
+> On not guaranteeing a final number: 'I think we really have to do a good job of saying, I don't have a crystal ball. The expectation that I do have a crystal ball is just not an accurate perspective. What I do have is some information based on actual data received and historical data.'
+
+> On playing the underdog mindset: 'There aren't a lot of people like me in the industry. So I always felt like the underdog. I got to do better. I got to do better. And now I think that just sort of sticks. And it's a good place to play.'
+
+> On the builder's true early role with a new client: 'I am not your builder right now. What I am right now is making sure I understand your project and making sure you have the right architect and designer. If we want to work together later, great. But that's not my role right now.'
+
+## 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools
+
+> On budget communication: 'If they could not talk to me or listen to me, how could I do that on paper? And then verbalize what it actually means.'
+
+> On client trust during trade walks: 'The day you walked in with 15 guys behind you ready to price our project, I was sold.'
+
+> On builder accountability for missed scope: 'If I miss it or if we miss it, guess who owns it? And I don't want to do that.'
+
+> On price certainty: 'We leave one to 5% for God to, you know, if something shows up.'
+
+> On responding to unclear clients: 'Our clients tell us a lot about what they actually need and when we can respond well to that, we tend to stay in their world as builders.'
+
+> On AI tools: 'All of building is 80% you know, it's done before. There's a whole, maybe even 60% done before 40% discovery. I know for our homes it's mostly discovery. So like, you're in good hands. This is a crowd that understands the discovery process.'
+
+## 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring
+
+> On why the reporting system exists: 'The reason that exists was so that I could step away from running projects and I could make sure that they're running the projects. That's why it exists.'
+
+> On project managers' reaction to the weekly reporting system: 'They hate it, but it keeps us on track. We hate it. That's their answer. I'm like, okay, so we got to keep it.'
+
+> On hiring only when the right candidate appears: 'When I didn't think like that, I hired people just to fill the spot, and it was more work for me.'
+
+> On standards: 'Whatever our standard is has to be what we do because if it's not—we're not doing it or we're just choosing when to do it—it's not a standard at all.'
+
+> On transparency with clients: 'It does happen. One out of 100, or one out of 50. And as soon as that does happen, we pull it back. We say, listen, this is not the intent.'
+
+> On the value of on-site observation over formal training: 'To me, it's just studying the home. Like literally, like there's so much we can learn just by looking at the work and asking trades, why do you do this?'
+
+## 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles
+
+> On stone customization possibilities: 'You can do anything for a price.'
+
+> On working with a great supplier: 'If you're getting yourself partnered with a great supplier that's passionate about what they do and impassioned about the people that they work with, like you're winning.'
+
+> On natural stone durability: 'You can see centuries of places like Petra, stone, real stone does stand the test of time and it can always be cleaned and it can always be repaired if something happens.'
+
+> On supplier relationships and transparency: 'Those are the best relationships to have. And when you have relationships like that, like this with your partners, I think that's part of the joy of doing my job.'
+
+> On the value of open communication with suppliers: 'As long as you're in open communication with your supplier and they know what your vision and your expectation is and your overall look that you want. And what you want the end result to be, we can get there if we work as a team and communicate together.'
+
+> On stone installation failure root causes: 'I rarely see an actual material failure... I would say 98% of the time, it's either an installation issue, or it's a sealing issue.'

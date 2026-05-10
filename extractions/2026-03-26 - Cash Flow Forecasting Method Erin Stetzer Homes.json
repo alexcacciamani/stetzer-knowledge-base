@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-26",
+  "title": "Cash Flow Forecasting Method and Draw Schedule Strategies",
+  "session_type": "open_workshop",
+  "summary": "Erin walked participants through the Builder's Edge cash flow forecasting spreadsheet, explaining how to project revenue and expenses across 12-24 month horizons for new construction and remodeling projects. The session opened into a rich Q&A covering healthy financial ratios, draw schedule cadence, deposit structures, and client payment patterns. Participants shared real-world strategies for managing cost-plus contracts, bank draws, and end-of-project collection risks.",
+  "teachings": [
+    {
+      "concept": "Cash Flow Forecasting as a Business Decision Tool",
+      "explanation": "The cash flow spreadsheet is designed to give builders a monthly snapshot of projected revenue versus expenses, allowing them to see where they are now, two months from now, twelve months from now, and eighteen months from now. This visibility enables strategic decisions about hiring, marketing investments, or diversifying the business rather than reacting to month-to-month pressures.",
+      "quote": "Once you know your projected net profit, you're in a position now to say, hey, we've been wanting to hire another project manager, or we've been looking to increase our marketing expenses, or we want to actually build pools now. Do I have the capital to start this business?"
+    },
+    {
+      "concept": "Revenue Distribution Across Project Timeline",
+      "explanation": "Rather than treating project revenue as a lump sum, builders should divide projected revenue across the months of a project based on historical data or flat percentages. This reveals the true monthly cash position and helps identify light and heavy billing months in advance.",
+      "quote": "You can just plug in either a flat across the board or percentages based on historical data. Again, this is snapshot information. This is projected information."
+    },
+    {
+      "concept": "Burn Rate Awareness",
+      "explanation": "Knowing your monthly burn rate—the fixed cost to keep the company running with current staff and resources—is a foundational financial metric. It anchors all other decisions about project selection, hiring, and reserves.",
+      "quote": "We want to know our burn rate per month. We want to know what it would take to keep this company running with the people we have and the resources we have per month."
+    },
+    {
+      "concept": "Three to Six Months of Operating Reserve as a Healthy Benchmark",
+      "explanation": "In the construction industry, maintaining three to six months of operating expenses in reserve is considered a healthy cushion. This is especially important because construction is highly market-dependent and projects can be delayed or fall through.",
+      "quote": "I think in this industry, it's different in other industries, but in this industry, because we're so beholden to the market, right? So you just have to have the stomach and the oomph to know that it does move... three to six months is, I would say, normal."
+    },
+    {
+      "concept": "Client Payment Pattern Recognition",
+      "explanation": "Clients who are slow to pay early in a project will almost always become harder to collect from near project completion. Builders should observe payment cadence early and proactively shift to smaller, more frequent draws in the final months to reduce collection risk.",
+      "quote": "Pay attention to their patterns because I promise you by the end of this project, as you get to the last two months, it's going to be super hard to get the money from them because there's something around this."
+    },
+    {
+      "concept": "Staying Two to Three Steps Ahead on Invoicing",
+      "explanation": "Proactively organizing invoices for upcoming major purchases—tile, cabinets, appliances—so they are ready to include in the next draw keeps the project cash flow healthy and prevents the builder from financing client costs out of pocket.",
+      "quote": "If I'm framing right now, we're already reviewing these tile layouts. We're organizing the tile order. Like it's going to be ready to get—this house is actually ready to go—so that we do have the invoice next month. We can send the draw to be able to pay 50% of the tile. And now we're not cash out. We're not panicking."
+    },
+    {
+      "concept": "10% Upfront Deposit on Cost-Plus Contracts",
+      "explanation": "Taking a 10% deposit of the total contract value at signing gives the builder a capital buffer and keeps percent-complete aligned with percent-paid. The deposit is credited toward the final invoice, ensuring both parties land at the same place at project close.",
+      "quote": "At a minimum, we're looking to take a minimum of a 10% deposit. We bill monthly. Generally we're not doing more work than that 10%, whatever account for anyhow. And then we just back that 10% off of our final invoice."
+    },
+    {
+      "concept": "Season of Business Over Fixed Financial Ratios",
+      "explanation": "There is no universal revenue-to-expense ratio that works for every builder. What matters more is understanding the current season of the business, the types of projects being pursued, and whether the company is positioned to achieve its two-year goals. Profitability tends to follow alignment with the right clients and project types.",
+      "quote": "I tend to make decisions based on where I want to be two years from now. So I'm not so stuck on the monthly... it's a patient business. It's a hard business. There's nothing easy about what we're doing."
+    }
+  ],
+  "actionable_advice": [
+    "Download the cash flow spreadsheet from the Builder's Edge playbook and start by entering made-up numbers to get comfortable with the format before adding real figures.",
+    "Set a 45-minute timer and complete an initial pass of the cash flow sheet, entering rough estimates for expenses by annualizing QuickBooks data and dividing by 12 rather than trying to be exact.",
+    "Establish a consistent draw cadence—such as the 1st or 15th of the month—so both builder and client can pre-plan cash movements more accurately.",
+    "Monitor client payment timing early in a project and, if slowness is detected, shift to bi-weekly smaller draws in the final two to three months to reduce end-of-project collection risk.",
+    "Require a 10% deposit of the total contract value at signing on cost-plus jobs and credit it against the final invoice.",
+    "For large high-ticket items like cabinets, appliances, or tile, issue a separate deposit invoice to the client in advance of ordering so the builder is never financing those purchases.",
+    "Provide clients with historical draw percentage data by month at the start of a project so they can pre-plan fund transfers or stock liquidations.",
+    "If a client is in a house with a large outstanding balance, consider structuring a second mortgage as a secured repayment mechanism rather than leaving the debt unsecured.",
+    "Place yourself on payroll as a W2 employee to create stability and treat your role as a replaceable position for future succession planning.",
+    "Remember to account for taxes when calculating projected net profit on the cash flow sheet, as taxes will always reduce the available capital for future decisions."
+  ],
+  "client_challenges": [
+    "Ryan is scaling into larger projects and underestimated the time his project managers need on-site, leading to overhead strain and uncertainty about what revenue-to-expense ratio is healthy for his stage of growth.",
+    "Ryan is coming out of a dry season and is trying to determine whether to pursue more work or hold operating costs steady while building toward 12 months of operating reserves.",
+    "Susie operates in spec home construction where there is no buyer and no incoming cash during the build, creating extended periods where the business is simply feeding the system to stay afloat.",
+    "An unnamed participant manages all financial operations for a design-build firm with no clear picture of actual profit margin, no salary structure, and a draw process she describes as a shot in the dark each month.",
+    "The same participant struggles with designing as they build, making it difficult to have invoices ready two to three months in advance and to align percent-complete with percent-billed.",
+    "Abby has not yet completed the cash flow sheet due to life demands and is unsure of the quickest path to getting it accurate enough to be useful without spending excessive time on precision.",
+    "David asked about providing clients with contract language around the draw schedule so clients know in advance when money needs to be ready.",
+    "Tiana noted that California law restricts upfront deposits to $1,000, requiring builders to structure pre-construction and materials invoices differently and making change order integration into draw schedules especially complex."
+  ],
+  "notable_quotes": [
+    "On enduring hard months: 'There are times we're in the red that month. Like it's not going so great. But when you have the larger picture, you may see you're in the red for a little bit. But based on these new projects starting, you're going to be in the green. So don't worry, don't freak out. You're gonna be okay. Because you see the snapshot.'",
+    "On what drives business decisions: 'I watch money, but it has never driven me. It will never be the driver behind my decisions. What is the driver is the type of client, the environment that I want to play in. And that tends to align with profitability.'",
+    "On spec home cash flow: 'In a spec, no buyer, no cash.' — Susie, capturing the fundamental cash flow risk of speculative building.",
+    "On the psychology of clients and money: 'I got burned one time and I knew it was coming. I knew this would happen... pay attention when they think about money, just be ready for it in the last two or three months.'",
+    "On generational wisdom about draws: 'My dad would always say to me, only draw the minimum amount of money that you need and never always be ahead of that—draw it down, pay it back, draw it down, pay it back—because we have seen so many of our competitors go out of business.' — Susie",
+    "On making decisions that serve your network: 'Every time I've tried to maneuver with it, it tends to work out when you're making decisions that are most helpful for the people in your inner circle. Because when you do that with an architect, with a designer, with a client, it always comes back. Like it literally always comes back to you.'"
+  ]
+}

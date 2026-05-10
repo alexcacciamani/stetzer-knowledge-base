@@ -1,6 +1,6 @@
 # Teachings & Frameworks
 
-*Synthesized from 57 coaching call sessions*
+*Synthesized from 66 coaching call sessions*
 
 ## Pricing & Proposals
 
@@ -1901,6 +1901,300 @@ Using immersive 3D rendering tools (like Revit) to show clients exactly what spa
 
 > We don't start our build before we have everything selected and it's — I mean we're purchasing already before we start a spec build. That's how we know we're going to be on budget.
 
+### The Four-Week Accurate Schedule with Trade Commitments
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+A four-week schedule is the optimal window for construction planning. Two weeks is too short to react; six or eight weeks shifts too much. Critically, the schedule must reflect actual commitments from trades, not be fabricated to satisfy the owner.
+
+> I produce an accurate four week schedule with commitments from trades. This is not a poof, I'm going to put a bunch of words down and pretend I've talked to everybody.
+
+### Lean Organizational Structure with Separated Lanes
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+Keeping project management and financial management in clearly separated roles, connected by one bridge person who manages modifications and communication, creates accountability without confusion. Staying lean avoids the trap of bloated payroll forcing owners to take unwanted projects.
+
+> We do keep money, project management, and money separate... We've intentionally stayed around 10 people, because when we start getting into the 12, 15, 20, we're now going to silo these teams.
+
+### Cash Flow Forecasting as a Business Decision Tool
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+The cash flow spreadsheet is designed to give builders a monthly snapshot of projected revenue versus expenses, allowing them to see where they are now, two months from now, twelve months from now, and eighteen months from now. This visibility enables strategic decisions about hiring, marketing investments, or diversifying the business rather than reacting to month-to-month pressures.
+
+> Once you know your projected net profit, you're in a position now to say, hey, we've been wanting to hire another project manager, or we've been looking to increase our marketing expenses, or we want to actually build pools now. Do I have the capital to start this business?
+
+### Burn Rate Awareness
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+Knowing your monthly burn rate—the fixed cost to keep the company running with current staff and resources—is a foundational financial metric. It anchors all other decisions about project selection, hiring, and reserves.
+
+> We want to know our burn rate per month. We want to know what it would take to keep this company running with the people we have and the resources we have per month.
+
+### Staying Two to Three Steps Ahead on Invoicing
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+Proactively organizing invoices for upcoming major purchases—tile, cabinets, appliances—so they are ready to include in the next draw keeps the project cash flow healthy and prevents the builder from financing client costs out of pocket.
+
+> If I'm framing right now, we're already reviewing these tile layouts. We're organizing the tile order. Like it's going to be ready to get—this house is actually ready to go—so that we do have the invoice next month. We can send the draw to be able to pay 50% of the tile. And now we're not cash out. We're not panicking.
+
+### 10% Upfront Deposit on Cost-Plus Contracts
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+Taking a 10% deposit of the total contract value at signing gives the builder a capital buffer and keeps percent-complete aligned with percent-paid. The deposit is credited toward the final invoice, ensuring both parties land at the same place at project close.
+
+> At a minimum, we're looking to take a minimum of a 10% deposit. We bill monthly. Generally we're not doing more work than that 10%, whatever account for anyhow. And then we just back that 10% off of our final invoice.
+
+### Season of Business Over Fixed Financial Ratios
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+There is no universal revenue-to-expense ratio that works for every builder. What matters more is understanding the current season of the business, the types of projects being pursued, and whether the company is positioned to achieve its two-year goals. Profitability tends to follow alignment with the right clients and project types.
+
+> I tend to make decisions based on where I want to be two years from now. So I'm not so stuck on the monthly... it's a patient business. It's a hard business. There's nothing easy about what we're doing.
+
+### Trade Tracker Workflow
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+A structured day-by-day timeline for managing bid solicitation from trades, starting with sending plans on day one, confirming receipt on day three, answering questions on day five, following up on day ten, and requiring quotes by day eleven. The system ensures trades are actively moved through the process rather than left to respond on their own.
+
+> We do not leave it up to them and hope for day five that they have questions. We've got to move them along with us.
+
+### Client Alignment Before Pricing
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+Erin requires a high degree of client alignment—approximately 95% certainty the builder is the right fit—before investing significant time in the full pricing process. This is often established by walking a completed project with the potential client first.
+
+> If you're like 95% sure that we're the right builder for you, then we'll go ahead and go through this pricing process.
+
+### Apples-to-Apples Bidding Across Multiple Subs
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+When soliciting bids from multiple subcontractors for the same trade, any clarifications, additions, or corrections discovered from one bidder must be communicated to all others so that every bid reflects the same scope of work.
+
+> We want to make sure that everybody's analyzing things consistently. Architects do that with builders, right?
+
+### Separating Overhead and Profit as Distinct Line Items
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+Rather than combining overhead and profit into one fee, Erin separates them so clients can clearly understand what each covers. Overhead funds ongoing business operations; profit ensures the company survives and can stand behind its work long-term. Separation also protects both from client negotiation.
+
+> We make a profit and we're around for the next 10 or 20 years for people. And so we have just been upfront about that.
+
+### Project Management as a Separate Line Item
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+The cost of a field project manager should be broken out as its own line item below the cost-of-work total, separate from the builder's overhead and profit fee. This reflects the distinct role of field management versus back-office operations and is critical for company financial health.
+
+> My business would not have survived if I didn't have this project management cost right here.
+
+### Fixed Management Fee on Cost-Plus Projects
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+One participant shared a hybrid model where the management fee is fixed at contract signing based on the original budget, even though actual costs fluctuate during construction. This removes ongoing fee-related friction with clients and keeps focus on the build rather than the builder's compensation.
+
+> As soon as the focus gets on the builder and how much the builder's making or not making, we're losing track of what we're doing. We're trying to build a beautiful home for them and make it an enjoyable experience.
+
+### Percent Certainty in Budgets
+*Session: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide*
+
+Erin assigns a percent-certainty rating to each cost code in the budget to indicate how confirmed a number is. This transparency allows her to revisit uncertain line items as the project progresses and set proper client expectations about potential price movement.
+
+> That's why in the initial budget, I'm so heavy on percent certainty, because I can always reference, I can always go back, like, well, we actually missed a few details.
+
+### Slate Quality and Source Selection
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+Not all slate is equal. Spanish slates like Samaca and Coupa and Vermont slates are high quality and reliable, while Brazilian and Chinese slates are prone to failure from thermal shock and inconsistent quality between shipments. Builders should avoid lower-quality sources regardless of cost savings.
+
+> Even though it is slate, there's different qualities, and we would steer away from those, and we'd steer away from the Chinese slates for the same thing because we just can't guarantee their quality.
+
+### Hyperlocal Market Expertise
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+Successful spec builders concentrate their activity in areas they know intimately, which gives them an edge in understanding what buyers want, tracking pricing trends, and identifying opportunities others miss. Being an agent or deeply embedded in a neighborhood compounds this advantage.
+
+> I work in areas that I'm really, really familiar with. And so that's where I hunt property and where I look for my opportunities. I'm kind of considered hyperlocal.
+
+### Floor Plan Library vs. Custom Design
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+Builders who develop a library of reusable floor plans can reduce design costs significantly and improve efficiency across multiple builds. Creating a new custom plan for every spec is more expensive and time-consuming, though some builders iterate on plans to improve them over successive builds.
+
+> I end up probably to my disadvantage, not reusing the same plan over and over because it's fun to redo them. It's not as cost effective, but things evolve.
+
+### Lot Quality vs. Price Tradeoff
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+Buying a distressed or oddly shaped lot at a discount may seem like a good deal but can result in higher design costs, harder sales, and lower margins. The savings on land acquisition can be quickly erased by custom plan costs and extended days on market.
+
+> On this janky lot that I had, I was 40,000 in before I was 200,000 in before we even broke ground. So that was very expensive, very expensive way to go.
+
+### Budget as a Communication Tool with Price Certainty
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+The budget is not just a financial document but a structured communication tool that conveys how confident the builder is about each line item. Each cost code carries a percentage of certainty, and the cumulative certainty score tells clients exactly how firm or fluid the overall budget is at any given point in the project.
+
+> The whole concept behind this, the way we budget and present our budgets is to be used as a communication tool. The real, real value is in price certainty.
+
+### Conceptual Budget as a Closed Chapter
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+The conceptual budget is explicitly a pre-contract tool used to communicate approximate pricing with transparency about unknowns. Once a contract is signed, it is retired and replaced by the budget versus actual tracking sheet. This prevents clients from treating a preliminary budget as a final number.
+
+> Once we sign that contract, that is, we finished that chapter. Now we move into that longer spreadsheet, the budget versus actual, all the draws.
+
+### Budget vs. Actual Tracking Sheet
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+After contract signing, a detailed spreadsheet tracks every cost code showing original budget, draws made, balance to finish, and percentage used. This allows the builder to ensure the pace of spending aligns with the pace of construction, catching any invoice that seems disproportionate to work completed.
+
+> The idea here is you want to make sure that your construction is in line. Your pace of construction is in line with the money being paid out.
+
+### Internal Modifications Tracker
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+Any budget change during construction is logged in an internal modifications tracker that captures the trade, the overage, whether an approval sheet is needed, the bid link, and the modification document. This single sheet tells the full story of every change without requiring the client to see internal deliberations.
+
+> You can go to this one sheet as a business owner or a project manager or a money manager. You can go to this sheet right here. And it tells us the story of the modification.
+
+### Diamond of Why: Four Reasons Changes Happen
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+Erin tracks the reason behind every modification using four categories: new or deleted scope, something on the plans that simply won't work, a detail not yet developed at the time of budgeting, or a physical change in conditions beyond anyone's control. This framework depersonalizes change orders and gives clients context.
+
+> We always keep track of why things change. It's either new or deleted. It just won't work. It's a detail that's not developed. Or it physically changes.
+
+### Cost-Plus Contract as the Equalizer for Fee Consistency
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+In a cost-plus contract, the builder's fee applies uniformly to all costs whether over or under budget, because the extra time spent on some changes is offset by the ease of others. Negotiating fees line-by-line turns every budget variance into a conflict and undermines the relationship.
+
+> There are plenty of times that you're going to spend very little time on a change and there are plenty of times you're going to spend 18 days on a change. And the only way to even all of that out is with a cost plus contract.
+
+### Language Discipline Around Budget Adjustments
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+Words like 'fluff,' 'pad,' and 'inflate' undermine professionalism and imply dishonesty. When a builder adjusts a number based on historical experience, the correct framing is to explain the reasoning transparently: citing past projects, stating what the data suggests, and clarifying that the client will only be billed for actual costs.
+
+> Fluff and pad need to leave your terminology because it doesn't do you any good as professionals. The exact terminology: this is the quote that we have. In my experience, in all of the jobs I've ever built, it's 30% higher. I'm putting this number in here because this is where I think we could land.
+
+### Tile Selection Education to Help Clients Control Budget
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+Rather than leaving tile allowances vague, builders should educate clients at selection time on exactly how tile choices drive labor costs: small tiles, complex patterns, handmade tiles, and large-format tiles all dramatically increase labor. This empowers clients to make informed decisions and reduces surprise overages.
+
+> 12 by 12 tile, lowest budget. Pattern, got to recognize that. Type of tile, thick, thin, handmade, more money. Three foot by three foot tile, that's going to be expensive because it has to be perfectly flat and it takes three or four people to set that piece of tile.
+
+### Three-Tier Budget Price Certainty Color Coding
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+Budgets are communicated using three color-coded categories: dark green for 'bid ready to execute' (95-99% certain), medium green for 'bid details to be developed' (approx. 75% certain), and light green/gray for 'historical data' estimates. This visual system allows homeowners to understand budget confidence at a glance without needing to interpret numbers.
+
+> The coloring is what represents an explanation of the price certainty. So I'm 95% certain or 99% certain. Cause we leave one to 5% for God to, you know, if something shows up.
+
+### Responding to Client Confusion in Writing
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+When a client doesn't fully understand the budget verbally, builders should develop written communication tools that stand alone without explanation. The goal is to ask: if they could not talk to me or listen to me, how could I do that on paper?
+
+> If they could not talk to me or listen to me, how could I do that on paper? And then verbalize what it actually means.
+
+### Anticipating Scope Creep in Fuzzy Budget Categories
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+Some cost codes like electrical labor are inherently uncertain because downstream decisions (e.g., Lutron systems, lighting type) directly affect labor costs. Builders should proactively identify these interdependencies and plug in adjusted numbers with appropriate color coding rather than waiting for the electrician to commit.
+
+> Although the bid is $100,000, we know that if there's going to be a Lutron system, and we don't have a solid lighting plan, we know that that number needs to go up another $40,000, $50,000. We know that.
+
+### Pre-Construction Services as the Right Entry Point
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+When clients lack engineering, elevations, selections, and full plans, doing a full trade walk and estimate is premature and produces unreliable numbers. The appropriate step is to sell pre-construction services first, provide an investment range, and use the subcontractor pricing guide to show clients how many decisions still need to be made.
+
+> I can spend 20 hours having my estimator put together a bid and it's still not going to tell you what this project's going to cost. Like me giving you a range is, is kind of without saying that's the best we can do right now.
+
+### The Trade Walk as a Trust-Building Event
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+Conducting an organized trade walk where multiple subcontractors arrive together, move room by room, and engage directly with homeowners demonstrates professionalism and builds trust. Clients perceive the trades as a unified team, which differentiates the builder from competitors.
+
+> The day you walked in with 15 guys behind you ready to price our project, I was sold.
+
+### Separate Invoicing for Change Orders vs. Base Bids
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+Subcontractors should be trained to submit completely separate invoices for any work outside the original agreement, each referencing the specific bid or conversation that authorized it. This keeps base contract costs and change order costs clearly delineated in project management systems.
+
+> Anything that is not in that original agreement is a completely separate invoice. 100% of the time they're separate invoices referencing a specific bid or conversation.
+
+### New Products Require SOP Development and Cost Transparency
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+When introducing innovative products like mud-in recessed lights, builders must proactively document serviceability limitations, establish a fixed repair cost, and communicate this to clients before installation. Experimenting with new products on spec homes reduces client risk exposure.
+
+> I think you just have to document that you've told them it's going to be $1,200 to cut it out and replace it. And it may not be available at that time.
+
+### Lighting Designers as a Required Project Dependency
+*Session: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools*
+
+For complex lighting scopes, a lighting design consultant should be required before construction proceeds. They coordinate fixture specs, wire types, Lutron/Crestron compatibility, spacing, and light spray calculations. Without this, builders are left guessing on specs that directly affect electrical labor costs and client satisfaction.
+
+> We have a lighting design designer consultants that packages all of this, the type of wire, the light can, you know, talk to the electrician, make sure it's compatible with Lutron or Crestron or whatever home automation system.
+
+### Action Items Feed the Weekly Report
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+The three documents—action items, four-week calendar, and weekly report—form a sequential system. Project managers who struggled to populate the weekly report were overwhelmed because they had no structured source of information. When action items are maintained daily, the weekly report becomes straightforward to produce.
+
+> If you go action items, calendar, weekly report, over and over again, it becomes a really simple system.
+
+### Hiring Project Managers Through Trade References and Honest Screening
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+Erin's hiring process starts with trusted trade partners (electricians, floor installers, home automation) as referral sources, since they work alongside project managers on high-end projects. She then screens for honesty, technical knowledge, and fit through direct conversations, coffee meetings with team members, and pointed construction questions. Candidates who don't know an answer but say so honestly score higher than those who bluff.
+
+> What I'm looking for is, do they tell the truth?
+
+### Detailed Bid Transparency with Backup Documentation
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+A high-quality stone supplier should provide not just a quote with line-item breakouts, but also a bid detail sheet listing key sizes and piece counts, plus a highlighted set of plans for cross-referencing. This eliminates ambiguity about what is included and makes value engineering straightforward.
+
+> We give, we provide not only a quote with a breakout of the line items on the quote, but we give you a bid detail sheet that has key sizes... and there's a spreadsheet of all the piece sizes and all the piece counts on the project. So there isn't any ambiguity about what you're getting.
+
+### Three Primary Cost Drivers in Stone
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+The cost of a stone project is primarily driven by three factors: the size of stone elements, the level of detail and custom fabrication required, and the raw material selection. Understanding these levers allows builders to make targeted adjustments to bring projects within budget without compromising the overall design intent.
+
+> Cost drivers for stone are always massive stone, level of detail, and the stone selection.
+
+### Natural Stone vs. Cast Stone: Durability and Long-Term Performance
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+Cast stone is less expensive and has its place in lower-budget or concealed applications, but it is more porous, cannot be patched if chipped, and is prone to efflorescence over time. Natural stone is more durable, repairable, and appropriate for high-end projects where long-term performance and integrity matter.
+
+> Your client has the money and the desire and the appreciation to have the integrity of real stone because their drawbacks to cast stone... it's much more porous. It tends to over time moisture gets inside and it can kind of what we call effloresce where the moisture comes inside, reacts, and then it kind of flakes off on the front.
+
+### Fabrication Thickness as a Value Engineering Lever
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+Reducing stone cladding thickness (e.g., from four inches to three inches) can dramatically reduce cost because thinner pieces can be run through mass-production tile lines rather than requiring individual hand cutting. This change is typically invisible in the final product.
+
+> Three inch stone is perfectly stable and you can, we can run three inch cut stone on our tile line, which means we can mass produce that amount instead of hand cutting every piece. Whereas four inch stone, we can't run that mass produced.
+
+### DITRA and Anti-Fracture Membranes as Insurance Against Cracking
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+For large-format tiles (over 12x24 inches), especially in exterior or high-movement environments, installing an anti-fracture membrane like DITRA creates a float layer that decouples the tile from the substrate. This prevents the tile from cracking when the foundation moves due to temperature changes or settling.
+
+> The DITRA is basically a float mechanism to, that's a kind of an extra insurance policy to make sure that cracking doesn't happen.
+
+### Relationship-Based Problem Solving with Suppliers
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+The best supplier relationships are ones where builders and subcontractors feel comfortable disclosing mistakes early, allowing the supplier to help find solutions through value engineering or adjusted margins. This collaborative approach protects everyone on the project team.
+
+> I think the, the, that fostering of that relationship where there's that comfort level where he can call me and tell me that, that he messed up and that he needs help. That's huge.
+
 ## Modifications & Change Orders
 
 ### Allowance Transparency
@@ -2014,6 +2308,20 @@ A 'bridge' role sits between project managers and money managers, handling modif
 Selling a spec home before completion can invite the same inefficiencies as a custom build if clients begin requesting changes. Builders are better off completing the home and selling it finished, unless they have a clear change order process.
 
 > I list my specs for sale but I basically don't really push selling them until they're done. At that point, once they're done, I'm much happier selling it than selling it halfway through.
+
+### Modified Bitumen vs. TPO for Flat Roofs
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+TPO is a single-ply product that originated in commercial construction and is more vulnerable to puncture. A three-ply modified bitumen roof is more durable, compatible with copper flashing, and better suited for residential projects with trees or foot traffic. TPO requires its own proprietary flashing system, which creates aesthetic inconsistencies when combined with copper on high-end homes.
+
+> TPO came around because it's a little less expensive. It's only one ply. It came from commercial. If you have a one or two story in a very wooded area, we would much rather do a three ply modified bit roof.
+
+### Small Drips of Information to Manage Client Satisfaction
+*Session: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management*
+
+Rather than presenting a large accumulation of changes at once, the most effective approach is to communicate changes in small, frequent increments and secure client approval each time. This keeps clients in the position of owning their decisions and prevents the shock and dissatisfaction that comes from a single large change order meeting.
+
+> People appreciate small chunks of information often. And so we just sort of drip it out, and we get their approval. Do you want to move forward with this? And at the end of the project, even though it might be $2, $3 million more than people expected, there's a value in them owning their decisions.
 
 ## Cash Flow & Finance
 
@@ -2198,6 +2506,27 @@ Contractors who learn 3D modeling gain a significant competitive advantage. They
 Hand-drawn architectural sets require significantly more verification than CAD drawings because perspectives, ceiling plans, and elevations may not be internally consistent. PMs working from such sets must do daily micro-level coordination with trim carpenters, proactively resolve undocumented details, and escalate to the architect using visual aids like videos or 3D models to keep work flowing without freezing trades.
 
 > To keep my trim carpenters from freezing, I have to every day, multiple times a day, check on them and make sure they're not waiting for an answer.
+
+### The Five Pillars of Every Business Decision
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+Every plan, decision, and role in a company can be evaluated through five lenses: time, money, data (information), people, and results. Using these as a meeting agenda or scorecard framework ensures nothing important is overlooked.
+
+> Every single decision that we make, every plan that we make, every thought we have is dialed into those five things.
+
+### Client Payment Pattern Recognition
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+Clients who are slow to pay early in a project will almost always become harder to collect from near project completion. Builders should observe payment cadence early and proactively shift to smaller, more frequent draws in the final months to reduce collection risk.
+
+> Pay attention to their patterns because I promise you by the end of this project, as you get to the last two months, it's going to be super hard to get the money from them because there's something around this.
+
+### Weekly Report as a Non-Negotiable System
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+A weekly progress report is sent 52 times a year on every single project, regardless of who is traveling or unavailable. The report's primary purpose is to set expectations and discipline for the project manager, ensuring all necessary field information is collected throughout the week. The client benefit is a secondary bonus.
+
+> 52 times a year on every single project, this report is sent. And it's sent for a few basic reasons. One, it sets the tone for the project manager that this is happening.
 
 ## Client Relationships
 
@@ -2754,6 +3083,48 @@ Building on spec eliminates the time-consuming decision-making process that come
 
 > Building on spec is nine billion times easier than building anything for a customer. It's not even remotely close.
 
+### Scorecards as Structure, Not Micromanagement
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+Scorecards are not tools to control people but to clearly define expectations so that everyone knows the rules in advance. Like athletic free throw standards, when people know what is expected, they rise to meet it consistently.
+
+> Scorecards, to me, it's not meant to micromanage people. What it's meant to do is give structure to expectations.
+
+### Project Managers Must Know the Plans Better Than Anyone
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+A project manager's core competency is deeply studying construction documents so they can answer questions from architects, designers, and clients authoritatively, catch errors in advance, and bring solutions before problems arise.
+
+> If it's your project, you know it better than the architect. You know it better than the designer. You definitely know it better than I do. And you know it better than the client.
+
+### Structured Warranty Periods with Clear Milestones
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+Having a defined warranty process—such as a 60-day check-in and an 11th-month inspection before the one-year warranty expires—sets clear expectations with homeowners and ensures issues are caught and addressed systematically rather than on an open-ended basis.
+
+> We have like a 60 day where we come out and then we have the 11th month right before the year. And we do, we fix everything, any cracks, any hairline things in the baseboard.
+
+### Post-Warranty Customer Service Boundaries
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+After the warranty period, builders must balance reputation and goodwill against running a sustainable business. One approach is to offer to bring back subs to fix issues but charge the homeowner for labor and materials, framing it as normal wear and tear rather than builder liability.
+
+> After so many, such a lengthy period of time, I might say I'll bring my sub back, but it's going to be $35 to fix the cracks or whatever. Just like any other repair. We're way outside of warranty period. This is normal wear and tear.
+
+### Four-Week Rolling Calendar as a Client Communication Tool
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+A simple four-week visual calendar is sent weekly to clients so they can see what is planned on their project in the near term. Four weeks is the ideal window because it gives clients enough time to make adjustments if needed, while two weeks is too short and anything longer can be harder to act on.
+
+> Four weeks is sort of the sweet spot for that. Two weeks is not quite enough. Two weeks is important internally to run your schedule, but as far as reporting, four weeks tends to work with us.
+
+### The Hot List: Escalating Bottlenecks
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+Within the weekly report, a red 'hot list' highlights items that are completely blocking the project from moving forward. If not addressed, this section can be moved to the top of the report to ensure it receives immediate attention from clients, architects, or designers.
+
+> It is, if we don't get this information, we are stuck. We are bottlenecked.
+
 ## Team & Subcontractors
 
 ### Internal vs. External Team Leadership
@@ -2987,6 +3358,20 @@ Using shared, version-controlled Google Sheets templates rather than third-party
 
 > The software is only as good as the person. We have a template section in our files and everybody has to start their projects with those same templates.
 
+### Trial Period as Subcontractor Before Employee Status
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+New project managers begin as subcontractors for two to three months before being considered for full employment. This protects the business, gives the candidate a chance to prove fit, and typically reveals whether someone will succeed within the first four weeks.
+
+> They're a subcontractor. They're not an employee. You can do two months or three months. But typically within four weeks, you know if they're going to make it or not.
+
+### Continuous Learning Through Work Observation and Peer Conversation
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+Ongoing education for project managers at Erin's company is not formalized into quarterly seminars but instead happens continuously through studying the work on site, asking trades why they do things a certain way, researching on YouTube, and sharing discoveries in weekly team meetings.
+
+> Most of what we're learning is pretty straightforward with effort, like constantly researching on YouTube, constantly talking to each other, noticing on plans when we're pricing them.
+
 ## Sales & Business Development
 
 ### Your Story Is a Marketing Asset
@@ -3044,6 +3429,34 @@ Professionals should check in repeatedly leading up to any deadline rather than 
 When selling proposed or custom construction, presenting a designed concept—even if everything is negotiable—gives buyers a visual and emotional starting point. This reduces the visualization gap that causes buyers to disengage from plans alone.
 
 > Here's what I call the art of the possible. Do you have a hard time visualizing? Here's what's possible. But if this is not your style, we can turn it into anything you want.
+
+### Copper Flashing as the Standard for Slate Roofs
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+The Slate Association requires copper flashing, and using anything else can create issues for future homeowners who check manufacturer specifications. Dissimilar metals in contact will corrode, so copper flashing logically leads to copper gutters and copper nails as a complete system.
+
+> The Slate Association is not going to approve a metal flashing. And it could cause issues in the long run with the next home buyer of the home.
+
+### Zinc-Coated Copper as the Replacement for Lead-Coated Copper
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+Lead-coated copper has been widely used because it does not stain surfaces below it the way plain copper does, but environmental concerns are phasing it out. Zinc-coated copper achieves the same non-staining benefit and is becoming the industry replacement, though it is slightly more expensive.
+
+> Lead-coated copper is going to probably go away. Zinc-coated copper is coming into style.
+
+### Roof Loading Sequence and Lead Times
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+Roofing material should be ordered when framing begins because slate and premium clay tile have approximately three-month lead times. The roof should be loaded before sheetrock to allow the structure to settle under the dead load, and the final tile work against walls should be completed last after all other exterior trades are done.
+
+> For the most part, slate's going to be three months order time... we want to load the roof before sheetrock.
+
+### Window and Door Pan Flashing Best Practices
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+Sill pans should be made from lead-coated copper to prevent green patina staining on adjacent stone or stucco. Pans must never be punctured by nails from stucco or stone installers. Lath should be soldered directly to the outside of deep window pan flanges so other trades have something to adhere to without penetrating the pan.
+
+> The stucco guys nail the pans full of holes and we have leaks in the future... do not puncture any pans.
 
 ## Operations & Systems
 
@@ -3166,6 +3579,62 @@ When situations arise, Erin uses a five-step process: (1) Recognize it honestly,
 
 > Once you make that decision, the hard lift is over. You're not going back.
 
+### Closing Loops with Solutions
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+Every action in a project should produce a result. When something stalls mid-process, it signals a bottleneck. A project manager's job is not to leave loops open or pretend they are closed, but to actively solve the problem and bring things full circle.
+
+> A project manager's job is to solve it, not just pretend the loop is closed and move on.
+
+### Job Site Videos as a Management and Engagement Tool
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+Having project managers record and share daily job site videos serves multiple purposes: it slows them down to think, keeps the owner informed, reveals the PM's mindset and energy level, and surprisingly increases PMs' sense of ownership over their projects.
+
+> They're more engaged in their projects because of the videos. Like it's the weirdest thing. And I don't know what the science is behind it, but it has been a game changer for us.
+
+### Transitioning from Doer to Manager
+*Session: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team*
+
+Tradespeople and hands-on builders transitioning into project management roles struggle to shift from executing work themselves to directing others. This is a mindset change that takes time, structure, and coaching, and not everyone will make the transition successfully.
+
+> There's a happiness factor in doing things, too. Some people get it and some people don't. They don't want to.
+
+### Layered Underlayment System for Tile and Slate Roofs
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+Using Grace Ice and Water Shield as the base underlayment topped with a Titanium UDL 30 or 40 provides protection and a replaceable walking surface. The top layer can be peeled off and replaced when soiled by stucco or brick work, leaving a clean surface before tile installation.
+
+> We always put a titanium UDL 30 or 40 over that, which makes it easy to walk on and easy to change once it gets dirty from the stucco guys or the brake guys.
+
+### Pedestal Deck System Advantages
+*Session: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems*
+
+A pedestal system elevates the walking surface above the waterproofed deck, allowing drainage to occur below grade and making repairs easy by simply lifting individual panels. It also offers flexibility in drain placement and keeps the walking surface flat even when the structural deck beneath is sloped.
+
+> If we have a leak, we just take a couple of panels up, fix it and put them back. Also with that, the drains are not visible.
+
+### Lot Selection Checklist
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+Builders should use a systematic checklist when evaluating potential lots to avoid overlooking deal-breaking factors in the heat of a competitive market. Items like power lines, sex offenders, halfway houses, school proximity, and lot shape should all be evaluated before making an offer.
+
+> There should be just like a checklist of, okay, what do you look for on your lots? You don't want any sex offenders. You don't want any halfway houses, not the best, you know, the quick checklist, because you don't always think of those things.
+
+### Action Items as the Foundation of Project Control
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+A live, sortable action items spreadsheet is the core internal tool for project managers. It captures tasks by room, operation, assigned trade, and real start and end dates. The discipline of capturing information in this document—rather than in one's head—is what allows projects to run predictably and allows owners to have visibility without micromanaging.
+
+> I promise, I promise, I promise, if project managers actually do this, homes work like clockwork. But you have to be so on it.
+
+### Owner Response to Overwhelmed Project Managers
+*Session: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring*
+
+When a project manager is at or beyond capacity, the owner should step in immediately and increase active involvement—attending weekly check-ins, pulling schedule visibility out to two weeks, four weeks, three months, and six months. This shifts the PM's mindset from reactive overwhelm back to proactive planning.
+
+> As soon as it happens, I'm in. The second thing I do, and they're not going to like this, but it's really important. I need a two-week schedule. I need a four-week schedule. I need a three-month schedule. And I need a six-month schedule.
+
 ## Mindset & Leadership
 
 ### The Long-Haul Mindset
@@ -3273,6 +3742,13 @@ When building an annual plan, the reward for hitting goals should be defined at 
 
 > When I hit X, we're going to go to Paris as a family. When I hit Y, whatever it is for you guys, mark it down because there is a part of this world that wants to be fun.
 
+### Building for a Known Buyer
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+Spec homes that sit unsold are often built without a clear vision of who the target buyer is. Builders who succeed think carefully about the specific buyer they are designing for—their lifestyle, family needs, and preferences—and use that to guide every design decision.
+
+> We are building for a buyer here and with the belief that it will suit the buyer and it will move when people build, not for the buyer. That's when you see it sit.
+
 ## Contracts & Legal
 
 ### Milestone-Based Design Delivery
@@ -3309,6 +3785,13 @@ Good lighting design goes beyond basic permit-set plans by layering task lightin
 Batteries don't just provide backup power—they also condition incoming power. The grid delivers fluctuating voltage, which is damaging to microchip-based appliances and devices. Batteries absorb dirty power and output a clean, steady 120V/60Hz sine wave, protecting every device in the home.
 
 > That battery is outputting perfect 60 hertz, 120 volt power going into your home. It's just a much more stable, safe way to protect the devices and the things that are in your home. And it's not just a surge protector.
+
+### Unfixable Location Problems
+*Session: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management*
+
+Certain site characteristics—bad location, proximity to undesirable neighbors, power lines, corner lots, halfway houses—cannot be overcome with good design or beautiful finishes. Experienced builders learn to identify and walk away from these lots rather than hoping buyers will overlook them.
+
+> There are some things that you can't fix. You can't make prettier. You can't make a buyer get over.
 
 ## General Business
 
@@ -3416,3 +3899,31 @@ When a trade is struggling to identify a path forward on a quality issue, the bu
 Staging spec homes dramatically improves buyer visualization and can be critical in competitive markets. However, in low-inventory markets, the impact is reduced because buyers are motivated regardless of presentation.
 
 > Staging a house — night and day difference — because they can't envision anything. But if your market has a lot of houses on the market, if they don't... we have so few houses that if someone wants a house I haven't staged the house in years.
+
+### Revenue Distribution Across Project Timeline
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+Rather than treating project revenue as a lump sum, builders should divide projected revenue across the months of a project based on historical data or flat percentages. This reveals the true monthly cash position and helps identify light and heavy billing months in advance.
+
+> You can just plug in either a flat across the board or percentages based on historical data. Again, this is snapshot information. This is projected information.
+
+### Three to Six Months of Operating Reserve as a Healthy Benchmark
+*Session: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies*
+
+In the construction industry, maintaining three to six months of operating expenses in reserve is considered a healthy cushion. This is especially important because construction is highly market-dependent and projects can be delayed or fall through.
+
+> I think in this industry, it's different in other industries, but in this industry, because we're so beholden to the market, right? So you just have to have the stomach and the oomph to know that it does move... three to six months is, I would say, normal.
+
+### 100% Setting Material Coverage to Prevent Moisture Issues
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+Using the 'blob method' of tile installation—placing only spots of thinset rather than full coverage—creates voids beneath the stone that allow water intrusion and traveling cracks. Proper installation requires 100% coverage of setting material under the stone.
+
+> When you're setting stone, you need to have 100% coverage, underneath the stone of, with your setting material... that's where you'll see the, what looks like moisture coming up. And that's also where you can see things like traveling cracks because there's not a hundred percent coverage of that setting material.
+
+### Efflorescence: Causes and Prevention
+*Session: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles*
+
+Efflorescence is a blanket term for a chemical reaction caused by water intrusion that can produce white clouding or surface flaking on stone and cast stone. It is most commonly caused by installation or sealing failures rather than material defects, and can be mitigated through proper sealing and setting methods.
+
+> I rarely see an actual material failure... I would say 98% of the time, it's either an installation issue, or it's a sealing issue.

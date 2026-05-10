@@ -1,6 +1,6 @@
 # Actionable Advice
 
-*Organized by category across 57 sessions*
+*Organized by category across 66 sessions*
 
 ## Pricing & Proposals
 
@@ -466,6 +466,100 @@
   *(Source: 2026-03-10 — Spec Builders Roundtable: Plans, Estimating, Tools, and Selling Strategy)*
 - When using 3D modeling tools like Revit, extract quantity takeoffs from the model to feed directly into cost estimates, eliminating redundant work.
   *(Source: 2026-03-10 — Spec Builders Roundtable: Plans, Estimating, Tools, and Selling Strategy)*
+- Require project managers to produce an accurate four-week schedule with confirmed trade commitments, not a placeholder schedule meant to satisfy the owner.
+  *(Source: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team)*
+- Have project managers record and upload daily job site videos to a shared folder; review them each morning (e.g., between 6:00–6:30 a.m.) and provide feedback or recognition.
+  *(Source: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team)*
+- Place the project manager fee below the line of cost of work in proposals to avoid charging overhead fees on top of it, which clients resist.
+  *(Source: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team)*
+- Review cash flow on a weekly basis across all business lines to know when you are positioned to hire and to understand your negotiating position on any proposal.
+  *(Source: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team)*
+- Have project managers approve or flag invoices in a shared folder before each weekly team meeting so the financial and project management lanes stay separate but synchronized.
+  *(Source: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team)*
+- When meeting with potential clients, clearly articulate your deliverables in the contract so the value of your management fee is self-evident and expected.
+  *(Source: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team)*
+- Set a 45-minute timer and complete an initial pass of the cash flow sheet, entering rough estimates for expenses by annualizing QuickBooks data and dividing by 12 rather than trying to be exact.
+  *(Source: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies)*
+- Establish a consistent draw cadence—such as the 1st or 15th of the month—so both builder and client can pre-plan cash movements more accurately.
+  *(Source: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies)*
+- Require a 10% deposit of the total contract value at signing on cost-plus jobs and credit it against the final invoice.
+  *(Source: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies)*
+- For large high-ticket items like cabinets, appliances, or tile, issue a separate deposit invoice to the client in advance of ordering so the builder is never financing those purchases.
+  *(Source: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies)*
+- Remember to account for taxes when calculating projected net profit on the cash flow sheet, as taxes will always reduce the available capital for future decisions.
+  *(Source: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies)*
+- Walk a completed project with potential clients before committing to the full pricing process to confirm fit on both sides.
+  *(Source: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide)*
+- Send one comprehensive pricing packet to all trades simultaneously, including architectural plans, spec book, designer allowances, engineering documents, and the subcontractor pricing guide.
+  *(Source: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide)*
+- Call trades on day three to confirm receipt of the bid package rather than assuming the email was seen.
+  *(Source: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide)*
+- When bidding multiple trades for the same scope, distribute all clarifications and additions to every bidder so quotes are comparable.
+  *(Source: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide)*
+- Hire an independent estimator to do framing takeoffs when lumber yards are too slow to respond within the pricing timeline.
+  *(Source: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide)*
+- Separate overhead and profit into two distinct line items in the budget presentation to prevent clients from negotiating the combined number down.
+  *(Source: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide)*
+- Add a project management fee as its own line item below the cost-of-work total on every project budget.
+  *(Source: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide)*
+- Prepare two to three responses in advance for the most common client questions about fees and overhead before presenting a budget.
+  *(Source: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide)*
+- Use a miscellaneous and contingency cost code to absorb small field fluctuations without generating formal change orders, reserving paperwork for larger cost-code-level changes.
+  *(Source: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide)*
+- Have an in-person or direct conversation with clients before any significant budget adjustment is finalized, rather than presenting surprises after money is spent.
+  *(Source: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide)*
+- Build or acquire a library of reusable floor plans sized appropriately for your target lots to reduce design costs and improve build efficiency.
+  *(Source: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management)*
+- Consider a compromise approach for post-sale upgrade requests: offer to cover labor if the homeowner pays for materials, rather than absorbing the full cost.
+  *(Source: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management)*
+- When evaluating a saturated spec market, consider moving upmarket to a higher price point or pivoting to a complementary business line such as larger renovations.
+  *(Source: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management)*
+- Include a price certainty percentage column in every conceptual budget and explain each line item's certainty level to clients so they understand what is firm and what is still being developed.
+  *(Source: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management)*
+- Create internal comparison spreadsheets for complex categories like roofing, tile, windows, and trim to ensure all subcontractors are quoting the same scope before comparing bids.
+  *(Source: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management)*
+- When lumber or other commodity-based line items are historically underquoted, adjust the budget figure upward based on your experience and tell clients explicitly: you will only be billed for actual costs, but this is the number history suggests.
+  *(Source: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management)*
+- Use the modifications tracker as a single internal source of truth for all budget changes, linking to bids and approval sheets so any team member can understand the full story of a modification at a glance.
+  *(Source: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management)*
+- Send clients a simple, clean modification approval sheet showing only the original budget amount, the new cost, and the net delta for their signature, keeping internal deliberations private.
+  *(Source: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management)*
+- Involve the designer during the budgeting phase to validate allowances and align on material direction before the conceptual budget is finalized, especially for selections like tile.
+  *(Source: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management)*
+- If you are asked to coordinate subcontractors outside your original contract scope such as landscapers or pool contractors, proactively offer a discounted fee such as 10% with a separate addendum rather than waiting for the client to dictate terms.
+  *(Source: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management)*
+- Use social media to share who you are as a person and professional so that prospective clients feel connected to you before the first conversation, increasing the likelihood they want to work with you early in their process.
+  *(Source: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management)*
+- Add three color-coded columns to your budget spreadsheet representing bid-ready, details-to-be-developed, and historical-data price certainty levels so clients can visually assess budget confidence.
+  *(Source: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools)*
+- Use the subcontractor pricing guide from the Builder's Edge program, fill in the rooms for a prospect's project, and show it to clients to help them understand how many decisions are still required before reliable pricing can be produced.
+  *(Source: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools)*
+- Train subcontractors to always submit separate invoices for change order work versus base bid draw requests, with each invoice referencing the specific bid number or documented conversation that authorized it.
+  *(Source: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools)*
+- Budget $175-$200 per mud-in light for additional drywall finishing costs, and plan for a full level-five finish on any ceiling where mud-in lights or linear slot diffusers are installed.
+  *(Source: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools)*
+- Test new lighting products at least three times before installing them in a home, and build a documented repair SOP with a fixed price (e.g., $1,200 per light) before proceeding.
+  *(Source: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools)*
+- Use AI tools like ChatGPT to draft difficult client emails, generate demo schedules, and build SOPs, but always cross-verify AI-generated technical information against actual calculations.
+  *(Source: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools)*
+- Explore AI cost management tools like Adaptive or Dex that integrate with QuickBooks to auto-cost-code invoices from photos, reducing manual data entry and improving draw package quality.
+  *(Source: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools)*
+- Post the color-coded budget template in the Builder's Edge course community under both the conceptual budget section and the templates section for members to download and adapt.
+  *(Source: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools)*
+- Maintain a live action items spreadsheet capturing each task by room, operation, assigned trade, and real (not estimated) start and end dates—update it during or immediately after site visits.
+  *(Source: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring)*
+- Ask your stone supplier for a highlighted set of plans at minimum, even if they don't provide full bid detail sheets, so you can cross-reference what is included in a quote.
+  *(Source: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles)*
+- When trying to reduce stone costs, ask your supplier specifically about reducing stone thickness (e.g., from 4 inches to 3 inches) or switching from a premium raw material to a slightly less refined version of the same stone type.
+  *(Source: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles)*
+- Request a 'value engineering option' from your stone supplier explicitly by name—suppliers understand this term and can work with you to reduce costs without sacrificing the look.
+  *(Source: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles)*
+- Always seal limestone, especially in shaded exterior areas where UV degradation is slower, and factor sealing costs into the total project budget for cast stone applications.
+  *(Source: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles)*
+- If you need to seal cast stone on an exterior application, factor in ongoing resealing costs due to UV degradation, and evaluate whether the total cost still makes cast stone the more economical choice versus natural stone.
+  *(Source: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles)*
+- When working with a veined stone like Calacatta Viola for a complex architectural element like a curved arch, strategically place joints at areas of high movement in the veining to visually conceal seams.
+  *(Source: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles)*
 
 ## Modifications & Change Orders
 
@@ -507,6 +601,12 @@
   *(Source: 2026-01-29 — Expansion on Personal and Professional Level: Annual Planning Framework)*
 - If a designer is purchasing materials directly without builder approval, address the process immediately and require all purchases to go through the builder's allowance and approval system.
   *(Source: 2026-02-19 — Open Workshop: Stain Consistency, Countertop Profiles, Paint Issues, and Hiring PMs)*
+- Consider switching from TPO to three-ply modified bitumen on residential flat roofs, especially on high-end homes with copper flashing, to maintain material compatibility and improve durability.
+  *(Source: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems)*
+- When a project has gotten behind on change order communication, proactively schedule a meeting, acknowledge the delay, and work through items one by one to restore clarity and momentum.
+  *(Source: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management)*
+- Send a weekly progress report on every active project, every single week without exception, including sections for work performed, work scheduled, material orders, approvals received, modifications, team responsibilities, anticipated problems, and a red hot list.
+  *(Source: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring)*
 
 ## Cash Flow & Finance
 
@@ -588,6 +688,16 @@
   *(Source: 2026-02-05 — Guest Speaker Ken Newberry on Architecture, Collaboration, and Building Better Client Relationships)*
 - When working with an architect who produces minimal drawings, have an explicit conversation upfront about who will be responsible for making on-site decisions that the drawings don't address.
   *(Source: 2026-02-05 — Guest Speaker Ken Newberry on Architecture, Collaboration, and Building Better Client Relationships)*
+- Use time, money, people, data, and results as the standing agenda for weekly PM meetings so managers come prepared to drive the conversation rather than being pulled for information.
+  *(Source: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team)*
+- Download the cash flow spreadsheet from the Builder's Edge playbook and start by entering made-up numbers to get comfortable with the format before adding real figures.
+  *(Source: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies)*
+- Monitor client payment timing early in a project and, if slowness is detected, shift to bi-weekly smaller draws in the final two to three months to reduce end-of-project collection risk.
+  *(Source: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies)*
+- Provide clients with historical draw percentage data by month at the start of a project so they can pre-plan fund transfers or stock liquidations.
+  *(Source: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies)*
+- If a client is in a house with a large outstanding balance, consider structuring a second mortgage as a secured repayment mechanism rather than leaving the debt unsecured.
+  *(Source: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies)*
 
 ## Client Relationships
 
@@ -767,6 +877,14 @@
   *(Source: 2026-02-26 — How To Move A Prospect To A Client)*
 - Consider completing spec homes before actively marketing them to avoid the time and complexity of mid-build client decision-making.
   *(Source: 2026-03-10 — Spec Builders Roundtable: Plans, Estimating, Tools, and Selling Strategy)*
+- Communicate changes in small, frequent increments and always close with a clear decision question such as 'Do you want to move forward with this?' so clients own every decision.
+  *(Source: 2026-04-16 — Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management)*
+- Require clients to hire a lighting design consultant on complex projects and make it a condition of building, explaining the value in terms of light spray, compatibility, and color temperature before they push back.
+  *(Source: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools)*
+- Send a four-week rolling visual calendar to clients every week alongside the weekly report so they can see upcoming work and make timely decisions.
+  *(Source: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring)*
+- When hiring project managers, start with referrals from trusted trade partners such as electricians and flooring installers who work alongside PMs on comparable projects.
+  *(Source: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring)*
 
 ## Team & Subcontractors
 
@@ -862,6 +980,18 @@
   *(Source: 2026-03-05 — Guest Speakers: ESH Project Managers Panel Q&A)*
 - Ensure all PMs on the team are using the same standardized project templates so any team member can cover a project without needing a briefing on how the documentation is organized.
   *(Source: 2026-03-05 — Guest Speakers: ESH Project Managers Panel Q&A)*
+- Place yourself on payroll as a W2 employee to create stability and treat your role as a replaceable position for future succession planning.
+  *(Source: 2026-03-26 — Cash Flow Forecasting Method and Draw Schedule Strategies)*
+- Color-code team members' entries in the trade tracker so it is clear who took which action and when.
+  *(Source: 2026-03-31 — Pricing a New Project & Subcontractor Pricing Guide)*
+- When using mud-in recessed lights, secure the flange with adhesive and fiberglass mesh tape rather than relying on screws alone, to prevent the flange from pulling away from the drywall as temperatures change.
+  *(Source: 2026-04-23 — Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools)*
+- In weekly team meetings, review construction quality status for every job including what work was checked, what was rejected, what went wrong, and what the recovery plan was.
+  *(Source: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring)*
+- Extend the look-ahead for material and architectural lead times to six months in weekly team meetings to prevent late ordering problems.
+  *(Source: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring)*
+- Use a subcontractor trial period of two to three months before hiring a project manager as a full employee.
+  *(Source: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring)*
 
 ## Sales & Business Development
 
@@ -885,6 +1015,10 @@
   *(Source: 2026-01-08 — Industry Guest Speaker: Daniel Robinson on Countertops, Slabs, and Stone)*
 - Organize non-urgent but important items into named buckets (by project manager, project, marketing, etc.) to ensure nothing is lost while preserving focus on urgent matters.
   *(Source: 2026-01-15 — Pinpointing Urgency and Running Effective Weekly Team Meetings)*
+- Order slate or premium clay tile at the start of framing because lead times are approximately three months.
+  *(Source: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems)*
+- Use lead-coated copper or zinc-coated copper for window and door sill pans on any application where the pan will be covered by stone or stucco to prevent staining.
+  *(Source: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems)*
 
 ## Operations & Systems
 
@@ -980,6 +1114,26 @@
   *(Source: 2026-01-29 — Expansion on Personal and Professional Level: Annual Planning Framework)*
 - Update and distribute a revised finish schedule document every time a material or finish selection changes — do not rely on verbal updates or handwritten notes on site.
   *(Source: 2026-03-05 — Guest Speakers: ESH Project Managers Panel Q&A)*
+- Put the daily schedule update time into the project manager's calendar as a non-negotiable recurring appointment, just as owners block meetings.
+  *(Source: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team)*
+- Have project managers produce a broader three-month projected schedule on the first of each month to maintain a wide lens while also executing in the near term.
+  *(Source: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team)*
+- When onboarding a new project manager, check in with them daily for the first four months and give up to three reminders before escalating non-compliance to a direct conversation about fit.
+  *(Source: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team)*
+- When specifying a pedestal deck system, ensure the structural framing is dropped sufficiently below the door threshold to accommodate the full buildup of the pedestal and tile assembly.
+  *(Source: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems)*
+- Build a short parapet wall at the edge of pedestal deck systems to conceal the pedestals from view at ground level and tie the tile into the top of the wall.
+  *(Source: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems)*
+- Develop a pre-purchase lot checklist that includes proximity to power lines, sex offenders, halfway houses, schools, corner lot shape, and other buyer-sensitive factors.
+  *(Source: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management)*
+- Add contract language clarifying that homeowners are responsible for having monitoring alarm systems and that the builder is not liable for damage resulting from unmonitored system failures.
+  *(Source: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management)*
+- When a project manager is overwhelmed, immediately increase owner involvement on site and require them to produce a written two-week, four-week, three-month, and six-month schedule to reset their perspective.
+  *(Source: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring)*
+- Require candidates to answer direct, pointed construction questions during the hiring process and prioritize those who honestly admit what they don't know over those who guess or bluff.
+  *(Source: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring)*
+- Allow project managers to choose which day they send the weekly report but hold them firmly to that same day every week for consistency.
+  *(Source: 2026-04-30 — Project Manager Playbook: Systems, Reporting, and Hiring)*
 
 ## Mindset & Leadership
 
@@ -1015,6 +1169,10 @@
   *(Source: 2026-01-29 — Expansion on Personal and Professional Level: Annual Planning Framework)*
 - Contractors looking to attract better architects should learn 3D modeling rather than basic drafting, as it adds immediate, visible value on complex projects.
   *(Source: 2026-02-05 — Guest Speaker Ken Newberry on Architecture, Collaboration, and Building Better Client Relationships)*
+- Install a main water shutoff valve (like a Moen Flo) in homes as a standard feature to protect against flooding events when homeowners are away.
+  *(Source: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management)*
+- Consider using pest tubing installed inside walls during construction, covering it for the first year and then transitioning responsibility to the homeowner, especially in termite-prone regions.
+  *(Source: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management)*
 
 ## Contracts & Legal
 
@@ -1066,6 +1224,8 @@
   *(Source: 2026-03-05 — Guest Speakers: ESH Project Managers Panel Q&A)*
 - Stage spec homes in competitive markets with significant inventory to help buyers visualize the space and differentiate from competition.
   *(Source: 2026-03-10 — Spec Builders Roundtable: Plans, Estimating, Tools, and Selling Strategy)*
+- Share warranty and builder exclusion documentation with the group so members can refine their own contracts based on real-world experience.
+  *(Source: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management)*
 
 ## General Business
 
@@ -1231,3 +1391,33 @@
   *(Source: 2026-03-05 — Guest Speakers: ESH Project Managers Panel Q&A)*
 - Establish a bonus incentive for PMs who bring in new projects rather than relying solely on salary to reward business development contributions.
   *(Source: 2026-03-05 — Guest Speakers: ESH Project Managers Panel Q&A)*
+- Write down the specific hiring criteria your business needs right now based on your current season and size, rather than copying a generic job description.
+  *(Source: 2026-03-19 — Scorecards: Building Structure and Expectations for Your Team)*
+- Load the roof with tile or slate material before sheetrock is installed to allow the structure to settle under dead load.
+  *(Source: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems)*
+- Complete all exterior wall work including brick, stucco, fascia, and paint before finishing tile or slate work against walls, and keep other trades off the finished roof.
+  *(Source: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems)*
+- Always use copper flashing with slate roofs and avoid mixing copper with other metal flashings to prevent corrosion from dissimilar metals.
+  *(Source: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems)*
+- Solder stainless steel lath directly to the outside of deep window pan flanges so stucco and stone installers have an adhesion surface without puncturing the pan.
+  *(Source: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems)*
+- Have doors and windows physically on site before measuring and fabricating window and door pans to ensure accuracy.
+  *(Source: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems)*
+- Use three-quarter inch CDX plywood decking rather than OSB for tile and slate roofs because CDX holds nails better.
+  *(Source: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems)*
+- Install pitch pans around every railing support column penetration on a flat roof before applying the roofing membrane.
+  *(Source: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems)*
+- Use an interior primary drain plus an overflow scupper set lower than the interior floor level on flat roof terrace applications to prevent interior flooding if the drain clogs.
+  *(Source: 2026-04-09 — Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems)*
+- Include water monitoring devices (moisture sensors) in your standard closing package for every home, especially those with basements and sump pumps.
+  *(Source: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management)*
+- For spec homes that have been completed but not yet sold, consider offering the one-year warranty from the date of purchase rather than the date of completion, since no one has occupied the home.
+  *(Source: 2026-04-14 — Spec Builder Roundtable: Lot Selection, Market Conditions, and Warranty Management)*
+- For large-format tiles (over 12x24 inches), specify an anti-fracture membrane like DITRA, especially for exterior installations or in regions with temperature variation or foundation movement.
+  *(Source: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles)*
+- Require your tile installers to achieve 100% setting material coverage under stone—never allow the blob method—to prevent moisture issues and cracking.
+  *(Source: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles)*
+- Send photos of fireplace conditions (firebox depth, floor level, wall protrusions) to your stone supplier before finalizing mantle orders so they can identify and address installation challenges in advance.
+  *(Source: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles)*
+- Use stainless steel brick ties and fasteners when installing limestone or cast stone cladding to prevent rust staining over time.
+  *(Source: 2026-05-07 — Guest Expert: Kristy Geary on Stone, Tile, Hardscape, and Mantles)*

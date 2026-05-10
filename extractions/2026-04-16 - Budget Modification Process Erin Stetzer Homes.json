@@ -1,0 +1,83 @@
+{
+  "date": "2026-04-16",
+  "title": "Budget Modification Process: Price Certainty, Budget vs. Actual, and Change Order Management",
+  "session_type": "group_coaching",
+  "summary": "Erin Stetzer walked participants through her firm's budgeting methodology, focusing on using a price certainty column as a client communication tool, tracking budget versus actual costs during construction, and managing modifications through a structured approval process. The session then opened to Q&A where participants discussed handling over-budget line items, fee structures on cost-plus contracts, client dissatisfaction, and how to position yourself when selecting projects.",
+  "teachings": [
+    {
+      "concept": "Budget as a Communication Tool with Price Certainty",
+      "explanation": "The budget is not just a financial document but a structured communication tool that conveys how confident the builder is about each line item. Each cost code carries a percentage of certainty, and the cumulative certainty score tells clients exactly how firm or fluid the overall budget is at any given point in the project.",
+      "quote": "The whole concept behind this, the way we budget and present our budgets is to be used as a communication tool. The real, real value is in price certainty."
+    },
+    {
+      "concept": "Conceptual Budget as a Closed Chapter",
+      "explanation": "The conceptual budget is explicitly a pre-contract tool used to communicate approximate pricing with transparency about unknowns. Once a contract is signed, it is retired and replaced by the budget versus actual tracking sheet. This prevents clients from treating a preliminary budget as a final number.",
+      "quote": "Once we sign that contract, that is, we finished that chapter. Now we move into that longer spreadsheet, the budget versus actual, all the draws."
+    },
+    {
+      "concept": "Budget vs. Actual Tracking Sheet",
+      "explanation": "After contract signing, a detailed spreadsheet tracks every cost code showing original budget, draws made, balance to finish, and percentage used. This allows the builder to ensure the pace of spending aligns with the pace of construction, catching any invoice that seems disproportionate to work completed.",
+      "quote": "The idea here is you want to make sure that your construction is in line. Your pace of construction is in line with the money being paid out."
+    },
+    {
+      "concept": "Internal Modifications Tracker",
+      "explanation": "Any budget change during construction is logged in an internal modifications tracker that captures the trade, the overage, whether an approval sheet is needed, the bid link, and the modification document. This single sheet tells the full story of every change without requiring the client to see internal deliberations.",
+      "quote": "You can go to this one sheet as a business owner or a project manager or a money manager. You can go to this sheet right here. And it tells us the story of the modification."
+    },
+    {
+      "concept": "Diamond of Why: Four Reasons Changes Happen",
+      "explanation": "Erin tracks the reason behind every modification using four categories: new or deleted scope, something on the plans that simply won't work, a detail not yet developed at the time of budgeting, or a physical change in conditions beyond anyone's control. This framework depersonalizes change orders and gives clients context.",
+      "quote": "We always keep track of why things change. It's either new or deleted. It just won't work. It's a detail that's not developed. Or it physically changes."
+    },
+    {
+      "concept": "Cost-Plus Contract as the Equalizer for Fee Consistency",
+      "explanation": "In a cost-plus contract, the builder's fee applies uniformly to all costs whether over or under budget, because the extra time spent on some changes is offset by the ease of others. Negotiating fees line-by-line turns every budget variance into a conflict and undermines the relationship.",
+      "quote": "There are plenty of times that you're going to spend very little time on a change and there are plenty of times you're going to spend 18 days on a change. And the only way to even all of that out is with a cost plus contract."
+    },
+    {
+      "concept": "Small Drips of Information to Manage Client Satisfaction",
+      "explanation": "Rather than presenting a large accumulation of changes at once, the most effective approach is to communicate changes in small, frequent increments and secure client approval each time. This keeps clients in the position of owning their decisions and prevents the shock and dissatisfaction that comes from a single large change order meeting.",
+      "quote": "People appreciate small chunks of information often. And so we just sort of drip it out, and we get their approval. Do you want to move forward with this? And at the end of the project, even though it might be $2, $3 million more than people expected, there's a value in them owning their decisions."
+    },
+    {
+      "concept": "Language Discipline Around Budget Adjustments",
+      "explanation": "Words like 'fluff,' 'pad,' and 'inflate' undermine professionalism and imply dishonesty. When a builder adjusts a number based on historical experience, the correct framing is to explain the reasoning transparently: citing past projects, stating what the data suggests, and clarifying that the client will only be billed for actual costs.",
+      "quote": "Fluff and pad need to leave your terminology because it doesn't do you any good as professionals. The exact terminology: this is the quote that we have. In my experience, in all of the jobs I've ever built, it's 30% higher. I'm putting this number in here because this is where I think we could land."
+    },
+    {
+      "concept": "Tile Selection Education to Help Clients Control Budget",
+      "explanation": "Rather than leaving tile allowances vague, builders should educate clients at selection time on exactly how tile choices drive labor costs: small tiles, complex patterns, handmade tiles, and large-format tiles all dramatically increase labor. This empowers clients to make informed decisions and reduces surprise overages.",
+      "quote": "12 by 12 tile, lowest budget. Pattern, got to recognize that. Type of tile, thick, thin, handmade, more money. Three foot by three foot tile, that's going to be expensive because it has to be perfectly flat and it takes three or four people to set that piece of tile."
+    }
+  ],
+  "actionable_advice": [
+    "Include a price certainty percentage column in every conceptual budget and explain each line item's certainty level to clients so they understand what is firm and what is still being developed.",
+    "Create internal comparison spreadsheets for complex categories like roofing, tile, windows, and trim to ensure all subcontractors are quoting the same scope before comparing bids.",
+    "When lumber or other commodity-based line items are historically underquoted, adjust the budget figure upward based on your experience and tell clients explicitly: you will only be billed for actual costs, but this is the number history suggests.",
+    "Use the modifications tracker as a single internal source of truth for all budget changes, linking to bids and approval sheets so any team member can understand the full story of a modification at a glance.",
+    "Send clients a simple, clean modification approval sheet showing only the original budget amount, the new cost, and the net delta for their signature, keeping internal deliberations private.",
+    "Communicate changes in small, frequent increments and always close with a clear decision question such as 'Do you want to move forward with this?' so clients own every decision.",
+    "When a project has gotten behind on change order communication, proactively schedule a meeting, acknowledge the delay, and work through items one by one to restore clarity and momentum.",
+    "Involve the designer during the budgeting phase to validate allowances and align on material direction before the conceptual budget is finalized, especially for selections like tile.",
+    "If you are asked to coordinate subcontractors outside your original contract scope such as landscapers or pool contractors, proactively offer a discounted fee such as 10% with a separate addendum rather than waiting for the client to dictate terms.",
+    "Use social media to share who you are as a person and professional so that prospective clients feel connected to you before the first conversation, increasing the likelihood they want to work with you early in their process."
+  ],
+  "client_challenges": [
+    "Sandy asked how much of the internal budgeting process is shared with clients in weekly meetings and at what point the conceptual budget transitions to the budget versus actual format.",
+    "Ryan raised the issue of frequently over-budget framing material packages due to missing engineered plans, and questioned whether to adjust certainty percentages or add a buffer and how to communicate that transparently versus what other builders call 'fluffing' numbers.",
+    "Ryan asked how to handle client pushback when a low price certainty percentage implies the total cost could be significantly higher than the presented number.",
+    "Dave asked whether the builder should discount or waive their management fee on overages caused by pricing changes outside anyone's control, such as lumber cost increases.",
+    "Dave shared a real scenario where refunding a management fee on an over-budget driveway project did not repair the client relationship and asked how to handle client dissatisfaction when costs exceed expectations despite proper change order communication.",
+    "Dave asked how to evaluate which custom home projects to pursue when you are transitioning from spec building and have the ability to be selective, specifically how to say no to projects that do not excite you.",
+    "Tiffany described a project that ballooned from an expected $350,000 to approximately $850,000 with a client who said he did not want money meetings, leaving her uncertain whether her drip communication strategy was being received.",
+    "Tiffany encountered a situation where her contract did not clearly define her fee for coordinating subcontractors like landscapers who were brought in late in the project, resulting in the client trying to dictate her compensation structure."
+  ],
+  "notable_quotes": [
+    "On the game-changing impact of price certainty: 'I just noticed that there are a lot of meetings I was going to, and we did not end up getting the projects. And I was like, what am I not communicating? Well, this is what I wasn't communicating. As soon as I started communicating how certain we are about things, then people were interested in talking more to us about their project.'",
+    "On professional language around budget adjustments: 'Fluff and pad need to leave your terminology because it doesn't do you any good as professionals. I sound like I'm cheating someone if I use those words.'",
+    "On client ownership of decisions: 'At the end of the project, even though it might be $2, $3 million more than people expected, there's a value in them owning their decisions.'",
+    "On not guaranteeing a final number: 'I think we really have to do a good job of saying, I don't have a crystal ball. The expectation that I do have a crystal ball is just not an accurate perspective. What I do have is some information based on actual data received and historical data.'",
+    "On playing the underdog mindset: 'There aren't a lot of people like me in the industry. So I always felt like the underdog. I got to do better. I got to do better. And now I think that just sort of sticks. And it's a good place to play.'",
+    "On the builder's true early role with a new client: 'I am not your builder right now. What I am right now is making sure I understand your project and making sure you have the right architect and designer. If we want to work together later, great. But that's not my role right now.'"
+  ]
+}

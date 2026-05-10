@@ -1,0 +1,77 @@
+{
+  "date": "2026-04-23",
+  "title": "Budget Communication, Trade Walks, Mud-In Lighting, and AI Tools",
+  "session_type": "open_workshop",
+  "summary": "Erin opened with a deep dive into a color-coded budget communication tool designed to visually represent price certainty levels across cost codes, responding to client confusion about projected vs. locked pricing. The session then shifted to open workshop format covering topics including pre-construction vs. trade walk services, mud-in recessed lighting installation challenges, change order management, and AI tools being used across the group.",
+  "teachings": [
+    {
+      "concept": "Three-Tier Budget Price Certainty Color Coding",
+      "explanation": "Budgets are communicated using three color-coded categories: dark green for 'bid ready to execute' (95-99% certain), medium green for 'bid details to be developed' (approx. 75% certain), and light green/gray for 'historical data' estimates. This visual system allows homeowners to understand budget confidence at a glance without needing to interpret numbers.",
+      "quote": "The coloring is what represents an explanation of the price certainty. So I'm 95% certain or 99% certain. Cause we leave one to 5% for God to, you know, if something shows up."
+    },
+    {
+      "concept": "Responding to Client Confusion in Writing",
+      "explanation": "When a client doesn't fully understand the budget verbally, builders should develop written communication tools that stand alone without explanation. The goal is to ask: if they could not talk to me or listen to me, how could I do that on paper?",
+      "quote": "If they could not talk to me or listen to me, how could I do that on paper? And then verbalize what it actually means."
+    },
+    {
+      "concept": "Anticipating Scope Creep in Fuzzy Budget Categories",
+      "explanation": "Some cost codes like electrical labor are inherently uncertain because downstream decisions (e.g., Lutron systems, lighting type) directly affect labor costs. Builders should proactively identify these interdependencies and plug in adjusted numbers with appropriate color coding rather than waiting for the electrician to commit.",
+      "quote": "Although the bid is $100,000, we know that if there's going to be a Lutron system, and we don't have a solid lighting plan, we know that that number needs to go up another $40,000, $50,000. We know that."
+    },
+    {
+      "concept": "Pre-Construction Services as the Right Entry Point",
+      "explanation": "When clients lack engineering, elevations, selections, and full plans, doing a full trade walk and estimate is premature and produces unreliable numbers. The appropriate step is to sell pre-construction services first, provide an investment range, and use the subcontractor pricing guide to show clients how many decisions still need to be made.",
+      "quote": "I can spend 20 hours having my estimator put together a bid and it's still not going to tell you what this project's going to cost. Like me giving you a range is, is kind of without saying that's the best we can do right now."
+    },
+    {
+      "concept": "The Trade Walk as a Trust-Building Event",
+      "explanation": "Conducting an organized trade walk where multiple subcontractors arrive together, move room by room, and engage directly with homeowners demonstrates professionalism and builds trust. Clients perceive the trades as a unified team, which differentiates the builder from competitors.",
+      "quote": "The day you walked in with 15 guys behind you ready to price our project, I was sold."
+    },
+    {
+      "concept": "Separate Invoicing for Change Orders vs. Base Bids",
+      "explanation": "Subcontractors should be trained to submit completely separate invoices for any work outside the original agreement, each referencing the specific bid or conversation that authorized it. This keeps base contract costs and change order costs clearly delineated in project management systems.",
+      "quote": "Anything that is not in that original agreement is a completely separate invoice. 100% of the time they're separate invoices referencing a specific bid or conversation."
+    },
+    {
+      "concept": "New Products Require SOP Development and Cost Transparency",
+      "explanation": "When introducing innovative products like mud-in recessed lights, builders must proactively document serviceability limitations, establish a fixed repair cost, and communicate this to clients before installation. Experimenting with new products on spec homes reduces client risk exposure.",
+      "quote": "I think you just have to document that you've told them it's going to be $1,200 to cut it out and replace it. And it may not be available at that time."
+    },
+    {
+      "concept": "Lighting Designers as a Required Project Dependency",
+      "explanation": "For complex lighting scopes, a lighting design consultant should be required before construction proceeds. They coordinate fixture specs, wire types, Lutron/Crestron compatibility, spacing, and light spray calculations. Without this, builders are left guessing on specs that directly affect electrical labor costs and client satisfaction.",
+      "quote": "We have a lighting design designer consultants that packages all of this, the type of wire, the light can, you know, talk to the electrician, make sure it's compatible with Lutron or Crestron or whatever home automation system."
+    }
+  ],
+  "actionable_advice": [
+    "Add three color-coded columns to your budget spreadsheet representing bid-ready, details-to-be-developed, and historical-data price certainty levels so clients can visually assess budget confidence.",
+    "Use the subcontractor pricing guide from the Builder's Edge program, fill in the rooms for a prospect's project, and show it to clients to help them understand how many decisions are still required before reliable pricing can be produced.",
+    "Train subcontractors to always submit separate invoices for change order work versus base bid draw requests, with each invoice referencing the specific bid number or documented conversation that authorized it.",
+    "When using mud-in recessed lights, secure the flange with adhesive and fiberglass mesh tape rather than relying on screws alone, to prevent the flange from pulling away from the drywall as temperatures change.",
+    "Budget $175-$200 per mud-in light for additional drywall finishing costs, and plan for a full level-five finish on any ceiling where mud-in lights or linear slot diffusers are installed.",
+    "Test new lighting products at least three times before installing them in a home, and build a documented repair SOP with a fixed price (e.g., $1,200 per light) before proceeding.",
+    "Use AI tools like ChatGPT to draft difficult client emails, generate demo schedules, and build SOPs, but always cross-verify AI-generated technical information against actual calculations.",
+    "Explore AI cost management tools like Adaptive or Dex that integrate with QuickBooks to auto-cost-code invoices from photos, reducing manual data entry and improving draw package quality.",
+    "Require clients to hire a lighting design consultant on complex projects and make it a condition of building, explaining the value in terms of light spray, compatibility, and color temperature before they push back.",
+    "Post the color-coded budget template in the Builder's Edge course community under both the conceptual budget section and the templates section for members to download and adapt."
+  ],
+  "client_challenges": [
+    "A homeowner understood the budget conceptually but still could not fully grasp how price certainty worked, prompting the creation of the three-column color-coded budget communication tool.",
+    "Janine's prospective clients are comparing multiple builders and pushing for a full trade walk and bid before having engineering, elevations, a lighting plan, or full selections, making accurate pricing impossible.",
+    "Ryan's team is experiencing difficulty managing change orders as projects grow, with trades submitting change order costs bundled into regular draw invoices rather than as separate documented items.",
+    "Dave's team is using mud-in recessed lights for the first time and has encountered a product that cannot be serviced without cutting a 12x12 hole in the ceiling, with no clear repair process yet established.",
+    "An electrical plan from an architect showed 200 recessed cans but did not include under-cabinet lighting, plug molds, or other interior designer-specified electrical items, leading to potential scope gaps if the electrician only prices off the architectural drawings.",
+    "Laurel's team has experienced homeowner complaints about small pin lights not throwing enough light and compatibility issues with Lutron systems, raising the question of whether a lighting designer fee should be included in the project.",
+    "Dave's team installed mud-in tape lighting in a mechanically congested hallway with very low ceiling clearance, only to discover that the raking light effect required a full level-five drywall finish on 80 linear feet of hallway, significantly increasing drywall costs."
+  ],
+  "notable_quotes": [
+    "On budget communication: 'If they could not talk to me or listen to me, how could I do that on paper? And then verbalize what it actually means.'",
+    "On client trust during trade walks: 'The day you walked in with 15 guys behind you ready to price our project, I was sold.'",
+    "On builder accountability for missed scope: 'If I miss it or if we miss it, guess who owns it? And I don't want to do that.'",
+    "On price certainty: 'We leave one to 5% for God to, you know, if something shows up.'",
+    "On responding to unclear clients: 'Our clients tell us a lot about what they actually need and when we can respond well to that, we tend to stay in their world as builders.'",
+    "On AI tools: 'All of building is 80% you know, it's done before. There's a whole, maybe even 60% done before 40% discovery. I know for our homes it's mostly discovery. So like, you're in good hands. This is a crowd that understands the discovery process.'"
+  ]
+}

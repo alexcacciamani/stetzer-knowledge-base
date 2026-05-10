@@ -1,0 +1,82 @@
+{
+  "date": "2026-04-30",
+  "title": "Project Manager Playbook: Systems, Reporting, and Hiring",
+  "session_type": "group_coaching",
+  "summary": "Erin Stetzer walked participants through the core tactical documents used in her project management system, including the weekly progress report, four-week calendar, and action items tracker. She explained the philosophy behind consistent client communication and the decision-making frameworks project managers use daily. The session also covered how to hire project managers, onboard them effectively, and support them when they become overwhelmed.",
+  "teachings": [
+    {
+      "concept": "Weekly Report as a Non-Negotiable System",
+      "explanation": "A weekly progress report is sent 52 times a year on every single project, regardless of who is traveling or unavailable. The report's primary purpose is to set expectations and discipline for the project manager, ensuring all necessary field information is collected throughout the week. The client benefit is a secondary bonus.",
+      "quote": "52 times a year on every single project, this report is sent. And it's sent for a few basic reasons. One, it sets the tone for the project manager that this is happening."
+    },
+    {
+      "concept": "Action Items as the Foundation of Project Control",
+      "explanation": "A live, sortable action items spreadsheet is the core internal tool for project managers. It captures tasks by room, operation, assigned trade, and real start and end dates. The discipline of capturing information in this document—rather than in one's head—is what allows projects to run predictably and allows owners to have visibility without micromanaging.",
+      "quote": "I promise, I promise, I promise, if project managers actually do this, homes work like clockwork. But you have to be so on it."
+    },
+    {
+      "concept": "Four-Week Rolling Calendar as a Client Communication Tool",
+      "explanation": "A simple four-week visual calendar is sent weekly to clients so they can see what is planned on their project in the near term. Four weeks is the ideal window because it gives clients enough time to make adjustments if needed, while two weeks is too short and anything longer can be harder to act on.",
+      "quote": "Four weeks is sort of the sweet spot for that. Two weeks is not quite enough. Two weeks is important internally to run your schedule, but as far as reporting, four weeks tends to work with us."
+    },
+    {
+      "concept": "Action Items Feed the Weekly Report",
+      "explanation": "The three documents—action items, four-week calendar, and weekly report—form a sequential system. Project managers who struggled to populate the weekly report were overwhelmed because they had no structured source of information. When action items are maintained daily, the weekly report becomes straightforward to produce.",
+      "quote": "If you go action items, calendar, weekly report, over and over again, it becomes a really simple system."
+    },
+    {
+      "concept": "The Hot List: Escalating Bottlenecks",
+      "explanation": "Within the weekly report, a red 'hot list' highlights items that are completely blocking the project from moving forward. If not addressed, this section can be moved to the top of the report to ensure it receives immediate attention from clients, architects, or designers.",
+      "quote": "It is, if we don't get this information, we are stuck. We are bottlenecked."
+    },
+    {
+      "concept": "Owner Response to Overwhelmed Project Managers",
+      "explanation": "When a project manager is at or beyond capacity, the owner should step in immediately and increase active involvement—attending weekly check-ins, pulling schedule visibility out to two weeks, four weeks, three months, and six months. This shifts the PM's mindset from reactive overwhelm back to proactive planning.",
+      "quote": "As soon as it happens, I'm in. The second thing I do, and they're not going to like this, but it's really important. I need a two-week schedule. I need a four-week schedule. I need a three-month schedule. And I need a six-month schedule."
+    },
+    {
+      "concept": "Hiring Project Managers Through Trade References and Honest Screening",
+      "explanation": "Erin's hiring process starts with trusted trade partners (electricians, floor installers, home automation) as referral sources, since they work alongside project managers on high-end projects. She then screens for honesty, technical knowledge, and fit through direct conversations, coffee meetings with team members, and pointed construction questions. Candidates who don't know an answer but say so honestly score higher than those who bluff.",
+      "quote": "What I'm looking for is, do they tell the truth?"
+    },
+    {
+      "concept": "Trial Period as Subcontractor Before Employee Status",
+      "explanation": "New project managers begin as subcontractors for two to three months before being considered for full employment. This protects the business, gives the candidate a chance to prove fit, and typically reveals whether someone will succeed within the first four weeks.",
+      "quote": "They're a subcontractor. They're not an employee. You can do two months or three months. But typically within four weeks, you know if they're going to make it or not."
+    },
+    {
+      "concept": "Continuous Learning Through Work Observation and Peer Conversation",
+      "explanation": "Ongoing education for project managers at Erin's company is not formalized into quarterly seminars but instead happens continuously through studying the work on site, asking trades why they do things a certain way, researching on YouTube, and sharing discoveries in weekly team meetings.",
+      "quote": "Most of what we're learning is pretty straightforward with effort, like constantly researching on YouTube, constantly talking to each other, noticing on plans when we're pricing them."
+    }
+  ],
+  "actionable_advice": [
+    "Send a weekly progress report on every active project, every single week without exception, including sections for work performed, work scheduled, material orders, approvals received, modifications, team responsibilities, anticipated problems, and a red hot list.",
+    "Maintain a live action items spreadsheet capturing each task by room, operation, assigned trade, and real (not estimated) start and end dates—update it during or immediately after site visits.",
+    "Send a four-week rolling visual calendar to clients every week alongside the weekly report so they can see upcoming work and make timely decisions.",
+    "When a project manager is overwhelmed, immediately increase owner involvement on site and require them to produce a written two-week, four-week, three-month, and six-month schedule to reset their perspective.",
+    "In weekly team meetings, review construction quality status for every job including what work was checked, what was rejected, what went wrong, and what the recovery plan was.",
+    "Extend the look-ahead for material and architectural lead times to six months in weekly team meetings to prevent late ordering problems.",
+    "When hiring project managers, start with referrals from trusted trade partners such as electricians and flooring installers who work alongside PMs on comparable projects.",
+    "Use a subcontractor trial period of two to three months before hiring a project manager as a full employee.",
+    "Require candidates to answer direct, pointed construction questions during the hiring process and prioritize those who honestly admit what they don't know over those who guess or bluff.",
+    "Allow project managers to choose which day they send the weekly report but hold them firmly to that same day every week for consistency."
+  ],
+  "client_challenges": [
+    "A participant's project manager was operating at 110% capacity and had fallen behind on daily logs and weekly reporting, raising the question of how to reset standards without further overwhelming him.",
+    "Clients were not reading or acting on detailed weekly emails, making participants question whether comprehensive reporting was worth the effort.",
+    "Clients on two major projects were failing to make decisions, forcing the builder to pause both jobs for multiple weeks—a first for the company.",
+    "A participant worried that showing clients too much operational detail through weekly reports could make clients overly inquisitive and hold the builder to unrealistic standards.",
+    "A participant asked how to bridge the gap between the internal action items tracker—which uses real target dates—and clients' expectations when construction realities cause those dates to shift.",
+    "A participant was preparing to hire a project manager and had no clear process for onboarding, ongoing education, or quality control of a new hire's work.",
+    "A participant asked how much time owners should spend on site with project managers and whether it is ever useful to visit without the PM present."
+  ],
+  "notable_quotes": [
+    "On why the reporting system exists: 'The reason that exists was so that I could step away from running projects and I could make sure that they're running the projects. That's why it exists.'",
+    "On project managers' reaction to the weekly reporting system: 'They hate it, but it keeps us on track. We hate it. That's their answer. I'm like, okay, so we got to keep it.'",
+    "On hiring only when the right candidate appears: 'When I didn't think like that, I hired people just to fill the spot, and it was more work for me.'",
+    "On standards: 'Whatever our standard is has to be what we do because if it's not—we're not doing it or we're just choosing when to do it—it's not a standard at all.'",
+    "On transparency with clients: 'It does happen. One out of 100, or one out of 50. And as soon as that does happen, we pull it back. We say, listen, this is not the intent.'",
+    "On the value of on-site observation over formal training: 'To me, it's just studying the home. Like literally, like there's so much we can learn just by looking at the work and asking trades, why do you do this?'"
+  ]
+}

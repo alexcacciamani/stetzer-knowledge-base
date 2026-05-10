@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-09",
+  "title": "Guest Speaker Robert Coreale on Roofing, Waterproofing, and Exterior Systems",
+  "session_type": "guest_speaker",
+  "summary": "Erin Stetzer brought in Robert Coreale of Tile Roofs of Texas, a 32-year roofing veteran, to educate builders on roofing systems including slate, clay tile, flat roofing, and waterproofing. The session covered underlayment types, flashing materials, roof assembly sequencing, pedestal deck systems, and best practices for window and door pans. Participants asked questions about structural considerations, pricing, TPO versus modified bitumen, solar panel mounts, and sourcing subcontractors for pedestal systems.",
+  "teachings": [
+    {
+      "concept": "Layered Underlayment System for Tile and Slate Roofs",
+      "explanation": "Using Grace Ice and Water Shield as the base underlayment topped with a Titanium UDL 30 or 40 provides protection and a replaceable walking surface. The top layer can be peeled off and replaced when soiled by stucco or brick work, leaving a clean surface before tile installation.",
+      "quote": "We always put a titanium UDL 30 or 40 over that, which makes it easy to walk on and easy to change once it gets dirty from the stucco guys or the brake guys."
+    },
+    {
+      "concept": "Copper Flashing as the Standard for Slate Roofs",
+      "explanation": "The Slate Association requires copper flashing, and using anything else can create issues for future homeowners who check manufacturer specifications. Dissimilar metals in contact will corrode, so copper flashing logically leads to copper gutters and copper nails as a complete system.",
+      "quote": "The Slate Association is not going to approve a metal flashing. And it could cause issues in the long run with the next home buyer of the home."
+    },
+    {
+      "concept": "Zinc-Coated Copper as the Replacement for Lead-Coated Copper",
+      "explanation": "Lead-coated copper has been widely used because it does not stain surfaces below it the way plain copper does, but environmental concerns are phasing it out. Zinc-coated copper achieves the same non-staining benefit and is becoming the industry replacement, though it is slightly more expensive.",
+      "quote": "Lead-coated copper is going to probably go away. Zinc-coated copper is coming into style."
+    },
+    {
+      "concept": "Slate Quality and Source Selection",
+      "explanation": "Not all slate is equal. Spanish slates like Samaca and Coupa and Vermont slates are high quality and reliable, while Brazilian and Chinese slates are prone to failure from thermal shock and inconsistent quality between shipments. Builders should avoid lower-quality sources regardless of cost savings.",
+      "quote": "Even though it is slate, there's different qualities, and we would steer away from those, and we'd steer away from the Chinese slates for the same thing because we just can't guarantee their quality."
+    },
+    {
+      "concept": "Roof Loading Sequence and Lead Times",
+      "explanation": "Roofing material should be ordered when framing begins because slate and premium clay tile have approximately three-month lead times. The roof should be loaded before sheetrock to allow the structure to settle under the dead load, and the final tile work against walls should be completed last after all other exterior trades are done.",
+      "quote": "For the most part, slate's going to be three months order time... we want to load the roof before sheetrock."
+    },
+    {
+      "concept": "Window and Door Pan Flashing Best Practices",
+      "explanation": "Sill pans should be made from lead-coated copper to prevent green patina staining on adjacent stone or stucco. Pans must never be punctured by nails from stucco or stone installers. Lath should be soldered directly to the outside of deep window pan flanges so other trades have something to adhere to without penetrating the pan.",
+      "quote": "The stucco guys nail the pans full of holes and we have leaks in the future... do not puncture any pans."
+    },
+    {
+      "concept": "Pedestal Deck System Advantages",
+      "explanation": "A pedestal system elevates the walking surface above the waterproofed deck, allowing drainage to occur below grade and making repairs easy by simply lifting individual panels. It also offers flexibility in drain placement and keeps the walking surface flat even when the structural deck beneath is sloped.",
+      "quote": "If we have a leak, we just take a couple of panels up, fix it and put them back. Also with that, the drains are not visible."
+    },
+    {
+      "concept": "Modified Bitumen vs. TPO for Flat Roofs",
+      "explanation": "TPO is a single-ply product that originated in commercial construction and is more vulnerable to puncture. A three-ply modified bitumen roof is more durable, compatible with copper flashing, and better suited for residential projects with trees or foot traffic. TPO requires its own proprietary flashing system, which creates aesthetic inconsistencies when combined with copper on high-end homes.",
+      "quote": "TPO came around because it's a little less expensive. It's only one ply. It came from commercial. If you have a one or two story in a very wooded area, we would much rather do a three ply modified bit roof."
+    }
+  ],
+  "actionable_advice": [
+    "Order slate or premium clay tile at the start of framing because lead times are approximately three months.",
+    "Load the roof with tile or slate material before sheetrock is installed to allow the structure to settle under dead load.",
+    "Complete all exterior wall work including brick, stucco, fascia, and paint before finishing tile or slate work against walls, and keep other trades off the finished roof.",
+    "Always use copper flashing with slate roofs and avoid mixing copper with other metal flashings to prevent corrosion from dissimilar metals.",
+    "Use lead-coated copper or zinc-coated copper for window and door sill pans on any application where the pan will be covered by stone or stucco to prevent staining.",
+    "Solder stainless steel lath directly to the outside of deep window pan flanges so stucco and stone installers have an adhesion surface without puncturing the pan.",
+    "Have doors and windows physically on site before measuring and fabricating window and door pans to ensure accuracy.",
+    "Use three-quarter inch CDX plywood decking rather than OSB for tile and slate roofs because CDX holds nails better.",
+    "Install pitch pans around every railing support column penetration on a flat roof before applying the roofing membrane.",
+    "Use an interior primary drain plus an overflow scupper set lower than the interior floor level on flat roof terrace applications to prevent interior flooding if the drain clogs.",
+    "When specifying a pedestal deck system, ensure the structural framing is dropped sufficiently below the door threshold to accommodate the full buildup of the pedestal and tile assembly.",
+    "Build a short parapet wall at the edge of pedestal deck systems to conceal the pedestals from view at ground level and tie the tile into the top of the wall.",
+    "Consider switching from TPO to three-ply modified bitumen on residential flat roofs, especially on high-end homes with copper flashing, to maintain material compatibility and improve durability."
+  ],
+  "client_challenges": [
+    "A participant asked how to handle the structural engineering implications of slate and clay tile roofs, including what dead load numbers to provide the engineer.",
+    "A participant in Chicago had a roofer who was omitting a drip edge on composition shingle roofs despite it being called out on architectural plans, and was unsure whether to push back.",
+    "A participant had an architect specify Densdeck on a TPO flat roof but the roofer called it over-design and the homeowner wanted to remove it to save money.",
+    "A participant in Dallas had a pedestal deck system with TPO already installed and materials on hand but could not find any subcontractor willing to install the tile tech pedestal system.",
+    "A participant building a covered pitched deck was struggling to find a product or detail that would allow the pedestal tile to wrap the edge as a fascia element instead of exposing the pedestal underside.",
+    "A participant asked whether TPO was appropriate for a flat roof covering interior finished space versus an exposed outdoor area.",
+    "A participant noted that composition shingle roofing in Canada was coming in around $135,000 for 4,000 square feet, which was significantly higher than US pricing, and sought explanation."
+  ],
+  "notable_quotes": [
+    "On material quality: 'We've made all the mistakes along the way and learned from that.'",
+    "On Brazilian and Chinese slate: 'One shipment may be good, and the next shipment's not. So we've gotten away through the years from the Brazilian slate and the Chinese slate.'",
+    "On puncturing window pans: 'Do not puncture any pans.'",
+    "On TPO versus modified bitumen: 'If you have a one or two story in a very wooded area, we would much rather do a three ply modified bit roof. If a limb falls on a TPO roof from 20 feet up, it's probably going to punch a hole in it.'",
+    "On pedestal system repairs: 'If we have a leak, we just take a couple of panels up, fix it and put them back.'",
+    "On roof pricing: 'Most of the tile and slate roofs we do now are $3,000 a square... a slate roof or tile roof in the quality rain with copper flashing, they're going to be approximately $3,000 a square.'"
+  ]
+}
